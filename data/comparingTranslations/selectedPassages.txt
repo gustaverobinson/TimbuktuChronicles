@@ -1,0 +1,41 @@
+This file contains a passages from a copy of Tarikh al-Fattash which has been manually corrected from
+the OCR produced by HathiTrust. This corrected copy is located in 
+\TimbuktuChronicles\data\corrections\tarikh-al-fattash-ara-pgs15-31-corrected.txt.
+These passages are to be used for display and testing.
+The original book can be found at https://hdl.handle.net/2027/hvd.hndhq3.
+
+This passage is taken from pages 18-19 of the online book at HathiTrust, and lines 95-123 of our corrected 
+version. I removed all footnotes and French notes.
+
+AYAH - 
+- the corresponding French translation of this passage can be found in selectedPassagesFrench.txt.
+
+Now you need to:
+- use machine translation to translate from the french ^ to english
+- use machine translation to translate from the arabic here to english
+- compare the translations
+
+ وجعل يسال العلماء العاملين عن سنّة
+رسول الله صلّى الله عليه وسلّم ويمشى على اقوالهم رحمه الله حتّى اتّفق جميع
+علماء عصره على انّه خليفة وممّن صرح له بذلك الشيخ عبد الرحمن السيوطى
+والشيخ محمد بن عبد الكريم المغيلى والشيخ شمهروش الخبّى والشريف
+الحسنى مولاى العبّاس امير مكّة رحم الله الجميع 1 واقام المسلمين حقوقاً وحرمة
+على نفسه وامر لاهل مُورِكُيْرَ ان يتزوجوا ما شاءوا فيتبعهم اولادهم وهو
+موجود الى الان لم يتبدّل ببركته رحمه الله 2 واعطى الشريف احمد الصفلى
+ناحية القرى والجزائر وامّا الشريف الحسنى مولاى العباس فكان مع امير
+المومنين وخليفة المسلمين اسكى الحاج محمد جالسًا بحذاء الكعبة يتحادثان فقال
+له الشريف مولاى العبّاس يا هذا انت الحادى عشر من الخلفاء الذين ذكر
+رسول الله صلّى الله عليه وسلّم ولاكنّك جئتا ملكًا والملك والخلافة لا يتّفقان
+فقال له كيف ذلك يا سيدى فقال له مولاى العبّاس لا سبيل الى ذلك الّا ان
+تخرج عمّا انت فيه فاذعن له اسكى طوعًا وطرد جميع الوزراء عنه وجمع جميع
+آلات السلطنة واموالها وجعل ذلك كلّه بيد العبّاس وقعد عازلًا لنفسه ودخل
+مولاى العبّاس في الخلوة ثلاثة ايّام ثمّ خرج يوم الجمعة ونادى اسكى الحاج
+محمد واجلسه بمسجد البلدة الشريفة مكّة وجعل على راسه قلنسوة خضراء
+وعمامة بيضاء واعطاه سيفًا واشهد الجماعة الحاضرين انّه خليفة ارض التكرور
+وان كلّ من خالفه في تلك الارض فقد خالف الله تعالى ورسوله ثمّ تهيّا
+اسكى الحاج محمد للرجوع فلمّا وصل مصر وجد هناك الشيخ عبد الرحمن
+السيوطى فساله اسكى عن الخلفاء الذين ذكر رسول الله صلّى الله عليه وسلّم
+انّهم سيأتون بعده فقال الشيخ هم اثنا عشر خمسة منهم بالمدينة واثنان بمصر
+وواحد بالشام واثنان بالعراق وقد مضى هولاء كلّهم وبقى اثنان بارض التكرور
+انت احدهما وياتى بعدك الثانى قبيلتك منسوبة بطورد من اهل اليمن ومسكنك
+بكَوْكَوْ انت مريد منصور عادل كثير الفرح والعطاء والصدقة
