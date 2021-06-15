@@ -7,13 +7,10 @@ The original book can be found at https://hdl.handle.net/2027/hvd.hndhq3.
 This passage is taken from pages 18-19 of the online book at HathiTrust, and lines 95-123 of our corrected 
 version. I removed all footnotes and French notes.
 
-AYAH - 
-- the corresponding French translation of this passage can be found in selectedPassagesFrench.txt.
 
-Now you need to:
-- use machine translation to translate from the french ^ to english
-- use machine translation to translate from the arabic here to english
-- compare the translations
+- the corresponding French translation of this passage can be found in selectedPassagesFrench.txt.
+- Ara2Eng.txt contains the Google Translation of this passage
+- Fra2Eng.txt contains the DeepL Translation of this passage's French translation
 
  وجعل يسال العلماء العاملين عن سنّة
 رسول الله صلّى الله عليه وسلّم ويمشى على اقوالهم رحمه الله حتّى اتّفق جميع
