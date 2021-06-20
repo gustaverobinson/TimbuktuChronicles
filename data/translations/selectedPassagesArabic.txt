@@ -1,4 +1,4 @@
-This file contains a passages from a copy of Tarikh al-Fattash which has been manually corrected from
+This file contains a passage from a copy of Tarikh al-Fattash which has been manually corrected from
 the OCR produced by HathiTrust. This corrected copy is located in 
 \TimbuktuChronicles\data\corrections\tarikh-al-fattash-ara-pgs15-31-corrected.txt.
 These passages are to be used for display and testing.
