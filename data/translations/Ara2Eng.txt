@@ -1,5 +1,5 @@
 Direct translation from Arabic to English:
-This is a machine translation produced by Google Translate directly  from the Arabic passage in selectedPassages.txt.
+This is a machine translation produced by Google Translate directly from part of the Arabic passage in selectedPassages.txt.
 
 It appears that the indirect translation (the machine translation from the French translation into English,
 located in Fra2Eng.txt) is a better translation. I tested other machine translations for Arabic, but they
