@@ -1,4 +1,4 @@
-This is the translation of the Arabic passage in selectedPassages.txt. 
+This is the translation of the Arabic passage in fattash/selectedPassages.txt. 
 The translation is taken from tarikh-al-fattash-fra1.txt, starting from line 660.
 I removed any footnotes that existed in the original, and made minor character corrections 
 in the French OCR output based on the manuscript at HathiTrust.
