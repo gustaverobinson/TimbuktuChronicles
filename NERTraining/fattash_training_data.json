@@ -1,0 +1,1443 @@
+[
+    [
+        "In the name of God, the merciful. May",
+        {
+            "entities": [
+                [
+                    15,
+                    18,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+    [
+        "God shower his blessings on our Lord Muhammad,",
+        {
+            "entities": [
+                [   0,
+                    3,
+                    "PERSON"
+                ],
+                [
+                    37,
+                    45,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+    [
+        "the pious, the devout S\u0131d\u0131 Mahmoud Kati', from a family of",
+        {
+            "entities": [
+                [
+                    22,
+                    40,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+    [
+        "Kourmina', domiciled in Timbuktu and of Udkore origin,",
+        {
+            "entities": [
+                [
+                    0,
+                    9,
+                    "NORP"
+                ],
+                [
+                    24,
+                    32,
+                    "GPE"
+                ],
+                [
+                    40,
+                    46,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "God the Most High will have mercy on him and will allow us to benefit from the favor he has bestowed on him,",
+        {
+            "entities": [
+                [
+                    0,
+                    17,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+    [
+        "Praise be to God, the only one in sovereignty, in power",
+        {
+            "entities": [
+                [
+                    13,
+                    16,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+    [
+        "liberal, who created the heaven and the earth, who taught Adam the name of things",
+        {
+            "entities": [
+                [
+                    40,
+                    45,
+                    "LOC"
+                ],
+                [
+                    58,
+                    62,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+    [
+        "devotees. Then he transmitted the knowledge of the Prophets",
+        {
+            "entities": [
+                [
+                    51,
+                    59,
+                    "NORP"
+                ]
+            ]
+        }
+    ],
+    [
+        "and their authority to the Khalifes, so that it is through them",
+        {
+            "entities": [
+                [
+                    27,
+                    35,
+                    "NORP"
+                ]
+            ]
+        }
+    ],
+    [
+        "He has made them His shadow on the earth and has given them an ornament",
+        {
+            "entities": [
+                [
+                    35,
+                    40,
+                    "LOC"
+                ]
+            ]
+        }
+    ],
+    [
+        "light in a pool. Those who obey them are on the right path and will be",
+        {
+            "entities": [
+                [
+                    17,
+                    22,
+                    "ORG"
+                ]
+            ]
+        }
+    ],
+    [
+        "We praise God because of the abundant favors and ", 
+        {
+            "entities":[
+                [
+                    10,
+                    13,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+    [
+        "of the sultans and khalifes.",
+        {
+            "entities": [
+                [
+                    7,
+                    14,
+                    "NORP"
+                ],
+                [
+                    19,
+                    27,
+                    "NORP"
+                ]
+            ]
+        }
+    ],
+    [
+        "and prostrate ourselves, for He is the One who is the",
+        {
+            "entities": [
+                [
+                    35,
+                    42,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+    [
+        "Supreme Master. Whoever obeys him is on the right path",
+        {
+            "entities": [
+                [
+                    0,
+                    23,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+    [
+        "We proclaim that there is no god but God:",
+        {
+            "entities": [
+                [
+                    37,
+                    40,
+                    "NORP"
+                ]
+            ]
+        }
+    ],
+    [
+        "the Lord's commands, and we will continue to give it, God willing, until",
+        {
+            "entities":[
+                [
+                    4,
+                    8,
+                    "PERSON"
+                ],
+                [
+                    54,
+                    57,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+    [
+        "God willing, the day of our meeting with him, the day when neither",
+        {
+            "entities": [
+                [
+                    0,
+                    3,
+                    "PERSON"
+                ],
+                [
+                    13,
+                    20,
+                    "DATE"
+                ],
+                [
+                    46,
+                    53,
+                    "DATE"
+                ]
+            ]
+        }
+    ],
+    [
+        "and when we must come to God with a pure heart.",
+        {
+            "entities": [
+                [
+                    25,
+                    28,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+    [
+        "We also proclaim that our Lord Mohammed is",
+        {
+            "entities": [
+                [
+                    31,
+                    39,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+    [
+        "the glorious worshipper of God, his merciful messenger,",
+        {
+            "entities": [
+                [
+                    13,
+                    30,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+    [
+        "decisive arguments. God sent him to consolidate Islam, to lead men, to break idols",
+        {
+            "entities": [
+                [
+                    30,
+                    33,
+                    "PERSON"
+                ],
+                [
+                    48,
+                    53,
+                    "ORG"
+                ]
+            ]
+        }
+    ],
+    [
+        "it will continue with khalifat and mercy, etc. \"'.",
+        {
+            "entities": [
+                [
+                    22,
+                    30,
+                    "ORG"
+                ]
+            ]
+        }
+    ],
+    [
+        "cease to be in the truth until the day when the last hour",
+        {
+            "entities": [
+                [
+                    31,
+                    38,
+                    "DATE"
+                ],
+                [
+                    44,
+                    57,
+                    "TIME"
+                ]
+            ]
+        }
+    ],
+    [
+        "the orthodox Khalifes will be torn apart after me.",
+        {
+            "entities": [
+                [
+                    13,
+                    21,
+                    "NORP"
+                ]
+            ]
+        }
+    ],
+    [
+        "after me. God shower his blessings on him and blessings on him and grant him salvation,",
+        {
+            "entities": [
+                [
+                    10,
+                    13,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+    [
+        "May the Lord give them, in default of us, the best of retributions",
+        {
+            "entities": [
+                [
+                    4,
+                    12,
+                    "PERSON"   
+                ]
+            ]
+        }
+    ],
+    [
+        "and may he grant them the highest reward on the day of the last meeting!",
+        {
+            "entities": [
+                [
+                    44,
+                    51,
+                    "DATE"
+                ],
+                [
+                    55,
+                    71,
+                    "TIME"
+                ]
+            ]
+        }
+    ],
+    [
+        "who have walked the earth! The deeds of the rulers, princes, and great ones of the",
+        {
+            "entities": [
+                [
+                    20,
+                    25,
+                    "LOC"
+                ]
+            ]
+        }
+    ],
+    [
+        "earth are one of the things that philosophers and great doctors are wont to tell",
+        {
+            "entities": [
+                [
+                    0,
+                    5,
+                    "LOC"
+                ]
+            ]
+        }
+    ],
+    [
+        "of the Qur'an, to recall the events that time has",
+        {
+            "entities": [
+                [
+                    7,
+                    13,
+                    "WORK_OF_ART"
+                ]
+            ]
+        }
+    ],
+    [
+        "the virtuous Im\u00e2m, the upright Khalifa, the victorious king",
+        {
+            "entities": [
+                [
+                    13,
+                    17,
+                    "PERSON"
+                ],
+                [
+                    31,
+                    38,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+    [
+        "the askia  El-H\u00e2dj Mohammed ben Aboubakar, descendant of the T\u00f4rodo and belonging to a family of Gaoga",
+        {
+            "entities": [
+                [
+                    11,
+                    41,
+                    "PERSON"
+                ],
+                [
+                    61,
+                    67,
+                    "NORP"
+                ],
+                [
+                    97,
+                    102,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "(Gaogao), where his residence was, This prince has made the light of faith succeed among us",
+        {
+            "entities": [
+                [
+                    1,
+                    7,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "God, all the countries submitted to him from the east to the west,",
+        {
+            "entities": [
+                [
+                    0,
+                    3,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+    [
+        "after having been in trouble and misfortune. God the most",
+        {
+            "entities": [
+                [
+                    45,
+                    48,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+    [
+        "of the events of his reign, also mentioning the cursed Shi'i, as far as it has been possible to do so",
+        {
+            "entities": [
+                [
+                    55,
+                    60,
+                    "NORP"
+                ]
+            ]
+        }
+    ],
+    [
+        "my support from God the most high.",
+        {
+            "entities": [
+                [
+                    16,
+                    19,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+    [
+        "I have entitled this book Tarikh el-fetl\u00e1ch fi akhbar el-bould\u00e1n",
+        {
+            "entities": [
+                [
+                    26,
+                    69,
+                    "WORK_OF_ART"
+                ]
+            ]
+        }
+    ],
+    [
+        "oua-l-djouyouch oua-akabir en-n\u00e1s. It talks about",
+        {
+            "entities": [
+                [
+                    0,
+                    33,
+                    "WORK_OF_ART"
+                ]
+            ]
+        }
+    ],
+    [
+        "wars and the main events that took place in the Tekro\u00fbr, as well as of the distribution to be made between the",
+        {
+            "entities": [
+                [
+                    48,
+                    55,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "of the askia El Hadj Mohammed,",
+        {
+            "entities": [
+                [
+                    13,
+                    29,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+    [
+        "Know that God has mercy on us and on you!",
+        {
+            "entities": [
+                [
+                    10,
+                    13,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+    [
+        "that the just Im\u00e2m, the eminent king, the askia El-H\u00e5dj",
+        {
+            "entities": [
+                [
+                    14,
+                    18,
+                    "PERSON"
+                ],
+                [
+                    48,
+                    55,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+    [
+        "Mohammed, as soon as he was elevated to power, organized the Songai",
+        {
+            "entities": [
+                [
+                    0,
+                    8,
+                    "PERSON"
+                ],
+                [
+                    61,
+                    67,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "of the whole army, the dyina-ko\u00efe had the right to sit on a carpet",
+        {
+            "entities": [
+                [
+                    19,
+                    33,
+                    "NORP"
+                ]
+            ]
+        }
+    ],
+    [
+        "at the sovereign's audiences; the dyinai alone also",
+        {
+            "entities": [
+                [
+                    30,
+                    40,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+    [
+        "Everyone had to remove their caps when covering themselves with dust, except for Rourmina-f\u00e1ri.",
+        {
+            "entities": [
+                [
+                    81,
+                    89,
+                    "NORP"
+                ]
+            ]
+        }
+    ],
+    [
+        "Only the Dendi-faris could afford to make frank remarks to the ruler.",
+        {
+            "entities": [
+                [
+                    9,
+                    14,
+                    "NORP"
+                ]
+            ]
+        }
+    ],
+    [
+        "Only the Bara-koi' had a right of veto, which the prince had to take into account",
+        {
+            "entities": [
+                [
+                    9,
+                    13,
+                    "NORP"
+                ]
+            ]
+        }
+    ],
+    [
+        "willy-nilly. Only the Dirma-ko\u00ef was authorized not to",
+        {
+            "entities": [
+                [
+                    22,
+                    27,
+                    "NORP"
+                ]
+            ]
+        }
+    ],
+    [
+        "get off his horse to enter the royal palace.",
+        {
+            "entities": [
+                [
+                    27,
+                    44,
+                    "FAC"
+                ]
+            ]
+        }
+    ],
+    [
+        "Alone in the whole kingdom, the c\u00e2di was authorized to mandate",
+        {
+            "entities": [
+                [
+                    28,
+                    36,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+    [
+        "for him what he would have done for the askia. Nobody could,",
+        {
+            "entities": [
+                [
+                    36,
+                    55,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+    [
+        "in a royal audience, question the prince by name,",
+        {
+            "entities": [
+                [
+                    30,
+                    40,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+    [
+        "except the guissiridonk\u00e9\". No one, unless he was a sheriff, was",
+        {
+            "entities": [
+                [
+                    11,
+                    22,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+    [
+        "The askia also decided that, when the câdis came to him, he would",
+        {
+            "entities": [
+                [
+                    0,
+                    9,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+    [
+        "God have mercy on this prince!",
+        {
+            "entities": [
+                [
+                    0,
+                    3,
+                    "PERSON"
+                ],
+                [
+                    18,
+                    29,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+    [
+        "He also decided to consult the practicing ulama about",
+        {
+            "entities": [
+                [
+                    42,
+                    47,
+                    "NORP"
+                ]
+            ]
+        }
+    ],
+    [
+        "the pilgrims when they returned from Mecca, that the scholars",
+        {
+            "entities": [
+                [
+                    37,
+                    42,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "the traditions of the Messenger of God (God shower his blessings and",
+        {
+            "entities": [
+                [
+                    18,
+                    38,
+                    "PERSON"
+                ],
+                [
+                    40,
+                    43,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+    [
+        "recommendations: God have mercy on him! Therefore, all the",
+        {
+            "entities": [
+                [
+                    17,
+                    20,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+    [
+        "that he was a true Khalifa.",
+        {
+            "entities": [
+                [
+                    19,
+                    26,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+    [
+        "Sheikh Abderrahman Es-Soyo\u00fbti, Sheikh Mohammed ben Abdel\u00fbti, and",
+        {
+            "entities": [
+                [
+                    0,
+                    29,
+                    "PERSON"
+                ],
+                [
+                    31,
+                    59,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+    [
+        "Sheikh Mohammed ben Abdelker\u00eem El-Megh\u00eeli, the Sheikh",
+        {
+            "entities": [
+                [
+                    0,
+                    29,
+                    "PERSON"
+                ],
+                [
+                    45,
+                    51,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+    [
+        "Chamharoûch of the race of the geniuses and the hassanide sheriff",
+        {
+            "entities": [
+                [
+                    0,
+                    11,
+                    "PERSON"
+                ],
+                [
+                    48,
+                    65,
+                    "NORP"
+                ]
+            ]
+        }
+    ],
+    [
+        "Moula\u00ef El-Abbas, prince of Mecca: God have mercy on them all!",
+        {
+            "entities": [
+                [
+                    0,
+                    15,
+                    "PERSON"
+                ],
+                [
+                    27,
+                    32,
+                    "GPE"
+                ],
+                [
+                    34,
+                    37,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+    [
+        "He granted rights to the Muslims and imposed on them marks of respect towards his person. He decided",
+        {
+            "entities": [
+                [
+                    25,
+                    32,
+                    "NORP"
+                ]
+            ]
+        }
+    ],
+    [
+        "that the people of M\u00f3ri-koiras should marry whomever they wished and",
+        {
+            "entities": [
+                [
+                    19,
+                    30,
+                    "NORP"
+                ]
+            ]
+        }
+    ],
+    [
+        "as their fathers, a rule that is still in force today and",
+        {
+            "entities": [
+                [
+                    48,
+                    53,
+                    "DATE"
+                ]
+            ]
+        }
+    ],
+    [
+        "God have mercy on this prince! He gave",
+        {
+            "entities": [
+                [
+                    0,
+                    3,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+    [
+        "to the sheriff Ahmed Es-Seqli' the territory surrounding the",
+        {
+            "entities": [
+                [
+                    15,
+                    30,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+    [
+        "The Hassanid sheriff Moula\u00ef El-Abb\u00e0s was one day with the prince of the believers,",
+        {
+            "entities": [
+                [
+                    4,
+                    12,
+                    "NORP"
+                ],
+                [
+                    21,
+                    36,
+                    "PERSON"
+                ],
+                [
+                    41,
+                    48,
+                    "DATE"
+                ],
+                [
+                    54,
+                    81,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+    [
+        "the khalife of the Moslems, the askia",
+        {
+            "entities": [
+                [
+                    0,
+                    26,
+                    "PERSON"
+                ],
+                [
+                    28,
+                    37,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+    [
+        "El-h\u00e2dj Mohammed, sitting near the Ka'ba, and both were talking",
+        {
+            "entities": [
+                [
+                    0,
+                    16,
+                    "PERSON"
+                ],
+                [
+                    35,
+                    40,
+                    "FAC"
+                ]
+            ]
+        }
+    ],
+    [
+        "together: said to the askia, \"O you who are here,\" said the sheriff Moula\u00ef El-Abb\u00e2s,",
+        {
+            "entities": [
+                [
+                    22,
+                    27,
+                    "PERSON"
+                ],
+                [
+                    68,
+                    83,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+    [
+        "you are the eleventh of the khalifes of whom",
+        {
+            "entities": [
+                [
+                    12,
+                    20,
+                    "ORDINAL"
+                ],
+                [
+                    28,
+                    36,
+                    "NORP"
+                ]
+             ]
+        }
+    ],
+    [
+        "of whom the Envoy of God spoke (God shower his blessings on him and grant him",
+        {
+            "entities": [
+                [
+                    12,
+                    34,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+    [
+        "and one cannot combine the two titles",
+        {
+            "entities": [
+                [
+                    27,
+                    30,
+                    "CARDINAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "asked the askia. -- There is only one way, replied",
+        {
+            "entities": [
+                [
+                    6,
+                    15,
+                    "PERSON"
+                ],
+                [
+                    29,
+                    37,
+                    "CARDINAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "Moula\u00ef El-Abb\u00e2s, it is that you leave your current condition\".",
+        {
+            "entities": [
+                [
+                    0,
+                    15,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+    [
+        "The askia accepted this proposal and, after having removed",
+        {
+            "entities": [
+                [
+                    0,
+                    9,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+    [
+        "gave everything into the hands of El-Abb\u00e2s and",
+        {
+            "entities": [
+                [
+                    34,
+                    42,
+                    "ORG"
+                ]
+            ]
+        }
+    ],
+    [
+        "thus found himself deposed by himself. Moula\u00ef El-Abb\u00e2s",
+        {
+            "entities": [
+                [
+                    39,
+                    54,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+    [
+        "then locked himself up in the retreat during three days, then he left it",
+        {
+            "entities": [
+                [
+                    45,
+                    55,
+                    "DATE"
+                ]
+            ]
+        }
+    ],
+    [
+        "came out of it on Friday, convened the askia El-Hadj Mohammed and",
+        {
+            "entities": [
+                [
+                    18,
+                    24,
+                    "DATE"
+                ],
+                [
+                    45,
+                    61,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+    [
+        "and made him sit in the mosque of the noble city of Mecca.",
+        {
+            "entities": [
+                [
+                    52,
+                    57,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "that he instituted him khalife for the country of Tekro\u00fbr and that",
+        {
+            "entities": [
+                [
+                    50,
+                    57,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "whoever disobeyed his orders in this country would disobey God",
+        {
+            "entities": [
+                [
+                    59,
+                    62,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+    [
+        "God the Most High and his Messenger.",
+        {
+            "entities": [
+                [
+                    0,
+                    17,
+                    "PERSON"
+                ],
+                [
+                    26,
+                    35,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+    [
+        "Then the askia El-H\u00e2dj Mohammed prepared to return",
+        {
+            "entities": [
+                [
+                    15,
+                    31,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+    [
+        "in his States. When he arrived in Cairo, he met Sheikh",
+        {
+            "entities": [
+                [
+                    7,
+                    13,
+                    "GPE"
+                ],
+                [
+                    34,
+                    39,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Abderrahman Es-Soyo\u00fbti and asked him about the Khalifes",
+        {
+            "entities": [
+                [
+                    0,
+                    22,
+                    "ORG"
+                ],
+                [
+                    47,
+                    55,
+                    "NORP"
+                ]
+            ]
+        }
+    ],
+    [
+        "of whom the Messenger of God (God shower his",
+        {
+            "entities": [
+                [
+                    8,
+                    24,
+                    "PERSON"
+                ],
+                [
+                    30,
+                    33,
+                    "PERSON"
+                ]
+            ]
+        }
+    ],
+    [
+        "The sheikh replied: \"There should be twelve,",
+        {
+            "entities": [
+                [
+                    0,
+                    10,
+                    "PERSON"
+                ],
+                [
+                    37,
+                    43,
+                    "CARDINAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "five in Medina, two in Cairo, one in Syria and two in Iraq.",
+        {
+            "entities": [
+                [
+                    0,
+                    4,
+                    "CARDINAL"
+                ],
+                [
+                    8,
+                    14,
+                    "GPE"
+                ],
+                [
+                    16,
+                    19,
+                    "CARDINAL"
+                ],
+                [
+                    23,
+                    28,
+                    "GPE"
+                ],
+                [
+                    30,
+                    33,
+                    "CARDINAL"
+                ],
+                [
+                    37,
+                    42,
+                    "GPE"
+                ],
+                [
+                    47,
+                    50,
+                    "CARDINAL"
+                ],
+                [
+                    54,
+                    58,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "all of them have already reigned; there are still two to come,",
+        {
+            "entities": [
+                [
+                    50,
+                    53,
+                    "CARDINAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "who will reign in the land of Tekro\u00fbr:",
+        {
+            "entities": [
+                [
+                    30,
+                    37,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "you are one of these two and the other will come after you. Your family is related",
+        {
+            "entities": [
+                [
+                    8,
+                    11,
+                    "CARDINAL"
+                ],
+                [
+                    21,
+                    24,
+                    "CARDINAL"
+                ]
+            ]
+        }
+    ],
+    [
+        "to the T\u00f4rodo', who descend from the people of Yemen, and your",
+        {
+            "entities": [
+                [
+                    7,
+                    13,
+                    "NORP"
+                ],
+                [
+                    47,
+                    52,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "residence will be Gaogao. You will be well led, victorious",
+        {
+            "entities": [
+                [
+                    18,
+                    24,
+                    "GPE"
+                ]
+            ]
+        }
+    ]
+]
