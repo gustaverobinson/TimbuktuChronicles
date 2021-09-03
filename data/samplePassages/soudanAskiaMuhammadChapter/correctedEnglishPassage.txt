@@ -1,14 +1,15 @@
-This file will contain selected passages from the automatic translation (via DeepL)
-of the French translation of Tarikh as-Soudan, located in soudan/selectedPassagesFrench.txt.
-Passages are titles and labeled for reference within the original source.
+This file will contain the automatic translation (via DeepL) of the French translation of 
+Chapter 13 of Tarikh as-Soudan, located in soudan/selectedPassagesFrench.txt.
 The English parts here have been corrected by removing reptitions, page numbers, and footnotes/commentary.
 
 French text on HathiTrust: https://hdl.handle.net/2027/hvd.32044019989060
-Arabic text on HathiTrust: https://hdl.handle.net/2027/hvd.32044035034420
 
-PASSAGE 1
+Arabic text on HathiTrust: https://hdl.handle.net/2027/hvd.32044035034420
+(starts at PDF page 79, page 71 of text)
+
 Original French translation: PDF page 147-164, page 117-134, lines lines 5032-5678  in 
 \TimbuktuChronicles\data\tarikh-as-fsoudan-ara.txt
+
 
 Translated with www.DeepL.com/Translator (free version)
 
@@ -80,11 +81,11 @@ completely. We were about to die of heat and thirst.
 The prince then sent to Mour to implore
 God to give them water and to invoke in his prayer the patronage of the
 Prophet (may God shower his blessings on him and
-his blessings and grant him salvation). The holy person 
+his blessings and grant him salvation).
 The holy person shook the messenger and said to him:
 "The Prophet's patronage is too high to be involved in earthly matters.
 to be made to intervene in earthly matters." Then he
-then addressed a prayer to God and immediately a large shower of water
+addressed a prayer to God and immediately a large shower of water
 to drink as they wished.
 The prince had taken with him a body of troops of
 1.500 men: 500 horsemen and 1.000 infantrymen. Among his 

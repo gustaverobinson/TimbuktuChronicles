@@ -1,6 +1,6 @@
 This is the translation of the Arabic passage in soudan/selectedPassages.txt. 
 The translation is taken from tarikh-as-soudan-fra.txt, starting from lines 5032-5678 
-(PDF page 147-164, page 117-134).
+(PDF page 146-164, page 116-134).
 I made some modifications in the text for readability, like removing footnotes
 and combining words that were hyphenated at the end of the line.
 
