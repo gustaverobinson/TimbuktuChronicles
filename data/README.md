@@ -19,9 +19,9 @@ Becomes
 
 5. Chapters should be marked as follows:
  
-    </p>
+<code></p>
     </div>
 
     <div type="chapter" n="12"><head>CHAPITRE XII: Sonni-'Ali</head>
 
-    <p>
+    <p></code>
