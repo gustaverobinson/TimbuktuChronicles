@@ -9,7 +9,7 @@
 
 Becomes
 
-"sultan de Agadez<ref target="1"/>, et la termina au cours de la vingt-deuxième"
+<code>sultan de Agadez<ref target="1"/>, et la termina au cours de la vingt-deuxième</code>
 
 
 3. Mark notes where they have been missed (many notes have been added with regular expressions)
