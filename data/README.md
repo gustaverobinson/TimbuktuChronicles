@@ -16,3 +16,12 @@ Becomes
 
 
 4. If there is Arabic in a footnote, put it in tags <foreign>ZZZ</foreign>. You may need to put the Arabic on a separate line becuase of the letf/right, right/left writing conflict.
+
+5. Chapters should be marked as follows:
+
+    </p>
+    </div>
+
+    <div type="chapter" n="12"><head>CHAPITRE XII: Sonni-'Ali</head>
+
+    <p>
