@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader xml:lang="eng">
+<fileDesc>
+<titleStmt>
+<title xml:lang="eng">Tarikh as-Sudân</title>
+<author>Aberrahmen ben Abdallah ben 'Imran ben 'Amir es-Sa'di.</author>
+<editor xml:lang="fra">O. Houdas</editor>
+<funder>Volunteer</funder>
+<principal>Gregory Crane</principal>
+<respStmt>
+<persName>Gregory Crane</persName>
+<resp>Editor-in-Chief, Perseus Digital Library</resp>
+</respStmt>
+
+</titleStmt>
+<publicationStmt>
+<authority>Perseus Digital Library</authority>
+
+<idno type="filename">TBA.xml</idno>
+<availability>
+<licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
+</availability>
+<date>2021</date>
+<publisher>Perseus Library</publisher>
+<pubPlace>United States</pubPlace>
+</publicationStmt>
+<sourceDesc>
+<listBibl>
+<biblStruct>
+<monogr>
+
+<title xml:lang="eng">Tarikh al-Fattâsh</title>
+<editor>
+<persName>
+    <name xml:lang="fra">O. Houdas</name>
+    <name xml:lang="eng">Gregory Crane</name>
+</persName>
+</editor>
+<author ref="urn:TBA">Mahmoûd Kâti et al.</author>
+
+<imprint>
+<publisher>Ernest Leroux</publisher>
+<pubPlace>Paris</pubPlace>
+<date>1900</date>
+</imprint>
+
+<biblScope unit="pages">TBA</biblScope>
+
+</monogr>
+<ref target="https://babel.hathitrust.org/cgi/pt?id=ien.35556012109526">The Hathi Trust</ref>
+</biblStruct>
+</listBibl>
+</sourceDesc>
+</fileDesc>
+
+
+<encodingDesc>
+
+<p>Text encoded in accordance with the latest EpiDoc standards (January 2014)</p>
+<p>The following text is encoded in accordance with EpiDoc standards and with the CTS/CITE
+Architecture.</p>
+
+
+<refsDecl n="CTS">
+
+<cRefPattern n="cited quotation" matchPattern="(.+).(.+).(.+)"
+replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2']/tei:cit[@n='$3'])">
+<p>This pointer pattern extracts single fragments</p>
+
+
+</cRefPattern>
+
+<cRefPattern n="paragraph" matchPattern="(.+).(.+)"
+replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])">
+<p>This pointer pattern extracts all the fragments classified under the same paragraph number</p>
+</cRefPattern>
+
+<cRefPattern n="book" matchPattern="(.+)"
+replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+<p>This pointer pattern extracts books or sections</p>
+
+</cRefPattern>
+
+
+
+
+</refsDecl>
+
+</encodingDesc>
+<profileDesc>
+<langUsage>
+<language ident="grc">English</language>
+<language ident="grc">French</language>
+<language ident="ara">Arabic</language>
+</langUsage>
+</profileDesc>
+<revisionDesc>
+<change who="Gregory Crane">created the file</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body><pb n="103"/>
+<milestone unit="scannumber" n="131"/>
+
+
+<div type="textpart" subtype="chapter" n="12"><head>CHAPTER XII: <persName>Sonni-'Ali</persName></head>
+
+<p>
+As for that master tyrant, that famous villain, <persName>Sonni-'Ali</persName>, whose name is written with an o placed after the s and an i after the redoubled n, according to the spelling I found fixed in the <title>Dzeil ed-dibâdj</title> of the very learned jurisconsult <persName>Ahmed-Baba</persName> (God most-holy be merciful to him!), he was a man gifted with great strength and powerful energy.
+Wicked, libertine, unjust, oppressor, bloodthirsty, he killed so many men that God alone knows the number. He persecuted the learned and the pious by attacking their lives, their honor or their consideration.
+</p>
+<p>
+Speaking about the main events of the ninth century, the very learned, the scholar, <persName>El-'Alyami</persName> (God have mercy on him!) expresses himself as follows in the commentary of the work of <persName>El-Djelâl-Es-Soyouti, entitled El-Djami-es-ser'irt</persName>: <quote>We
+<note n="1">The full title of this work relating to Muslim traditions is:
+
+<foreign xml:lang="ara">الجامع الصغير من حديث البشير النذير</foreign>
+The commentary referred to is that of <persName>Shems-ed-Dîn-Mohammed-Ei-'Alqami</persName>.</note>
+<pb n="104"/>
+<milestone unit="scannumber" n="132"/>
+
+
+ have learned that there appeared in the country of Tekrour, under the name of <persName>Sonni-'Ali</persName>, a character who causes men to perish and ravages the land. This character began to reign in the year 869<ref target="104.1"/> (1464-1465).</quote></p>
+
+ <p>It is reported that the father of blessings, the saint of God, <roleName>the jurisconsult</roleName>, <persName><roleName>the cadi</roleName>  <persName>Mahmud</persName>-ben-'Omar-ben-Mohammed-Aqît</persName>, was born one year before the advent of <persName>Sonni-'Ali</persName>. This is true. Indeed, I have seen in the <title>Dzeil</title>2 that <persName> <persName>Mahmud</persName></persName> (God have mercy on him!) was born in the year 868 and that he died in the year 955 on Thursday evening, the 16th of the month of Ramadan (October 19, 1548).
+</p>
+<p>
+<persName>Sonni-'Ali</persName> occupied the throne twenty-seven or twenty-eight years.
+His reign was employed in warlike expeditions and conquests of countries. He seized <placeName>Dienné</placeName>, where he stayed for a year and a month. He conquered <placeName>Djondjo</placeName> and allowed the <roleName><placeName>Dirma</placeName>-koï</roleName>3 to enter it on horseback on several occasions. Only the two of them enjoyed this favor which belonged exclusively to the prince of <placeName>Songhaï</placeName>.4 </p>
+<p>
+He also conquered <placeName>Bara</placeName> and <placeName>the territory of the <rs type="ethnic">Senhâdja-Nounou</rs></placeName>, which at that time was ruled by Queen Bikoun-Kâbi. He took <placeName>Timbuktu</placeName> and all the mountains, except <placeName>Domqui</placeName>, which resisted him. He conquered the country of <rs type="ethnic">the Kounta</rs> and intended to inflict the same fate on the country
+<note n="1">866, according to ms. C, which, according to what follows, is surely a copyist's error.</note>
+<note n="2">The <title>Dzeil-ed-Dibâdj</title> of <persName>Ahmed-Baba</persName>, already cited above.</note>
+
+<note n="3">This is probably a title of work: the head of <placeName>Dirma</placeName>.</note>
+
+<note n="4">The text does not specify the town into which the <roleName><placeName>Dirma</placeName>-koï</roleName> had the right to enter on horseback, but it does seem to apply to the town of <placeName>Djondjo</placeName>.</note>
+
+<note n="5">The author writes: "the mountains," presumably to mean the mountainous countries of which the country of <placeName>Dom</placeName> or <placeName>Doum</placeName> was a part.</note>
+
+<note n="6">The <rs type="ethnic">Kounta tribe</rs> is a large <rs type="ethnic">Moorish tribe</rs> of the so-called <placeName>Sahel region</placeName>; its very vast territory extends northwest of <placeName>Timbuktu</placeName> and borders the Adrar country (cf. the Notice sur les Maures du Sénégal et du Soudan, by Commander R. de Lartigue, in the Bulletin du Comité de l'Afrique française, supplement of July 1897).</note>
+<pb n="105"/>
+<milestone unit="scannumber" n="133"/>
+
+ of <placeName>Bergou</placeName>,1 but he could not succeed. His last expedition was directed against the country of <placeName>Gourma</placeName>.2 </p>
+
+<p>
+As soon as <persName>Sonni-'Ali</persName> was invested with sovereign authority, the <roleName><placeName>Timbuktu</placeName>-Koï</roleName>, <persName>Sheikh Mohammed-Naddi</persName>, sent him a letter of greetin and good-wishes. In this letter he asked the prince not to take away his money, as he considered himself one of the prince's family members.</p>
+
+<p>
+Upon his death, the sheikh was replaced in his duties by his son <persName>'Omar</persName>. The latter in turn wrote a letter which was the very opposite of the one his father had addressed to the prince. In this letter, he said that his father had left this world with nothing but two pieces of linen. As for him, he added, he had many forces at his disposal (<ref target="arpage65">٦٥</ref>) and all those who would obstruct him would see what those forces were.</p>
+
+<p>
+On receiving this letter, <persName>Sonni-'Ali</persName> said to his companions:
+<q>What a difference between the spirit of this young man and that of his father! The gap that arises between their speeches is equal to that between their minds.</q></p>
+
+<p>
+<persName>Sonni-'Ali</persName> entered <placeName>Timbuktu</placeName> on the 4th or 5th of the month of redjeb in the year 873 (29 or 30 January 1468), the fourth or fifth year of his accession to the throne. He exercised in this city great, immense and terrible destruction; he set it on fire, ruined it and caused the death of a great number of people.</p> 
+
+<p>
+As soon as Akil had heard of the coming of <persName>Sonni-'Ali</persName>,
+
+<note n="1">Or <placeName>Berkou</placeName>.</note>
+
+<note n="2">Or <foreign>Korma</foreign>. This probably refers to <placeName>the country of Gourma</placeName> which is in <placeName>the loop of the Niger</placeName>.</note>
+
+<note n="3">I have adopted the reading from ms. C which replaces <foreign xml:lang="ara">باله</foreign> with <foreign xml:lang="ara">ماله</foreign>. It is impossible to retain the reading of the printed text, even assuming that the sheikh was asking not to send his children as hostages to the court because he considered himself part of the prince's family.</note>
+<pb n="106"/>
+<milestone unit="scannumber" n="134"/>
+
+
+he had brought a thousand camels and, taking with him <roleName>the jurisconsult</roleName>s of <placeName>Sankore</placeName>, for their fate was what concerned him most, he had set out for <placeName>Biro</placeName>. In this exodus were <persName><roleName>the jurisconsult</roleName> 'Omar-ben-Mohammed-Aqit</persName>, and his three blessed children: <persName><roleName>the jurisconsult</roleName> Abdallah</persName>, <persName><roleName>the jurisconsult</roleName> Ahmed</persName> who was the eldest of the three, and <persName><roleName>the jurisconsult</roleName>  <persName>Mahmud</persName></persName> who was the youngest. The latter, at that time, was a child of five years old, unable to stand on a mount or to walk on foot. He had to be carried on his shoulders and it was <persName>Makkanki</persName>'s grandfather, one of their slaves, who had to carry the burden until the arrival in <placeName>Biro</placeName>. In the group of those who made this journey was the maternal uncle of these young men, <roleName>the jurisconsult</roleName> El-Mokhtar, the grammarian, son of <roleName>the jurisconsult</roleName> Anda-Ag-Mohammed who knew Imam Ez-Zemmouri
+(God have mercy on him!) in <placeName>Biro</placeName> and obtained from him the diploma for teaching the book of <title>Ech-Chifa</title> from <persName><roleName>the cadi</roleName> 'Iyâd</persName> (God have mercy on him!).</p>
+
+<p>
+On the day of departure, one saw middle-aged men, all bearded, trembling with fear when it came to riding a camel, and then falling to the ground as soon as the animal got up. It is because our virtuous ancestors kept their children in their bosom, so that these children grew up without knowing anything about life, because, being young, they had never played. Now, play at this time, forms the man and teaches him a great number of things. The parents then regretted having done so, and when they were back in <placeName>Timbuktu</placeName>, they gave their children time to play and relaxed from the restraint they had imposed on them.</p>
+
+<p>
+The tyrant, the libertine,1 hastened to kill or humiliate
+
+<note n="1">The author often uses these two epithets to refer to <persName>Sonni-'Ali</persName>.</note>
+<pb n="107"/>
+<milestone unit="scannumber" n="135"/>
+ 
+ all the scholars who had remained in <placeName>Timbuktu</placeName>.
+He gave the pretext that they were the friends of <rs type="ethnic">the Tuareg</rs>, indeed members of their elite, and that this was why he was angry with them. He had the mother of <roleName>the jurisconsult</roleName> Mohammed imprisoned, who was <persName>Sata</persName>1, the daughter of <persName>Anda-Ag-Mohammed</persName> (<ref target="arpage66">٦٦</ref>), and he had the two brothers of this lady, <persName><roleName>the jurisconsult</roleName>  <persName>Mahmud</persName></persName> and <persName><roleName>the jurisconsult</roleName> Ahmed</persName>, both sons of <persName><roleName>the jurisconsult</roleName> Anda-Ag-Mohammed</persName>, put to death. In short, he did not cease to inflict misery upon misery, humiliation upon humiliation
+to all the scholars (God preserve us from such a fate!).</p>
+
+<p>
+One day he gave orders to bring to him, to make them his concubines, thirty virgins, daughters of scholars. He was then at the port of <placeName>Kabara</placeName> and wanted these girls to make the journey on foot. So they set out, leaving the women's quarters for the first time2. A servant of the prince accompanied them; he made them walk until, having arrived at a certain place, they were absolutely unable to go any further. The servant informed the prince, who ordered them all to be put to death, which was done (Heaven forbid!). The place where they had stopped is located to the west and very close to <placeName>Amadagha</placeName> and is called:<placeName xml:lang="xara">Fina qadar el-abkâr</placeName>3.</p>
+
+<p>
+After the departure of the scholars for <placeName>Biro</placeName>, <persName>Sonni-'Ali</persName> invested <persName><roleName>the jurisconsult</roleName>, <roleName>cadi</roleName> Habîb</persName>, grandson of <persName><roleName>the seyyid</roleName> Abderrahmân-Et-Temîmi</persName>, with the duties of <roleName>cadi</roleName>, and he had the greatest regard for the paternal cousin of this <roleName>cadi</roleName>, <persName>El-Mamoun</persName>, father of <persName>'Ammâr-Ida-El-Mamoun</persName>. It was to the point that he only called him <q>my father</q> 4. Also, when the prince
+
+ <note n="1">Or <foreign>Sita</foreign>.</note>
+
+<note n="2">Girls very rarely go out among Muslims in the cities, so they are not very used to walking.</note>
+
+<note n="3">That is, <gloss>the threshold of the virgins' fate,</gloss> or, perhaps, with a different vocalization, <gloss>the limit of the virgins' power.</gloss></note>
+
+<note n="4">In conversation Arabs often address each other with expressions such as: 'my cousin', 'my brother', 'my uncle', 'my son', 'my father'. This last formula always marks great deference.</note>
+<pb n="108"/>
+<milestone unit="scannumber" n="136"/>
+
+
+ was dead and everyone began to tell of his misdeeds, El-Mamoun always repeated, <q>I will say no evil of <persName>Sonni-'Ali</persName>; he has always been good to me; never has he acted badly towards me, as he has done towards others.</q> So he said neither good nor bad about him, and this just attitude earned him the consideration of the father of blessings, <persName><roleName>the jurisconsult</roleName>  Mahmud</persName>.</p>
+
+<p>Until the year 875 (1470-1471), <persName>Sonni-'Ali</persName> continued to have scholars put to death or humiliated. Also all those of the people of <placeName>Sankore</placeName> who had remained in the city also fled to <placeName>Biro</placeName>. The prince sent the <persName><roleName><placeName>Timbuktu</placeName>-Koï</roleName>, El-Mokhtår-Mohammed-ben-Naddi</persName>, to pursue the fugitives. The latter caught up with them at <placeName>Ta'djit</placeName>1 where a fight took place in which the most eminent of them were killed. This affair of <placeName>Ta'djit</placeName> is well known.</p>
+
+<p>
+Then turning against the children of <persName><roleName>the cadi</roleName> El-Hay</persName>2 who were in <placeName>Alfa'a-Konko</placeName>3, the prince inflicted on them all sorts of insults and humiliations. Many of them then took refuge in <placeName>Tikda</placeName>. <persName>Sonni-'Ali</persName> then declared that these people had gone to this region to appeal to <rs type="ethnic">the Tuareg</rs> and ask them to come and avenge them from him. He immediately gave the order to massacre all those who who had remained in <placeName>Alfa'a-Konko</placeName> and, after having killed a large number of them, he had the rest imprisoned, men and women (God forbid!). It was because of this, it is said, that from that time to this day the rain did not fall in that place in sufficient quantity to be useful.</p>
+
+<p>
+Thirty men, from among the most prominent, fled from that city and went west (<ref target="arpage67">٦٧</ref>). A certain
+
+<note n="1">Or <placeName>Ta'djit</placeName>i.</note>
+
+<note n="2">Or <foreign>El-Hayy</foreign>.</note>
+
+<note n="3">The ms. C says: <foreign>Alfagha</foreign>. It seems that it is rather the word <foreign>Alfa'a</foreign> which means.
+<gloss>literate</gloss>, <gloss>scholar</gloss>, <gloss>marabout</gloss>.</note>
+<pb n="109"/>
+<milestone unit="scannumber" n="137"/>
+
+
+ day, that in the course of their flight they had arrived at the town of <placeName>Chibi</placeName>, they settled down under a tree to take a nap; they had not eaten anything since the day before and fell asleep. One of them soon awoke and said to his companions:
+<q>I have just seen us all in a dream breaking our fast this very night in paradise.</q> No sooner had he finished these words than horsemen sent by the perfidious, the scoundrel, arrived and put them all to death (God forbid! may he show mercy to all these characters and show them his satisfaction!)</p>
+
+<p>
+On a certain day, in order to affront and torture him, the prince forced <persName><roleName>the jurisconsult</roleName> <persName>Ibrahim</persName>, <roleName>chief of <placeName>Alfa'a-Konko</placeName></roleName></persName>, and son of <persName>Abu-Bekr</persName>, son of <persName><roleName>the cadi</roleName> El-Hay</persName>, to remain in the sunlight in that place. The prince then saw in a dream <persName>Ibrahim</persName>'s father, <persName>Abu-Bekr</persName>, who was beating him vigorously with his stick, saying, <q>May God scatter your children as you have scattered mine!</q> This wish was granted.</p>
+
+<p>
+As for the people of <placeName>Alfa'a-Konko</placeName> who had taken refuge in <placeName>Tikda</placeName>, they remained there and made that city their new home.</p>
+
+<p>Despite all these persecutions he made the scholars endure, <persName>Sonni-'Ali</persName> nevertheless recognized their merits.
+<q>Without the scholars,</q> he said, <q>there would be in this world neither pleasure nor enjoyment.</q> And indeed, he did good to a number of them and treated them with respect. Thus, when he made an expedition against the <rs type="ethnic">Fulani</rs>1 and raided the tribe of <rs type="ethnic">Sonfotir</rs>, he sent a great number of captive women to the notables of <placeName>Timbuktu</placeName>, some to the scholars and saints as gifts, and he enjoined them all to make them their concubines. Those who did not observe the duties of religion did indeed make them their concubines, but the
+
+<note n="1">The <rs type="ethnic">Fulani</rs> or <rs type="ethnic">Foulbés</rs>.</note>
+<pb n="110"/>
+<milestone unit="scannumber" n="138"/>
+ 
+
+men who faithfully follow its precepts married them.</p>
+
+<p>
+Among these was the grandfather of my paternal grandmother, <persName><roleName>the eminent seyyid</roleName>, <roleName>the good man</roleName>, <roleName>the ascetic</roleName>, <roleName>Imam</roleName> Abdallah-El-Belbâli</persName>; he married the woman who had been sent to him and whose name was <persName>'<persName>Aisha</persName>-El-Fulâniya</persName>1. It is from this marriage that <persName>Nâna-Bir-Touri</persName>, the mother of my father's mother, was born. My father was still able to know this <persName>Aisha</persName>; she was extremely old and blind.</p>
+
+<p>Among the traits of character of this libertine tyrant, one must mention the way he played with religion. He would postpone his five daily prayers until the night or the next day, and then he would gesture repeatedly while sitting down and calling each prayer by name2. After which he would make a single final greeting and say, <q>Now divide all this among yourselves, since you know each other well.</q></p>
+
+
+<p>Another feature of his character was that he would give orders to kill someone, even one of the people he esteemed most, without the slightest motive or (<ref target="arpage68">٦٨</ref>) necessity.
+Sometimes he repented of what he had done. So, knowing this, his servants hid and sheltered all those whose murder he had ordered to be repented of. As soon as this repentance appeared they said to him, <q>We have spared him, he is not dead.</q> He was then very happy about this circumstance.</p>
+
+<p>One of his servants <persName>Askia-Mohammed</persName> often acts in this way.
+
+<note n="1">'<persName>Aisha</persName>, the Fulbright.</note>
+
+<note n="2">Instead of doing, for example, the morning prayer at the canonical time, he would do it in the evening at the same time as others, merely saying, "This is the morning prayer, this is the noon prayer, etc." Also to save time he would make the final salutation that ends each prayer only once for the cing prayers.</note>
+<pb n="111"/>
+<milestone unit="scannumber" n="139"/>
+ 
+How many times having received the order to put someone
+death or to imprison him, he did the opposite of what he had been told. This <persName>Askia-Mohammed</persName> acted in this way because he was very energetic and very brave; God had put this energy in his temperament. When it happened to him to be in the face of the violence of the prince, his mother <persName>Kasaï</persName> went to <placeName>Timbuktu</placeName> to find <persName>Nâna-Tinti</persName>, the daughter of <roleName>the jurisconsult</roleName> Abou-Bekr, son of <persName><roleName>the cadi</roleName> El-Hay</persName>; she asked her to pray for God to help her son against <persName>Sonni-'Ali</persName>.
+<q>If God,</q> she said, <q>answers your prayer, he will grant you, if he pleases, all the joys in your children and in your relatives.</q> This promise was fulfilled when he came to power.</p>
+
+<p>
+As for <roleName>Askia</roleName>'s brother, <persName>'Omar-Komzâgho</persName>, he was very docile to the prince's orders, for he was an intelligent and fine man; so the tyrant never caused him the slightest trouble, unlike what he did to his <persName><roleName>secretary</roleName> <persName>Ibrahim</persName>-El-Khidr</persName>. This secretary, originally from <persName>Fez</persName>, had come to settle in <placeName>Timbuktu</placeName> and lived in the neighborhood of the great mosque on the south side pulling a little to the west. <persName>Sonni-'Ali</persName>, who had given him the functions of secretary, gave an order one day to put him to death and to confiscate all his goods. The order was only partly carried out1, for the servants of the prince hid <persName>Ibrahim</persName>. This remained the case until the day when the prince received the book of <title>Risala</title>2. And when he had no one with him who could read it, he cried out, <q>Oh, if <persName>Ibrahim</persName>, the windbag, were here, we should not be in the trouble we are in because of this book!</q> - <q><persName>Ibrahim</persName> is alive,</q> he was told,
+
+<note n="1">The text says: <gloss>the order was carried out,</gloss> without saying in part what the rest indicates.</note>
+
+<note n="2">This anecdote seems to be intended to show that there were no more scholars in <placeName>Timbuktu</placeName>, since no one was able to read this work of law called the <title>Risala</title>.</note>
+<pb n="112"/>
+<milestone unit="scannumber" n="140"/>
+
+ <q>because we hid him.</q> The prince gave the order to bring <persName>Ibrahim</persName>. The latter read the book and was reinstated in his duties. He also received double the money he had lost. In spite of this, he found peace and rest only during the reign of <persName>Askia-Mohammed</persName> who confirmed him in his functions, honored him and treated him generously until the day he died. <persName>Hauïa</persName>1, <persName>Ibrahim</persName>'s son, succeeded his father as secretary, but was attached in this capacity to the person of the inspector appointed by <roleName>Askia</roleName> in <placeName>Timbuktu</placeName>. This new position was honorable and of great importance.</p>
+
+<p>
+<persName>Sonni-'Ali</persName> entered <placeName>Kabara</placeName> in the year 882 (1477); it was in this same year that the king of <placeName>Mossi</placeName>3 entered
+Sâma. In 884 (1479) <persName>Sonni-'Ali</persName> was in <roleName>Tosoko</roleName>. In the same year <persName>Aïda-Hamed</persName> was born, son of the sister of <persName>Alfa- <persName>Mahmud</persName></persName>4. As for  <persName>Mahmud</persName> (God have mercy on him!) he fasted for the first time that year too (<ref target="arpage69">٦٩</ref>). He related that he was then, if I am wrong, seventeen years old, and that he left <placeName>Kabara</placeName> in the year 885 (1480) <note n="6"/>.</p>
+
+<p>In that year in the month of djomâda I (9 July-8 August
+1480) the king of <placeName>Mossi</placeName> entered <placeName>Biro</placeName> which he left in djomada II
+(8 August-7 September 1480); the siege had lasted one month. He demanded from the inhabitants that they give him a wife and he married the daughter of the eminent <persName><roleName>seyyid</roleName> Anda-Naddi-'Ali-benAbou-Bekr</persName>7. He kept her until the advent of the prince of the believers <persName><roleName>Askia</roleName> El-Hâdj-Mohammed</persName>. It was this prince who 
+
+
+
+<note n="1">Or <foreign>Houïa</foreign>.</note>
+
+<note n="2">It was a way of controller of the local administration.</note>
+
+<note n="3">The text simply bears Mouchi, which is for <placeName>Mossi</placeName>; but Mouchi-Koi is found a little further on.</note>
+
+<note n="4">The word Alfa' here has the value of "scholar."</note>
+
+<note n="5">It is often by the time he first jedne that a Muslim knows approximately the date of his birth.</note>
+
+<note n="6">Ms. C says: 805.</note>
+
+<note n="7">This passage in the printed text contains the displacement of a phrase that makes it unintelligible.</note>
+<pb n="113"/>
+<milestone unit="scannumber" n="141"/>
+
+ delivered this woman from the hands of the king of <placeName>Mossi</placeName> after having made war on him and sacked the city; then he married this woman
+in his turn. After the siege, the king of <placeName>Mossi</placeName> fought against the inhabitants of <placeName>Biro</placeName>, defeated them and took their families captive. But, as he was returning with his booty, the inhabitants of <placeName>Biro</placeName> pursued him, fought him and delivered their captive families. <persName>Omar-ben-Mohammed-Naddi</persName>, who at that time was in <placeName>Biro</placeName>, made himself known by his valour and his ardour in battle. He was the first to reach the king of <placeName>Mossi</placeName>1 and knew how to force him to deliver the families that he was taking captive.</p>
+
+<p>
+In the month of Sha'aban of this year (October 8-November 7, 1480) <persName>Alfa'-Mahmud</persName> left <placeName>Biro</placeName> and returned to <placeName>Timbuktu</placeName>. He related (God have mercy on him!) that he then studied the <title>Risâla</title> of <persName>Ibn-Abou-Zeid</persName> under the guidance of <persName>Aida-Hamed</persName>2. We were at the passage relating to the two genuflections in the dawn worship when the king of <placeName>Mossi</placeName> arrived.  <persName>Mahmud</persName> also studied part of this book under the direction of <persName>Ahmed-ben-'Otsmân</persName>, but I do not remember with whom he completed the study. He then began to study the <title>Tehdih</title> under his brother.</p>
+
+<p>
+<persName><roleName>The jurisconsult</roleName> El-Mokhtàr, <roleName>the grammarian</roleName></persName>, <persName> <persName>Mahmud</persName></persName>'s maternal uncle, also returned to <placeName>Timbuktu</placeName>. As for <persName> <persName>Mahmud</persName></persName>'s father, <persName><roleName>the jurisconsult</roleName>, 'Omar-ben-Mohammed-Aqit</persName>, he died there (in <placeName>Biro</placeName>).</p>
+
+<p>
+When the tyrant had ceased to rule,  <persName>Mahmud</persName>, who lived in <placeName>Timbuktu</placeName>, wrote to his brother, <roleName>the jurisconsult</roleName> Abdallah, who was then in <placeName>Tâzekhta</placeName>, a town in the neighborhood of <placeName>Biro</placeName>. In this letter he ordered his brother to come to
+In this letter he ordered his brother to come to <placeName>Timbuktu</placeName>, but the latter answered that he would never come to this city, because the people of Sankoré would not accept him.
+
+<note n="1">This prince bore the title of <placeName>Mossi</placeName>-koï.</note>
+
+<note n="2">The printed text <foreign/>, instead of <foreign/>, the true lesson given by the ms. C.</note>
+
+
+
+
+<pb n="114"/>
+<milestone unit="scannumber" n="144"/>
+ 
+
+took no account of the ties of kinship, nor of filial duties, and poured out slander against one another.
+He added that moreover he did not want to live where the posterity of <persName>Sonni-'Ali</persName> was. Finally, if it was absolutely necessary for him to live in <placeName>Timbuktu</placeName>, he wanted it not to be anywhere else than in the neighborhood of the great mosque in the vicinity of <persName><roleName>Sultan</roleName> El-Oudjli</persName>, the father of <persName>'Omar-Biro</persName>, because he knew the excellent feelings of this personage because of the good relations they had had together when they were neighbors in Tâzekhou.
+neighbors in <placeName>Tâzekhta</placeName>. So he remained in <placeName>Biro</placeName> until his death (God have mercy on him and make us share in his blessings!).</p>
+
+<p>As soon as he was settled in <placeName>Timbuktu</placeName>, the father of blessings, <roleName>the jurisconsult</roleName>  <persName>Mahmud</persName>, assiduously frequented <persName><roleName>the cadi</roleName> Habib</persName> in order to learn from him theology1. This lasted until the day when <persName>Habib</persName>, his master, died and left him (<ref target="70">٧٠</ref>) his duties as <roleName>cadi</roleName> and advising him not to associate with rich people in their homes as soon as he was appointed <roleName>cadi</roleName>. He was only making this recommendation to him to avoid the harm that would result from this association for the weak and unfortunate, for he had been able to judge for himself the disadvantages that this presented.</p>
+
+<p> <persName>Mahmud</persName> complied with the instructions of the deceased (God have mercy on them both and be favorable to us for their sake in this world and the next!)</p>
+
+<p>
+Then Prince <persName>Sonni-'Ali</persName> undertook to dig a canal
+from <placeName>Ras-el-ma</placeName> to reach <placeName>Biro</placeName>2 by water. He deployed for this work all his efforts and was spending the greatest activity on it, when the news came to him
+
+<note n="1">Or <gloss>science</gloss> in a general way. However, it is more likely that the word <foreign xml:lang="ara">علم</foreign> here is used to refer to theology.</note>
+
+<note n="2">This canal was not intended to favor the commerce of this city, but
+to make it easier to attack.</note>
+<pb n="115"/>
+<milestone unit="scannumber" n="145"/>
+ 
+that the king of <placeName>Mossi</placeName> had decided to march against him at the head of his troops and attack him. The place where <persName>Sonni-'Ali</persName> was when he received this news is called <placeName>Chan-Fenech</placeName>1 and that is where the canal stopped. Thus God spared the people of <placeName>Biro</placeName> from the misfortune that threatened them.2 </p>
+
+<p>Then going to meet the king of the <placeName>Mossi</placeName>, <persName>Sonni-'Ali</persName> made contact with him at <placeName>Djiniki-To'oï</placeName>, a town near the city of <placeName>Kobi</placeName> behind the River. The battle took place there and <persName>Sonni-'Ali</persName>, victorious, put the king of <placeName>Mossi</placeName> to flight and pursued him to the limit of his states, into whose territory he entered. This battle took place in the year 888 (1483).</p>
+
+<p>
+<persName>Sonni-'Ali</persName> then retraced his steps; he camped at <placeName>Dira</placeName>, and then set out to conquer the mountains, as previously stated. After that he made an expedition against  <placeName>Gourma</placeName>, was victorious and sacked the country.
+This was his last expedition. On leaving <placeName>Batira</placeName>, he had the rampart of <placeName>Kabara</placeName> called <placeName>Tila</placeName> restored, in the year 890
+(1485).</p>
+
+<p>
+In that year, <persName>El-Hâdj-Ahmed-ben-'Omar-ben-Mohammed-Aqît</persName> went to the East to make the pilgrimage to <placeName>Mecca</placeName> and he returned at the time of the violence of the Kharedjite <persName>Sonni-'Ali</persName>, according to what <persName>Ahmed-Baba</persName> reports, in the Dzeil.
+In 891 (1486), the <placeName>Timbuktu</placeName>-Koi, El-Mokhtàr-ben-Mohammed-Naddi, was arrested and put in prison by order of Sonni-Ali. The following year, in 892 (1487), in the presence of <persName><roleName>the jurisconsult</roleName> Abd-el Djebbâr-Koko</persName>, the name of <persName>Sonni-'Ali</persName> was pronounced in <placeName>Arafa</placeName>3 and <persName>Abd-el-Djebbâr</persName> made imprecations against him. From that moment the power of the prince decayed and soon came to an end.</p>
+
+<note n="1">Or: Chan-Fenes.</note>
+
+<note n="2">That is, the execution of the channel.</note>
+
+<note n="3">Hill in <placeName>Mecca</placeName> where certain ceremonies of the pilgrimage are performed.</note>
+<pb n="116"/>
+<milestone unit="scannumber" n="146"/>
+
+
+<p>The <roleName>Tosoko</roleName>1 affair took place in 893 (1488). It was during this year that the people of <placeName>Timbuktu</placeName> entered
+<placeName>Hauki</placeName> where they remained for five years. Among the people who emigrated at that time were: <persName><roleName>the saint of God</roleName>, Sidi Aboul-Qâsem-Et-Touâti</persName>; the father of blessings, <roleName>the jurisconsult</roleName>  <persName>Mahmud</persName>, his brother El-Hâdj-Ahmed, etc. (God have mercy on them!).
+Moaddib-Zonkâsi died in 894 (1489) (<ref target="arpage71">٧١</ref>) and, in 898
+(1492-93) <persName>Sonni-'Ali</persName>, son of  <persName>Sonni-Mahmud-Da'ou</persName>, died on his way back from his expedition to <placeName>Gourma</placeName>, where he had fought against <rs type="ethnic">the Zeghrâni</rs> and <rs type="ethnic">the Foulâni</rs>. When he arrived in the country of <placeName>Gourma</placeName>, at the moment of his return, he was carried away by a torrent called <placeName>Koni</placeName> and perished by the will of the Mighty, the Almighty, on the 15th of the month of moharrem, the first of the months of the year 898 (November 6, 1492) of the hegira. His children cut open his belly, took out the entrails and filled the cavity with honey so that the body would not be corrupted. But it is claimed that God did this to him2 as a punishment for his life-long tyranny over the people. The army of <persName>Sonni-'Ali</persName> camped at <placeName>Ba'anayiya</placeName>.</p>
+</div>
+</body>
+</text>
+</TEI>

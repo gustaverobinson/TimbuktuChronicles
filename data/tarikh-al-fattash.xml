@@ -108,33 +108,32 @@ replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 <pb n="80"/>
 <div type="textpart" subtype="chapter" n="5">
     <head>Chapter V</head>
-<head>History of the Songai kings of the <roleName>chî</roleName> dynasty and especially of <persName><roleName>chî</roleName> Ali</persName>.</head>
+<head>History of the <rs type="ethnic">Songai</rs> kings of the <roleName>chî</roleName> dynasty and especially of <persName><roleName>chî</roleName> Ali</persName>.</head>
 <p>It is now time for us to return to our subject, which is the biography of the askia. We have dwelt on all these characters1, thus following a path which it was not in our designs to follow; there was indeed no result to be obtained from it, since it is almost certainly the case that the major part of the preceding accounts is fictitious. We ask God the Most High for his forgiveness.
 Lord, be praised and glorified! I declare that there is no other god but you, I ask your forgiveness and return to you.</p>
 
-<p>After the <roleName>chî</roleName>? <persName>Bâro</persName>-Dal-Yombo2 reigned the <roleName>chî</roleName> Mâdogo*, then the <roleName>chî</roleName> Mohammed-Koûkiya, then the <roleName>chî</roleName> Mohammed-,
-Fâri, then the <roleName>chî</roleName>' Balma, then the <roleName>chî</roleName> Souleïmân-Dàma', who, according to some versions, was called Dândi.
-The latter was the ancestor of the inhabitants of the city of Arham.6
+<p>After the <roleName>chî</roleName> <persName>Bâro-Dal-Yombo</persName>2 reigned the <persName><roleName>chî</roleName> Mâdogo</persName>3, then <persName>the <roleName>chî</roleName> Mohammed-Koûkiya</persName>, then <persName>the <roleName>chî</roleName> Mohammed-Fâri</persName>, then <persName>the <roleName>chî</roleName> Balma</persName>, then <persName>the <roleName>chî</roleName> Souleïmân-Dâma</persName>5, who, according to some versions, was called Dândi.
+The latter was the ancestor of the inhabitants of the city of <placeName>Arham</placeName>.6
 
 
 <note n="1">That is, <persName>Kankan-Moûssa</persName>, the kings of the <placeName>Kaniâga</placeName> and the kayamaga.</note>
-<note n="2"><foreign xml:lang="ara">شی</foreign>. This is the dynastic title that the <title>Tarikh es-Soudân</title> spells <foreign>sonni</foreign> and of which the variants <foreign>soun</foreign>, <foreign>sin</foreign>, <foreign>tyin</foreign>, etc., are found. The dynasty of the <roleName>chî</roleName> or sonni, descended from that of the <foreign>diâ</foreign> or <foreign>zâ</foreign> which had preceded it, reigned in <placeName>Gâo</placeName> from 1335 to 1493. It seems, from the testimony of Leo the African, that these two dynasties were of Berber origin; Marmol and Barth shared this opinion.</note>
+<note n="2"><foreign xml:lang="ara">شی</foreign>. This is the dynastic title that the <title>Tarikh es-Soudân</title> spells <foreign>sonni</foreign> and of which the variants <foreign>soun</foreign>, <foreign>sin</foreign>, <foreign>tyin</foreign>, etc., are found. The dynasty of the <roleName>chî</roleName> or <roleName>sonni</roleName>, descended from that of the <foreign>diâ</foreign> or <foreign>zâ</foreign> which had preceded it, reigned in <placeName>Gâo</placeName> from 1335 to 1493. It seems, from the testimony of <persName>Leo the African</persName>, that these two dynasties were of Berber origin; Marmol and Barth shared this opinion.</note>
 
 <note n="3">This prince must have reigned in <placeName>Gâo</placeName> in the early fifteenth century.</note>
 
 <note n="4">Or <placeName>Mâdao</placeName>.</note>
 
-<note n="5">The names of five of the six kings mentioned here are found in the <title>Tarikh es-Soudân</title> in the forms <persName>Bokar-Dalla-Boyombo</persName>, <persName>Mohammed-Da'o</persName>, <persName>Mohammed-Koûkiya</persName>, <persName>Mohammed-Fâr</persName> and <persName>Souleïmân-Dâm</persName>; the list of the <title>Tarikh es-Sudân</title> does not contain a prince by the name of <persName>Balma</persName>, but, on the other hand, it interposes <persName>Mâr-Kiraï</persName> between <persName>Bokar-Dalla-Boyombo</persName> and <persName>Mohammed-Dâ'o</persName> and four kings (<persName>Karbifo</persName>, <persName>Mâr-Faï-Kolli-Djimo</persName>, <persName>Mâr-Arkona</persName> and <persName>Mâr-Arandan</persName>) between <persName>Mohammed-Fâr</persName> and <persName>Souleïmân-Dâm</persName>.</note>
+<note n="5">The names of five of the six kings mentioned here are found in the <title>Tarikh es-Soudân</title> in the forms <persName>Bokar-Dalla-Boyombo</persName>, <persName>Mohammed-Dâ'o</persName>, <persName>Mohammed-Koûkiya</persName>, <persName>Mohammed-Fâr</persName> and <persName>Souleïmân-Dâm</persName>; the list of the <title>Tarikh es-Sudân</title> does not contain a prince by the name of <persName>Balma</persName>, but, on the other hand, it interposes <persName>Mâr-Kiraï</persName> between <persName>Bokar-Dalla-Boyombo</persName> and <persName>Mohammed-Dâ'o</persName> and four kings (<persName>Karbifo</persName>, <persName>Mâr-Faï-Kolli-Djimo</persName>, <persName>Mâr-Arkona</persName> and <persName>Mâr-Arandan</persName>) between <persName>Mohammed-Fâr</persName> and <persName>Souleïmân-Dâm</persName>.</note>
 
 <note n="6">Location about 30 kilometers east of <placeName>Goundam</placeName>, in the <placeName>Kissou</placeName>.</note>
 
 <milestone unit="scannumber" n="109"/>
 <pb n="81"/>
-It was he who defeated the people of the province of <placeName>Mîma</placeName>1, sacked their territory (<ref target="arpage43"/>) and annihilated their power. Previously this province formed a great kingdom, of formidable power, which had broken away from the empire of <placeName>Malli</placeName>. There were in the <placeName>Mîma</placeName> twelve great chiefs, of whom the principal was the <persName>Mîma-kono</persName>2. Among the other princes of the <placeName>Mîma</placeName> was the <persName>Toukifiri-sớma</persName>3; before him the king of the
+It was he who defeated the people of the province of <placeName>Mîma</placeName>1, sacked their territory (<ref target="arpage43"/>) and annihilated their power. Previously this province formed a great kingdom, of formidable power, which had broken away from the empire of <placeName>Malli</placeName>. There were in the <placeName>Mîma</placeName> twelve great chiefs, of whom the principal was the <persName>Mîma-kono</persName>2. Among the other princes of the <placeName>Mîma</placeName> was the <persName>Toukifiri-sôma</persName>3; before him the king of the
 <placeName>Mâssina</placeName> had to stand and cover himself with dust as he swore loyalty to him and took off his boubou4 and then draped himself in it; traces of his capital, ruined today, can still be seen. The title of this prince has continued to the present day, but he who now bears it has fallen away and is obliged to go on foot, having no mount; his authority has disappeared, but his title has remained (praise be to the eternal Sovereign!). The king of <placeName>Mâssina</placeName> goes to visit this personage still, claiming that it brings him good luck; he consults him and asks him to pray for him; he dismounts his mount to greet him and goes to find him in the place where his now ruined capital once stood.</p>
 
 <p>
-The successor of Silmân-Dâma was the tyrant, the debauchee, the accursed, the oppressor, the <roleName>chî</roleName> Ali5, the last king of this 
+The successor of <persName>Silmân-Dâma</persName> was the tyrant, the debauchee, the accursed, the oppressor, <persName>the <roleName>chî</roleName> Ali</persName>5, the last king of this 
 
 
 <note n="1">Name of the region on the left bank of the <placeName type="river">Niger</placeName> between the <placeName>Mâssina</placeName> and the great lakes.</note>
@@ -145,7 +144,7 @@ The successor of Silmân-Dâma was the tyrant, the debauchee, the accursed, the 
 
 <note n="4">This is the word  <foreign xml:lang="ara">قميس</foreign> (shirt) which we translate as "boubou," a term commonly used today to refer to the loose garment in use in Sudan that is in question here.</note>
 
-<note n="5">This king, known as the <roleName>chî</roleName> or <persName>sonni Ali</persName> or <persName>Ali-Ber</persName> (i.e., in Songai "<persName>Ali <addName>the-Great</addName></persName>") ruled from about 1465 to 1492.</note>
+<note n="5">This king, known as the <roleName>chî</roleName> or <persName>sonni Ali</persName> or <persName>Ali-Ber</persName> (i.e., in <rs type="ethnic">Songai</rs> "<persName>Ali <addName>the-Great</addName></persName>") ruled from about 1465 to 1492.</note>
 
 
 <milestone unit="scannumber" n="110"/>
@@ -154,8 +153,8 @@ The successor of Silmân-Dâma was the tyrant, the debauchee, the accursed, the 
 dynasty, whose entourage imitated his ignoble conduct. He was always victorious and sacked all the countries on which he had set his sights. None of his armies was ever routed: always victorious, never defeated. He left no region, no town, no village, from the land of <placeName>Kanta</placeName>1 to <placeName>Sibiridougou</placeName>, without attacking it
 at the head of his cavalry, warring against the inhabitants and ravaging their territory.</p>
 
-<p>The meaning of this word <roleName>chî</roleName> is thus given, according to a text which I have seen, written in the hand of Mahmoûd,2 one of our imâms:
-<quote>The meaning of <roleName>chî</roleName>,</quote> he says, <quote>is <foreign>koï-benendi</foreign>,3 i.e., the khalif of the sultan, his deputy, his substitute.</quote></p>
+<p>The meaning of this word <roleName>chî</roleName> is thus given, according to a text which I have seen, written in the hand of <persName>Mahmûd</persName>,2 one of our imâms:
+<quote>The meaning of <roleName>chî</roleName>,</quote> he says, <quote>is <foreign>koï-benendi</foreign>,3 i.e., the <roleName>khalif</roleName> of the sultan, his deputy, his substitute.</quote></p>
 
 <p>
 The <persName><roleName>chî</roleName> Ali</persName> was a tyrannical king, so hard-hearted that he sometimes had a child thrown into a mortar and forced the mother to pound it, the latter having to pound her child while it was still alive; the flesh was then fed to the horses. He was debauched and impious, so much so that one of the sheikhs of his time, inhabiting <placeName>Môri-Koïra</placeName>, was asked whether this prince was a Muslim or an infidel, his actions being those of an infidel although he pronounced the double profession of Muslim faith and spoke as one well versed in the things of religion.</p>
@@ -167,18 +166,18 @@ The <persName><roleName>chî</roleName> Ali</persName> was a tyrannical king, so
 
 <note n="2">We do not know which character is being referred to here.</note>
 
-<note n="3"> <foreign xml:lang="ara">كى بنند</foreign>. This expression can indeed mean <gloss>replace the chief</gloss> or <gloss>supplement the chief</gloss> in the Songai language, but this indication does not tell us anything about the origin or etymology of the word <roleName>chî</roleName>.</note>
+<note n="3"> <foreign xml:lang="ara">كى بنند</foreign>. This expression can indeed mean <gloss>replace the chief</gloss> or <gloss>supplement the chief</gloss> in the <rs type="ethnic">Songai</rs> language, but this indication does not tell us anything about the origin or etymology of the word <roleName>chî</roleName>.</note>
 <milestone unit="scannumber" n="111"/>
 <pb n="83"/> 
-all sorts of tortures on people: sometimes he used fire to make them perish, sometimes (<ref target="arpage44"/>) he had a living being walled up to let him die like that, and finally he had the belly of a living woman cut open to remove the fætus!
+all sorts of tortures on people: sometimes he used fire to make them perish, sometimes (<ref target="arpage44"/>) he had a living being walled up to let him die like that, and finally he had the belly of a living woman cut open to remove the foetus!
 In sum, his acts of cruelty and his disastrous administrative procedures were so numerous that this volume would not be sufficient to enumerate them.</p>
 
-<p>He was invested with the kingship of Songai in the year 69 of the
-ninth century [September 3, 1464 - August 23, 1465] and held power for twenty-seven years, four months and fifteen days, that is, until the year 897 [November 4, 1491 - October 22, 1492], according to what I have extracted from the work entitled <title>Dorer el-hisân fî akhbâr ba'd moloûk es-Soûdân</title>, a work whose author is <persName>Bâba Goûro ben El-Hâdj Mohammed ben El-Hâdj El-Amîn Gânoû</persName>1.</p>
+<p>He was invested with the kingship of <rs type="ethnic">Songai</rs> in the year 69 of the
+ninth century [September 3, 1464 - August 23, 1465] and held power for twenty-seven years, four months and fifteen days, that is, until the year 897 [November 4, 1491 - October 22, 1492], according to what I have extracted from the work entitled <title>Dorer el-hisân fî akhbâr ba'd moloûk es-Soûdân</title>, a work whose author is <persName>Bâba Goûro ben <persName><roleName>El-Hâdj</roleName> Mohammed</persName> ben El-Hâdj El-Amîn Gânoû</persName>1.</p>
 
-<p>He had no enemies whom he hated as keenly as the <rs type="ethnic">Fulani</rs> and could not see a <rs type="ethnic">Fulani</rs> without killing him no matter who he was, scholar or ignorant, man or woman2, He did not accept any <rs type="ethnic">Fulani</rs> scholar either in the political administration or in the judiciary. He decimated the Sangaré tribe3 and left only a tiny fraction of it remaining, which was able to
+<p>He had no enemies whom he hated as keenly as the <rs type="ethnic">Fulani</rs> and could not see a <rs type="ethnic">Fulani</rs> without killing him no matter who he was, scholar or ignorant, man or woman2, He did not accept any <rs type="ethnic">Fulani</rs> scholar either in the political administration or in the judiciary. He decimated the <rs type="ethnic"><Sangaré tribe/rs>3 and left only a tiny fraction of it remaining, which was able to
 
-<note n="1">This work, whose title means roughly <title>the beautiful pearls of the history of a part of the kings of Sudan</title> (<foreign xml:lang="ara">درر الحسان في اخبار بعض ملوك السودان</foreign>), is unknown to us; it would no doubt be interesting to find a copy. <persName>Mohammed ben El-Amin Gânoû</persName> (or Kâno), father of the author of this work, is cited by the <title>Tarikh es-Soudân</title> as having miraculously escaped the massacre to which the jurisconsults of <placeName>Timbuktu</placeName> fell victim on October 20, 1593 (Cf. Tarikh es-Soudan, translation, pp. 258-261). <persName>Mahmoud Kâti</persName> had been dead for about a month at that time. From other excerpts from the same work which will be found quoted below, it appears that it was composed no earlier than the middle of the seventeenth century.</note>
+<note n="1">This work, whose title means roughly <title>the beautiful pearls of the history of a part of the kings of Sudan</title> (<foreign xml:lang="ara">درر الحسان في اخبار بعض ملوك السودان</foreign>), is unknown to us; it would no doubt be interesting to find a copy. <persName>Mohammed ben El-Amin Gânoû</persName> (or Kâno), father of the author of this work, is cited by the <title>Tarikh es-Soudân</title> as having miraculously escaped the massacre to which the jurisconsults of <placeName>Timbuktu</placeName> fell victim on October 20, 1593 (Cf. Tarikh es-Soudan, translation, pp. 258-261). <persName>Mahmûd Kâti</persName> had been dead for about a month at that time. From other excerpts from the same work which will be found quoted below, it appears that it was composed no earlier than the middle of the seventeenth century.</note>
 		
 
 
@@ -194,20 +193,20 @@ ninth century [September 3, 1464 - August 23, 1465] and held power for twenty-se
 <p>He would seize Muslims of free condition and give them away to other Muslims, claiming to be making an act of generosity by doing so.</p>
 
 <p>
-The people of his time and his soldiers had given him the nickname of <addName>Dâli</addName> as an honorary title and whenever he called out to someone, they would reply, <quote><addName>Dâli</addName> !</quote> One of our friends, <persName>Mohammed <rs type="ethnic">Ouangara</rs> ben Abdallah ben Sandioûka El-Foulâni</persName>1 (God have mercy on him!) told me that he had heard it said by <persName>Aboulabbâs Sîdi Ahmed ben Anda-ag-Mohammed</persName> (God have mercy on him! ): <quote>It is not lawful to give such a nickname to anyone, for this word means <gloss>the most high</gloss>2 and must be reserved for the Master of all power, who is God the most high.</quote> The same is true of Doúlinta those who say Doúrinta commit a fault - an expression which means "the slave of the Master3": now, by "Master" who used this expression meant the chî4 (the curse of God (<ref target="arpage45"/>) be upon him!). As for this term Dáli, it is used today only when addressing the Koûma-koï5 and the <roleName><placeName>Dienné</placeName>-koï</roleName>. It is appropriate that scrupulous people and tâlebs pay attention to the above remark.</p>
+The people of his time and his soldiers had given him the nickname of <addName>Dâli</addName> as an honorary title and whenever he called out to someone, they would reply, <quote><addName>Dâli</addName> !</quote> One of our friends, <persName>Mohammed <rs type="ethnic">Wangara</rs> ben Abdallah ben Sandioûka El-Foulâni</persName>1 (God have mercy on him!) told me that he had heard it said by <persName>Aboulabbâs Sîdi Ahmed ben Anda-ag-Mohammed</persName> (God have mercy on him! ): <quote>It is not lawful to give such a nickname to anyone, for this word means <gloss>the most high</gloss>2 and must be reserved for the Master of all power, who is God the most high.</quote> The same is true of <foreign>Doûlinta</foreign> those who say <foreign>Doûrinta</foreign> commit a fault - an expression which means <gloss>the slave of the Master</gloss>3: now, by "Master" who used this expression meant the chî4 (the curse of God (<ref target="arpage45"/>) be upon him!). As for this term <foreign>Dâli</foreign>, it is used today only when addressing the <roleName><placeName>Koûma</placeName>-koï</roleName>5 and the <roleName><placeName>Dienné</placeName>-koï</roleName>. It is appropriate that scrupulous people and tâlebs pay attention to the above remark.</p>
 
 
-<note n="1">That is, "Muhammad the <rs type="ethnic">Ouangara</rs> son of Abdallah son of Sandioûka. <foreign xml:lang="ara">سنجوك</foreign> the <rs type="ethnic">Fulani</rs>."</note>
+<note n="1">That is, <quote><persName>Muhammad the <rs type="ethnic">Wangara</rs> son of Abdallah son of Sandioûka. <foreign xml:lang="ara">سنجوك</foreign> the <rs type="ethnic">Fulani</rs></persName>.</quote></note>
 
-<note n="2">It is likely in the Songai language that <foreign>dâli</foreign> has this meaning.</note>
+<note n="2">It is likely in the <rs type="ethnic">Songai</rs> language that <foreign>dâli</foreign> has this meaning.</note>
 
-<note n="3">In today's Songai language "the slave of the master" can expressed <foreign>doû-ditam</foreign>.</note>
+<note n="3">In today's <rs type="ethnic">Songai</rs> language "the slave of the master" can expressed <foreign>doû-ditam</foreign>.</note>
 
-<note n="4">The author probably means that the slaves or servants of the <roleName>chî</roleName> were given the appellation of slaves of the Master, which amounted to conferring on the <roleName>chî</roleName> a title that belongs only to God, such as that of "Most High."</note>
-<note n="5"><foreign xml:lang="ara">كومكى</foreign>. This term, whose second part (<foreign>koï</foreign>) means <gloss>chief</gloss> in Songai, may apply to the chief of <placeName>Koûma</placeName> or <placeName>Goûma</placeName>, a town southeast of <placeName>Saraſéré</placeName>, or to the chief of some other village of similar name.</note>
+<note n="4">The author probably means that the slaves or servants of the <roleName>chî</roleName> were given the appellation of slaves of the Master, which amounted to conferring on the <roleName>chî</roleName> a title that belongs only to God, such as that of <quote>Most High</quote>.</note>
+<note n="5"><foreign xml:lang="ara">كومكى</foreign>. This term, whose second part (<foreign>koï</foreign>) means <gloss>chief</gloss> in <rs type="ethnic">Songai</rs>, may apply to the chief of <placeName>Koûma</placeName> or <placeName>Goûma</placeName>, a town southeast of <placeName>Saraſéré</placeName>, or to the chief of some other village of similar name.</note>
 <milestone unit="scannumber" n="113"/>
 <pb n="85"/>
-<p>This <roleName>chî</roleName> spent his entire reign in warlike expeditions: he had royal residences at <placeName>Koûkiya</placeName>1, at <placeName>Gâo</placeName> and at <placeName>Kabara</placeName>2; the latter was called <placeName>Tila</placeName>; he had yet another at <placeName>Ouara</placeName><ref target="p.104n4"/>in the province of <placeName>Dirma</placeName>5: this one was in the vicinity of the city of <placeName>Ankaba</placeName>6 and faced the city of <placeName>Diendiao</placeName>7; but he did not stay in any of them. The <roleName>chî</roleName> who had preceded him resided in <placeName>Koûkiya</placeName>, but the <persName><roleName>chî</roleName> Ali</persName>, this scoundrel, was constantly on expeditions.</p>
+<p>This <roleName>chî</roleName> spent his entire reign in warlike expeditions: he had royal residences at <placeName>Koûkiya</placeName>1, at <placeName>Gâo</placeName> and at <placeName>Kabara</placeName>2; the latter was called <placeName>Tila</placeName>; he had yet another at <placeName>Wara</placeName><ref target="p.104n4"/>in the province of <placeName>Dirma</placeName>5: this one was in the vicinity of the city of <placeName>Ankaba</placeName>6 and faced the city of <placeName>Diendiao</placeName>7; but he did not stay in any of them. The <roleName>chî</roleName> who had preceded him resided in <placeName>Koûkiya</placeName>, but the <persName><roleName>chî</roleName> Ali</persName>, this scoundrel, was constantly on expeditions.</p>
 
 <p>At the beginning of his reign, he had gone to the city of <placeName>Dîreï</placeName>8.  Then, having had news of the king of <rs type="ethnic">the Môssi</rs> named <persName><persName>Komdâo</persName></persName>9, he left <placeName>Dîreï</placeName> to put himself in a position to meet him,
 
@@ -217,15 +216,15 @@ The people of his time and his soldiers had given him the nickname of <addName>D
 
 <note n="3"><placeName>Tila</placeName> is a locality in the suburbs of Kabara, east of that city.</note>
 
-<note n="4"> <foreign xml:lang="ara">ورع</foreign>. Ouara or Aouré is on the right bank of the <placeName type="river">Niger</placeName> (or <placeName>Issa-Ber</placeName>) about twenty kilometers north of  <placeName>Lake Débo</placeName>.</note>
+<note n="4"> <foreign xml:lang="ara">ورع</foreign>. Wara or Aouré is on the right bank of the <placeName type="river">Niger</placeName> (or <placeName>Issa-Ber</placeName>) about twenty kilometers north of  <placeName>Lake Débo</placeName>.</note>
 
 <note n="5"><placeName>Dirma</placeName> is, strictly speaking, the province between the <placeName>Issa-Ber</placeName> and the <placeName>Bara-Issa</placeName>, north of <placeName>Lake Débo</placeName>; the same name is sometimes given, by extension, to the entire <placeName>Niger region</placeName> between <placeName>Dienné</placeName> and <placeName>Timbuktu</placeName>.</note>
 
-<note n="6"><foreign xml:lang="ara">لنكب</foreign>.  This is probably the village of <placeName>Diankabé</placeName>, located on the <placeName>Bara-Issa</placeName>, east of <placeName>Ouara</placeName>.</note>
+<note n="6"><foreign xml:lang="ara">لنكب</foreign>.  This is probably the village of <placeName>Diankabé</placeName>, located on the <placeName>Bara-Issa</placeName>, east of <placeName>Wara</placeName>.</note>
 
-<note n="7"><foreign xml:lang="ara">جنجو</foreign>.  Village on the left bank of the <placeName type="river">Niger</placeName> (<placeName>Issa-Ber</placeName>), opposite <placeName>Ouara</placeName>.</note>
+<note n="7"><foreign xml:lang="ara">جنجو</foreign>.  Village on the left bank of the <placeName type="river">Niger</placeName> (<placeName>Issa-Ber</placeName>), opposite <placeName>Wara</placeName>.</note>
 
-<note n="8"><foreign xml:lang="ara">دير</foreign> in A and B, <foreign xml:lang="ara">ديرى</foreign> in C: this is most likely <placeName>Dîreï</placeName> or <placeName>Dîré</placeName>, near to, and north of, <placeName>El-Oualedji</placeName>, east of <placeName>Lake Fati</placeName>; it could also, an least in A and B, read <foreign>Déra</foreign>, east of <placeName>Lake Débo</placeName> and a little upstream of the southern tip of <placeName>Lake Korienza</placeName>.</note>
+<note n="8"><foreign xml:lang="ara">دير</foreign> in A and B, <foreign xml:lang="ara">ديرى</foreign> in C: this is most likely <placeName>Dîreï</placeName> or <placeName>Dîré</placeName>, near to, and north of, <placeName>El-Waledji</placeName>, east of <placeName>Lake Fati</placeName>; it could also, an least in A and B, read <foreign>Déra</foreign>, east of <placeName>Lake Débo</placeName> and a little upstream of the southern tip of <placeName>Lake Korienza</placeName>.</note>
 
 <note n="9">This is probably <persName>Nâsséré <genName>I</genName></persName> or <persName>Nâssodoba</persName>, who ruled over <rs type="ethnic">the Môssi</rs> (<foreign xml:lang="ara">موشى</foreign>) of <placeName>Yâtenga</placeName> from 1475 to about 1500 and who pillaged <placeName>Walata</placeName> in 1480; it was on his return from <placeName>Walata</placeName>, in 1483, that he was attacked by <persName> <roleName>the chî</roleName> Ali</persName>, according to the <title>Tarikh es-Soudân</title>, and it was against this prince, whom this work calls <persName>Nâsséré</persName> <foreign xml:lang="ara">نعسر</foreign>, that <persName><roleName>the askia</roleName> Muhammad</persName> made an expedition in 1498. The word <foreign>kom</foreign> seems to be in Mossi a kind of title; <surname>Komdâo</surname> (<foreign xml:lang="ara">كمداع</foreign>) was perhaps a surname of <persName><roleName>the emperor</roleName> Nasseri</persName>. According to our author, the battle of <placeName>Kobi</placeName> would have taken place at the beginning of <persName>Ali</persName>'s reign and before the march of <rs type="ethnic">the Môssi</rs> on <placeName>Walata</placeName>, as we shall see later.</note>
 <milestone unit="scannumber" n="114"/>
@@ -244,11 +243,11 @@ The <persName><roleName>chî</roleName> Ali</persName> then retraced his steps, 
 
 <note n="2">That is, as far as the country of the Bambara, which, speaking from the north, begins about the height of <placeName>Dienné</placeName>.</note>
 
-<note n="3"><foreign xml:lang="ara">بنبر</foreign>. Probably a locality in <placeName>Yâtenga</placeName>; local traditions say that at the time in question the ruler's usual residence was at Sissamba, near and southwest of Ouahigouya.</note>
+<note n="3"><foreign xml:lang="ara">بنبر</foreign>. Probably a locality in <placeName>Yâtenga</placeName>; local traditions say that at the time in question the ruler's usual residence was at Sissamba, near and southwest of Wahigouya.</note>
 
-<note n="4">This personage, who belonged to a <rs type="ethnic">Zenâga</rs> family originally from <placeName>Chinguetti</placeName> (<placeName>Adrar Mauritanien</placeName>), was chief or mayor of <placeName>Timbuktu</placeName> (in Songai <roleName><placeName>Timbuktu</placeName>-koï</roleName>) at the time when the rule of the emperor of <placeName>Malli</placeName> ceased to be exercised over that city (1433); He remained in office during the reign of the Tuareg <persName><roleName>sultan</roleName> Akil</persName>, who was suzerain of <placeName>Timbuktu</placeName> from 1433 to 1467. The <title>Tarikh es-Soudân</title> has <persName>Muhammad Naddi</persName> die between the advent of <persName><roleName>chî</roleName> Ali</persName> (1464-1465) and his entry to  <placeName>Timbuktu</placeName> (29 or 30 January 1468): he could therefore not have accompanied this prince on his return from the battle of <placeName>Kobi</placeName>, if one were to adopt the date of 1483 given to this battle by the above-mentioned work.</note>
+<note n="4">This personage, who belonged to a <rs type="ethnic">Zenâga</rs> family originally from <placeName>Chinguetti</placeName> (<placeName>Adrar Mauritanien</placeName>), was chief or mayor of <placeName>Timbuktu</placeName> (in <rs type="ethnic">Songai</rs> <roleName><placeName>Timbuktu</placeName>-koï</roleName>) at the time when the rule of the emperor of <placeName>Malli</placeName> ceased to be exercised over that city (1433); He remained in office during the reign of the Tuareg <persName><roleName>sultan</roleName> Akil</persName>, who was suzerain of <placeName>Timbuktu</placeName> from 1433 to 1467. The <title>Tarikh es-Soudân</title> has <persName>Muhammad Naddi</persName> die between the advent of <persName><roleName>chî</roleName> Ali</persName> (1464-1465) and his entry to  <placeName>Timbuktu</placeName> (29 or 30 January 1468): he could therefore not have accompanied this prince on his return from the battle of <placeName>Kobi</placeName>, if one were to adopt the date of 1483 given to this battle by the above-mentioned work.</note>
 
-<note n="5">This is the character who was later to become king of Songai and who was then one of the officers of the <persName><roleName>chî</roleName> Ali</persName>. About the use of the title of <roleName>askia</roleName> in the time of the <roleName>chî</roleName>, see what the author says a little further on.</note>
+<note n="5">This is the character who was later to become king of <rs type="ethnic">Songai</rs> and who was then one of the officers of the <persName><roleName>chî</roleName> Ali</persName>. About the use of the title of <roleName>askia</roleName> in the time of the <roleName>chî</roleName>, see what the author says a little further on.</note>
 
 <note n="6">This character will be discussed further below; the title given to him and his colleague Usman means "chief" or "governor" in the <rs type="ethnic">Mandinka</rs> language and is spelled <foreign xml:lang="ara">برن</foreign> or <foreign xml:lang="ara">فارن</foreign></note>
 
@@ -258,7 +257,7 @@ The <persName><roleName>chî</roleName> Ali</persName> then retraced his steps, 
 <milestone unit="scannumber" n="115"/>
 
 <pb n="87"/> 
-found himself in the land of <rs type="ethnic">the Bambara</rs>; he made the prayer of the Feast [of the breaking of the fast] in <placeName>Koutté</placeName>1, then returned to <placeName>Koûnâ</placeName>.2 From <placeName>Koûnâ</placeName>, he made an expedition against <persName>Bisma</persName>3, whom he killed. Then he went to <placeName>Tamsa</placeName>4, where he was in the time of Ramadan, and it is in <placeName>Tamsa</placeName> that he made the prayer of the Feast5. From there, he went in pursuit of the <rs type="ethnic">Beïdân</rs>6, until the day when, having arrived at <placeName>Dâ</placeName>7 he killed <persName><roleName>the môddibo</roleName> Ouara</persName>8. Then he went to <placeName>Fakiri</placeName>9 and left <placeName>Fakiri</placeName> to return to <placeName>Tamsa</placeName>, where he was at the time of Ramadan; it was in <placeName>Tamsa</placeName> that he performed the prayer of the Festival. He seized the person of <persName>El-Mokhtâr</persName>10 in the city of <placeName>Kikéré</placeName>11 and fought the inhabitants of <placeName>Tondi</placeName> 12. Then he returned in the direction of 
+found himself in the land of <rs type="ethnic">the Bambara</rs>; he made the prayer of the Feast [of the breaking of the fast] in <placeName>Koutté</placeName>1, then returned to <placeName>Koûnâ</placeName>.2 From <placeName>Koûnâ</placeName>, he made an expedition against <persName>Bisma</persName>3, whom he killed. Then he went to <placeName>Tamsa</placeName>4, where he was in the time of Ramadan, and it is in <placeName>Tamsa</placeName> that he made the prayer of the Feast5. From there, he went in pursuit of the <rs type="ethnic">Beïdân</rs>6, until the day when, having arrived at <placeName>Dâ</placeName>7 he killed <persName><roleName>the môddibo</roleName> Wara</persName>8. Then he went to <placeName>Fakiri</placeName>9 and left <placeName>Fakiri</placeName> to return to <placeName>Tamsa</placeName>, where he was at the time of Ramadan; it was in <placeName>Tamsa</placeName> that he performed the prayer of the Festival. He seized the person of <persName>El-Mokhtâr</persName>10 in the city of <placeName>Kikéré</placeName>11 and fought the inhabitants of <placeName>Tondi</placeName> 12. Then he returned in the direction of 
 
 <foreign xml:lang="ara"></foreign>
 <note n="1"><foreign xml:lang="ara">كتتع</foreign>. This locality must have been on the right bank of the Bani, about opposite <placeName>Dienné</placeName>.</note>
@@ -295,20 +294,20 @@ was in that city at the time of Ramadan and it was there that he performed the F
 <p>The army of <persName><roleName>chî</roleName> Ali</persName> was then at the village of <placeName>Mansoura</placeName>4.
 The prince was in <placeName>Mansoura</placeName> at the beginning of the month of Ramadan; he made the prayer of the Feast in <placeName>Koûkiya</placeName>, then he turned back to return to <placeName>Gâo</placeName>. He then left at the head of his troops on the side of <persName>Azaouat</persName>3, and it was at the time of this
 
-<note n="1"><foreign xml:lang="ara">سور بنتنبع</foreign>. The <title>Tarikh es-Sudan</title> speaks of a country of this name as located "in the <placeName>Malli</placeName>" and containing <rs type="ethnic">Arabs</rs> to whom the askia Dâoud waged war in 1570, with the help of Tuareg contingents (cf. <title>Tarikh es-Soudân</title>, translation, pp. 177-178). The expression means in Songai "desert (<foreign>bantambâ</foreign>) of the Moors (<foreign>Soûra</foreign>)" and seems to apply generally to the part of the Sahara north and northwest of <placeName>Timbuktu</placeName>; it is used quite frequently, on the side of <placeName>Timbuktu</placeName>, to refer simply to the north.</note>
+<note n="1"><foreign xml:lang="ara">سور بنتنبع</foreign>. The <title>Tarikh es-Sudan</title> speaks of a country of this name as located "in the <placeName>Malli</placeName>" and containing <rs type="ethnic">Arabs</rs> to whom the askia Dâoud waged war in 1570, with the help of Tuareg contingents (cf. <title>Tarikh es-Soudân</title>, translation, pp. 177-178). The expression means in <rs type="ethnic">Songai</rs> "desert (<foreign>bantambâ</foreign>) of the Moors (<foreign>Soûra</foreign>)" and seems to apply generally to the part of the Sahara north and northwest of <placeName>Timbuktu</placeName>; it is used quite frequently, on the side of <placeName>Timbuktu</placeName>, to refer simply to the north.</note>
 
 <note n="2"><foreign xml:lang="ara">تسك</foreign>. The text does not indicate whether this is an individual, a locality, or a tribe. The <title>Tarikh es-Sudan</title> cites two cases of Tosko, one of which is said to have taken place in 1479 and the other in 1488.</note>
 
-<note n="3">According to the <title>Tarikh es-Soudân</title>, Muhammad is said to have taken the title of <roleName>askia</roleName>, in a way out of irony, because the daughters of the <persName><roleName>chî</roleName> Ali</persName>, on learning that the conqueror of their brother <persName>Bâro</persName> had become master of the kingdom, had cried out <foreign>askia</foreign>, an expression which, in the language of the country, meant <gloss>he is not</gloss>; <foreign>a si kyi a</foreign> or <foreign>a si tyi a</foreign> indeed means in Songai <gloss>he is not</gloss> or <gloss>he will not</gloss>. </note>
+<note n="3">According to the <title>Tarikh es-Soudân</title>, Muhammad is said to have taken the title of <roleName>askia</roleName>, in a way out of irony, because the daughters of the <persName><roleName>chî</roleName> Ali</persName>, on learning that the conqueror of their brother <persName>Bâro</persName> had become master of the kingdom, had cried out <foreign>askia</foreign>, an expression which, in the language of the country, meant <gloss>he is not</gloss>; <foreign>a si kyi a</foreign> or <foreign>a si tyi a</foreign> indeed means in <rs type="ethnic">Songai</rs> <gloss>he is not</gloss> or <gloss>he will not</gloss>. </note>
 
 <note n="4">Or <placeName>Mansour</placeName>, a small village located in the suburbs of <placeName>Gâo</placeName>.</note>
 
 <note n="5"><foreign xml:lang="ara">ازوت</foreign>. This is probably the <placeName>Azaouat</placeName> or <placeName>Azaouad</placeName>, a Saharan region which borders <placeName type="river">Niger</placeName> in its northern part and where <rs type="ethnic">Arabs</rs> and <rs type="ethnic">Tuareg</rs> live.</note>
 <milestone unit="scannumber" n="117"/>
 <pb n="89"/> 
-expedition that the askia Baghna died; the <persName><roleName>chî</roleName> Ali</persName> then set out for <placeName>Tasgo</placeName>1. He was in the town of <placeName>Nâsséré</placeName>2, in the country of <rs type="ethnic">the Môssi</rs>, when Ramadan began, and there he performed the Festival prayer.</p>
+expedition that <persName><roleName>the askia</roleName> Baghna</persName> died; the <persName><roleName>chî</roleName> Ali</persName> then set out for <placeName>Tasgo</placeName>1. He was in the town of <placeName>Nâsséré</placeName>2, in the country of <rs type="ethnic">the Môssi</rs>, when Ramadan began, and there he performed the Festival prayer.</p>
 
-<p>After that, he went by the river to <placeName>Lôlo</placeName>,3 and raised a very large army and put it all under the command of the <persName><roleName><placeName>Dendi</placeName>-fâri</roleName>4 Afoumba</persName>, whom he sent on an expedition; in this army was the <persName><roleName>hîkoï</roleName>5 Boukar</persName>. – Note also the use, from this time, of this term <roleName>hîkoï</roleName>, which is also contrary to the statement of the Songai people, who say that it was created only in the time of
+<p>After that, he went by the river to <placeName>Lôlo</placeName>,3 and raised a very large army and put it all under the command of the <persName><roleName><placeName>Dendi</placeName>-fâri</roleName>4 Afoumba</persName>, whom he sent on an expedition; in this army was the <persName><roleName>hîkoï</roleName>5 Boukar</persName>. – Note also the use, from this time, of this term <roleName>hîkoï</roleName>, which is also contrary to the statement of the <rs type="ethnic">Songai</rs> people, who say that it was created only in the time of
 <persName><roleName>the askia</roleName> Muhammad</persName> and who explain the use of the title <roleName>hîkoï</roleName> in this way; we will discuss this in the course of the biography of <persName><roleName>the askia</roleName> Muhammad</persName>. - In this army was also <persName><roleName>the askia</roleName> Mohammed</persName>, who then bore the title of <roleName><placeName>Tondi</placeName>-farma</roleName>6: there was also his brother <persName>Amar-Komdiâgo</persName>,7
 
 
@@ -319,9 +318,9 @@ expedition that the askia Baghna died; the <persName><roleName>chî</roleName> A
 
 <note n="3"><foreign xml:lang="ara">لول</foreign>. mscr. C vocalizes <foreign>Laolo</foreign>. Name of a locality on <placeName type="river">the Niger</placeName> downstream from <placeName type="river">the Dendi</placeName>.</note>
 
-<note n="4">That is, of the <gloss>chief of the Dendi</gloss>; the Dendi was the southernmost province of Songai: this country straddles the lower <placeName type="river">Niger</placeName>, between <persName>Niamey</persName> and <persName>the Boussa rapids</persName>. The title of <roleName><placeName>Dendi</placeName>-fâri</roleName> was given to one of the principal dignitaries of the court.</note>.
+<note n="4">That is, of the <gloss>chief of the Dendi</gloss>; the Dendi was the southernmost province of <rs type="ethnic">Songai</rs>: this country straddles the lower <placeName type="river">Niger</placeName>, between <persName>Niamey</persName> and <persName>the Boussa rapids</persName>. The title of <roleName><placeName>Dendi</placeName>-fâri</roleName> was given to one of the principal dignitaries of the court.</note>.
 
-<note n="5">. <foreign xml:lang="ara">هيكى</foreign>. This word means in Songai <gloss>chief of the dugouts, chief of the flotilla</gloss>; it was the title of one of the principal dignitaries of the Songai kingdom,</note>
+<note n="5">. <foreign xml:lang="ara">هيكى</foreign>. This word means in <rs type="ethnic">Songai</rs> <gloss>chief of the dugouts, chief of the flotilla</gloss>; it was the title of one of the principal dignitaries of the <rs type="ethnic">Songai</rs> kingdom,</note>
 
 <note n="6">i.e., <gloss>chief or governor of the mountain</gloss> (see note 12, p. 87, on the word Tondi, and note 6, page 71, on the terms <foreign>farma</foreign>, <foreign>fâri</foreign>, <foreign>faren</foreign>, etc.).</note>
 
@@ -331,10 +330,11 @@ expedition that the askia Baghna died; the <persName><roleName>chî</roleName> A
 <milestone unit="scannumber" n="118"/>
 <pb n="90"/>
 
-who was then <roleName><placeName>Kotalo</placeName>-farma</roleName>1, as well as <persName><roleName>the faren</roleName> Usmân</persName>. This expedition was sent to help Mohammed-Koïrao to carry out reprisals against the kankoï".</p>
+who was then <roleName><placeName>Kotalo</placeName>-farma</roleName>1, as well as <persName><roleName>the faren</roleName> Usmân</persName>. This expedition was sent to help <persName>Mohammed-Koïrao</persName> to carry out reprisals against the kankoï".</p>
 
-<p>As for <persName><roleName>Chî</roleName> Ali</persName>, he returned to <placeName>Gâo</placeName>, but he did not stay there and marched on Barkona", a city where the royal residence of <rs type="ethnic">the Môssi</rs>-koë was then located5.  He destroyed this city and took its inhabitants prisoner, whom he then made perish in a barbaric way. He then led an expedition against the people of Moli6, but they fled and he did not succeed in reaching them. He then returned and equipped a considerable army, at the head of which he placed as general the hikoi Yâté, with orders to put to death the tenga-niama'"; once the latter was killed, this army returned to the <roleName>chî</roleName>, and the latter went with it towards Kikéré, where he seized the person of the moundio Kountis.
-Then he equipped (<ref target="arpage47"/>) another army and sent with it the Dendi-fâri Afoumba with the mission to kill <rs type="ethnic">the Beïdân</rs>
+<p>As for <persName><roleName>Chî</roleName> Ali</persName>, he returned to <placeName>Gâo</placeName>, but he did not stay there and marched on Barkona4, a city where the royal residence of <roleName><rs type="ethnic">the Môssi</rs>-koï</roleName> was then located5.  He destroyed this city and took its inhabitants prisoner, whom he then made perish in a barbaric way. He then led an expedition against the people of Moli6, but they fled and he did not succeed in reaching them. He then returned and equipped a considerable army, at the head of which he placed as general the hikoi Yâté, with orders to put to death <roleName>the tenga-niama</roleName>7; once the latter was killed, this army returned to the <roleName>chî</roleName>, and the latter went with it towards Kikéré, where he seized the person of the moundio Kountis.</p>
+
+<p>Then he equipped (<ref target="arpage47"/>) another army and sent with it the <persName><roleName>Dendi-fâri</roleName> Afoumba</persName> with the mission to kill <rs type="ethnic">the Beïdân</rs>
 
 <note n="1"><foreign xml:lang="ara">كتل فرم</foreign>. That is, chief or governor of Kotalo; we have not been able to identify the province or locality designated by this name.</note>
 
@@ -344,7 +344,7 @@ Then he equipped (<ref target="arpage47"/>) another army and sent with it the De
 
 <note n="4">Locality of <placeName>Yâtenga</placeName>. The mscr. C spells <foreign>Barkoba</foreign>.</note>
 
-<note n="5">That is, the king of <rs type="ethnic">the Môssi</rs>; here, as in the preceding passages, it is, not the ruler of the country which we call more particularly <roleName>the Mossi</roleName>, or country of <placeName>Ouagadougou</placeName>, but the ruler of <placeName>Yâtenga</placeName>.</note>
+<note n="5">That is, the king of <rs type="ethnic">the Môssi</rs>; here, as in the preceding passages, it is, not the ruler of the country which we call more particularly <roleName>the Mossi</roleName>, or country of <placeName>Wagadougou</placeName>, but the ruler of <placeName>Yâtenga</placeName>.</note>
 
 <note n="6">This is probably a <rs type="ethnic">Môssi</rs> village or tribe.</note>
 
@@ -357,9 +357,9 @@ Then he equipped (<ref target="arpage47"/>) another army and sent with it the De
 
 <milestone unit="scannumber" n="119"/>
 <pb n="91"/> 
-by who were in the city of <placeName>Noûma</placeName>1. Then <persName><roleName>the faren</roleName> Afoumba</persName> went to <rs type="ethnic">the Dendi</rs>, sent there the <persName><roleName>chî</roleName> Ali</persName> to settle an affair, while <persName><roleName>the moundio</roleName> Wanki</persName> brought the army back to the <persName><roleName>chî</roleName> Ali</persName>.</p>
+ who were in the city of <placeName>Noûma</placeName>1. Then <persName><roleName>the faren</roleName> Afoumba</persName> went to <rs type="ethnic">the Dendi</rs>, sent there the <persName><roleName>chî</roleName> Ali</persName> to settle an affair, while <persName><roleName>the moundio</roleName> Wanki</persName> brought the army back to the <persName><roleName>chî</roleName> Ali</persName>.</p>
 
-    <p>This one had set out on the march. The month of Ramadan found him in <placeName>Dâ</placeName>2, where he made the prayer of the Feast and from where, resuming his march, he went to <placeName>Dienné</placeName>. <persName><roleName>The moundio</roleName> Wanki</persName>, accompanied by the army, had preceded him there, and it was at <placeName>Dienné</placeName> that he met the <roleName>chî</roleName>. The latter was in <placeName>Dienné</placeName> at the time of Ramadan and it was there that he performed the Festival prayer. He fought the people of <placeName>Dienné</placeName> and twice the people of <placeName>Malli</placeName>. Then, resuming his journey, he carried the <rs type="ethnic">Fulani</rs> to <placeName>Gaogao</placeName>3; Ramadan found him at <placeName>Diâkou</placeName> and he performed the Festival prayer at <placeName>Kanao</placeName>. In the following Ramadan, he was in <placeName>Kadyibi</placeName>, where he performed the prayer of the Festival. The following Ramadan found him in <placeName>Diarka</placeName> and he performed the festival prayer in <placeName>Manti</placeName>.4 From there he returned to <placeName type="river" n="Niger River">the River</placeName>. He found himself at the time of Ramadan at <placeName>Moli</placeName>, performed the prayer of the Feast at <placeName>Yatolo</placeName>5 and, continuing his journey, he returned to <placeName>Gâo</placeName>, where he arrived at the time of Ramadan and performed the prayer of the Feast.</p>
+    <p>This one had set out on a march. The month of Ramadan found him in <placeName>Dâ</placeName>2, where he made the prayer of the Feast and from where, resuming his march, he went to <placeName>Dienné</placeName>. <persName><roleName>The moundio</roleName> Wanki</persName>, accompanied by the army, had preceded him there, and it was at <placeName>Dienné</placeName> that he met the <roleName>chî</roleName>. The latter was in <placeName>Dienné</placeName> at the time of Ramadan and it was there that he performed the Festival prayer. He fought the people of <placeName>Dienné</placeName> and twice the people of <placeName>Malli</placeName>. Then, resuming his journey, he carried the <rs type="ethnic">Fulani</rs> to <placeName>Gaogao</placeName>3; Ramadan found him at <placeName>Diâkou</placeName> and he performed the Festival prayer at <placeName>Kanao</placeName>. In the following Ramadan, he was in <placeName>Kadyibi</placeName>, where he performed the prayer of the Festival. The following Ramadan found him in <placeName>Diarka</placeName> and he performed the festival prayer in <placeName>Manti</placeName>.4 From there he returned to <placeName type="river" n="Niger River">the River</placeName>. He found himself at the time of Ramadan at <placeName>Moli</placeName>, performed the prayer of the Feast at <placeName>Yatolo</placeName>5 and, continuing his journey, he returned to <placeName>Gâo</placeName>, where he arrived at the time of Ramadan and performed the prayer of the Feast.</p>
 
 
 <note n="1">One of the manuscripts seems to bear Koûma or Goûmu, which may be the true name of this locality; Gouma, southeast of Saraféré, is indeed in a region where <rs type="ethnic">Fulani</rs> are numerous.</note>
@@ -403,7 +403,7 @@ ou
 
     <note n="6"><foreign xml:lang="ara">سام</foreign>. One can read <foreign xml:lang="ara-tra">Sâma</foreign>, <foreign xml:lang="ara-tra">Sâmé</foreign>, <foreign xml:lang="ara-tra">Sâmi</foreign> or <foreign xml:lang="ara-tra">Sâmo</foreign>. Perhaps this is one of the villages named <placeName>Sâma</placeName> located near the <placeName type="river">Niger</placeName> in the <placeName>Ségou-Sansanding region</placeName>; perhaps it is also <placeName>the province of Sâma</placeName> mentioned by <persName>Bekri</persName> as bordering <placeName>Walata</placeName>.</note>
 
-<note n="7">This sentence, obviously written by the grandson of <persName>Mahmoud Kâti</persName>, tells us that the above was simply copied from his grandfather's work. </note>
+<note n="7">This sentence, obviously written by the grandson of <persName>Mahmûd Kâti</persName>, tells us that the above was simply copied from his grandfather's work. </note>
     
 
 <milestone unit="scannumber" n="121"/>
@@ -412,7 +412,7 @@ ou
 -- The <persName><roleName>chî</roleName> Ali</persName> having then left <placeName>Dîrei</placeName>, the two adversaries met at <placeName>Kobi</placeName>1.</p>
 
 <p>
-It was in the year 873 that the city of <placeName>Timbuktu</placeName> was sacked by <persName><roleName>chî</roleName> Ali</persName>, who entered it on the fourth day of the month of redjeb (18 January 1469). It was also in this same year that the very learned jurisconsult, the sheikh-el-islâm, the reviver of religion, <persName><roleName>the câdi</roleName> Abouttsenâ Mahmoûd ben Omar ben Mohammed Aqît</persName> left <placeName>Bîrou</placeName> and returned to <placeName>Timbuktu</placeName>
+It was in the year 873 that the city of <placeName>Timbuktu</placeName> was sacked by <persName><roleName>chî</roleName> Ali</persName>, who entered it on the fourth day of the month of redjeb (18 January 1469). It was also in this same year that the very learned jurisconsult, <roleName>the sheikh-el-islâm</roleName>, the reviver of religion, <persName><roleName>the câdi</roleName> Abouttsenâ Mahmoûd ben Omar ben Mohammed Aqît</persName> left <placeName>Bîrou</placeName> and returned to <placeName>Timbuktu</placeName>
 (God have mercy on him!).</p>
 
 <p>
@@ -433,7 +433,7 @@ of this locality, all have a common origin1, as well as all the people who bear 
 <placeName>Bitou</placeName>, the <placeName>Malli</placeName>, the <placeName>Diâfounou</placeName>, etc., asking them if they had in their country a tribe called <rs type="ethnic">Moï-Kâ</rs> or <rs type="ethnic">Moï-Nanko</rs>,5 and all of them answered me, <q>We have never seen nor heard of anything like it.</q></p>
 
 <p>
-This scoundrel, - I mean <persName><roleName>chî</roleName> Ali</persName>, - was a prince who was obeyed respected, and his subjects feared him because of his cruelty.</p>
+This scoundrel, - I mean <persName><roleName>chî</roleName> Ali</persName>, - was a prince who was obeyed, and his subjects feared him because of his cruelty.</p>
 
 <p>While he was busy laying siege to <placeName>Dienné</placeName>, he sent a messenger to <placeName>Timbuktu</placeName> because he had heard that the inhabitants of <placeName>Timbuktu</placeName> were fleeing (<ref target="arpage49"/>), those from Bîrou returning to Bîrou, others going to Foutouti and Tichit, each seeking refuge in
 
@@ -465,9 +465,9 @@ evacuated. Many of its inhabitants had left without closing
 
 <note n="1">No doubt Haoukiyi (<foreign xml:lang="ara">هوكى</foreign>) was the name of a locality or region on the right bank of the <placeName type="river">Niger</placeName> opposite <placeName>Timbuktu</placeName>.</note>
 
-<note n="2">Cousin of <persName>Mahmoud Kâti</persName>'s grandson, as discussed below.</note>
+<note n="2">Cousin of <persName>Mahmûd Kâti</persName>'s grandson, as discussed below.</note>
 
-<note n="3"><quote>Which they call in our time <placeName>Hariboro</placeName></quote> says a marginal note of mscr. B; <foreign>ari</foreign> or <foreign>hari</foreign> means "cau" in Songai and <placeName>Hariboro</placeName> is the name of a pond near <placeName>Kabara</placeName>,</note>
+<note n="3"><quote>Which they call in our time <placeName>Hariboro</placeName></quote> says a marginal note of mscr. B; <foreign>ari</foreign> or <foreign>hari</foreign> means "cau" in <rs type="ethnic">Songai</rs> and <placeName>Hariboro</placeName> is the name of a pond near <placeName>Kabara</placeName>,</note>
 
 <note n="4"><foreign xml:lang="ara">جنتع</foreign>. <placeName>Dienta</placeName> is an island in the <placeName type="river">Niger</placeName>, south of and near <placeName>Timbuktu</placeName>.</note>
 
@@ -501,7 +501,7 @@ When the <roleName>chî</roleName> then arrived at <placeName>Koûnâ</placeName
 <pb n="97"/> 
 toward him as <roleName>the kouran</roleName> had done and was also routed. The soria1 also wanted to fight him and went against him, but the <roleName>chî</roleName> fell upon him at the head of an innumerable army and inflicted on him the same fate as on the two previous chiefs. Then the <roleName>chî</roleName> continued his march through the night, while <roleName>the <placeName>Dienné</placeName>-koï</roleName>, in spite of all this, slept peacefully on his royal bed, without being otherwise concerned.</p>
 <p>Then, however, <roleName>the <placeName>Dienné</placeName>-koï</roleName>, at the head of a crowd of fighters whose number could not be estimated, went out in front of the enemy. The struggle began, and the fighting went on daily for six months. <roleName>The <placeName>Dienné</placeName>-koï</roleName>, who, according to the most accredited opinion, was then <persName>Komboro</persName>2, then returned to the city and, during the night, he had a tata3 built for himself; the very next morning, the river overflowed, surrounded the city with its waters and interposed itself between the two adversaries. The <roleName>chî</roleName> then blocked the city with the aid of four hundred dugouts, in order to prevent anyone from leaving or entering it. He did not give the inhabitants any truce until he had defeated and subdued them. Then, having crossed the walls of the place, he settled in the middle of the residence of <roleName>the <placeName>Dienné</placeName>-koï</roleName> with the intention of remaining there, but he was driven from it by vipers, serpents and scorpions, which alone compelled him to go away. He then went to live in a house situated south of the residence of <roleName>the <placeName>Dienné</placeName>-koï</roleName> and
-east of the great mosque and took possession of this house, where he left his people and baggage when he returned. 
+east of the great mosque and took possession of this house, where he left his people and baggage when he returned 
 
 <note n="1"><foreign xml:lang="ara">سريح</foreign>. This title was probably carried by a third-rate officer, subordinate to <roleName>the kouran</roleName> and <roleName>the tounkoi</roleName>.</note>
 
@@ -512,36 +512,33 @@ east of the great mosque and took possession of this house, where he left his pe
 
 <milestone unit="scannumber" n="126"/>
 <pb n="98"/>
-in his country1. This house then belonged to the askia Mohammed; I saw with my own eyes the sections of the walls that still remained after its destruction2 (<ref target="arpage51"/>).</p>
+in his country1. This house then belonged to <persName><roleName>the askia</roleName> Mohammed</persName>; I saw with my own eyes the sections of the walls that still remained after its destruction2 (<ref target="arpage51"/>).</p>
 
 <p>
 The ferocity of <persName><roleName>chî</roleName> Ali</persName> towards the Muslims and his cruelty in all circumstances, whether it was a question of worldly things or those of religion, had become such that the courts were overflowing with sadness and concern. People despaired of ever achieving deliverance, for his reign had lasted so long that they had lost all hope of the day when these evils would cease and end. However, this day came at last, thanks to a poor holy man, whose daughter had been stolen by the king.</p>
 
 <p>This unfortunate man came to the prince's house to explain his grievances, and the prince swore that he would have him thrown into the fire if he did not leave his presence immediately.
 The man left with eyes full of tears, then, raising his hands to heaven and turning to the side of <placeName>Mecca</placeName>, he cried out:
-"O my God, O Master, I ask you, who are near us, who see, who know and hear everything, to you who are the Dominator, I ask you to chew up this lecherous and perverse being who has benefited so long from your indifference and who, deluded by your kindness, has allowed himself to oppress a holy personage; accept my invocation and come to my aid when I implore you."</p>
+<q>O my God, O Master, I ask you, who are near us, who see, who know and hear everything, to you who are the Dominator, I ask you to chew up this lecherous and perverse being who has benefited so long from your indifference and who, deluded by your kindness, has allowed himself to oppress a holy personage; accept my invocation and come to my aid when I implore you.</q></p>
 
 <p>
 Now, that same day, the <roleName>chî</roleName> received the visit of two holy 
 
 <note n="1">بعد رجوعه. "after his return": the text does not indicate whether this refers to the moment when the <persName><roleName>chî</roleName> Ali</persName> left <placeName>Dienné</placeName> to return to Songaï proper or whether it refers to a trip that this prince would have made to <placeName>Dienné</placeName> later.</note>
 
-<note n="2">A marginal note from mscr. A, introduced into the text by B, indicates that the ruins of this dwelling were known as mâdougou, a word that is equivalent in the <rs type="ethnic">Mandingo language</rs> to our phrase "royal palace."
-The mscr. C interposes here an entire chapter relating to <persName><roleName>chî</roleName> Ali</persName>, a chapter which is found verbatim in the <title>Tarikh es-Soudân</title> and which in some ways duplicates what precedes (see translation of the <title>Tarikh es-Soudân</title>, pp. 103-116).</note>
+<note n="2">A marginal note from mscr. A, introduced into the text by B, indicates that the ruins of this dwelling were known as mâdougou, a word that is equivalent in the <rs type="ethnic">Mandingo language</rs> to our phrase <gloss>royal palace</gloss>. The mscr. C interposes here an entire chapter relating to <persName><roleName>chî</roleName> Ali</persName>, a chapter which is found verbatim in the <title>Tarikh es-Soudân</title> and which in some ways duplicates what precedes (see translation of the <title>Tarikh es-Soudân</title>, pp. 103-116).</note>
 
 
 <milestone unit="scannumber" n="127"/>
 
 <pb n="99"/> 
-personnages of the descendants of the môrı Haougaro, ancestor of the people of <placeName>Môri>-Koïra</placeName>; one of them was called <persName><roleName>the môri</roleName> Es-Sâdiq</persName> and the other <persName><roleName>the môri</roleName> Djeïba</persName>. They were coming to complain about an injury that someone from his family had caused them, i.e.
-that is to say, the family of the <persName><roleName>chî</roleName> Ali</persName>. As soon as he saw these two men, he gave the order to seize them and put them in chains, then to take them to an island and abandon them there:
-And he said: <q>O my God</q>, cried one of them, <q>protect us from this man and destroy him before he can move from his place!</q>- <q>And</q>, cried the other, <q>let him not die in a state of Islam but in a state of infidelity!</q> And the <roleName>chî</roleName>, who was at that time in a place in <placeName>the country of Hâdjar</placeName> called <placeName>Konna</placeName>1, perished the same day, struck by God with a sudden death.</p>
+personnages of the descendants of <persName><roleName>the môrı</roleName> Haougaro</persName>, ancestor of the people of <placeName>Môri-Koïra</placeName>; one of them was called <persName><roleName>the môri</roleName> Es-Sâdiq</persName> and the other <persName><roleName>the môri</roleName> Djeïba</persName>. They were coming to complain about an injury that someone from his family had caused them, i.e. that is to say, the family of the <persName><roleName>chî</roleName> Ali</persName>. As soon as he saw these two men, he gave the order to seize them and put them in chains, then to take them to an island and abandon them there:  <q>O my God</q>, cried one of them, <q>protect us from this man and destroy him before he can move from his place!</q>- <q>And</q>, cried the other, <q>let him not die in a state of Islam but in a state of infidelity!</q> And the <roleName>chî</roleName>, who was at that time in a place in <placeName>the country of Hâdjar</placeName> called <placeName>Konna</placeName>1, perished the same day, struck by God with a sudden death.</p>
 
 <p>
 As soon as his soldiers were sure of his death, they buried him on the spot, and no one has known since then where his tomb was located (God's curse be upon him!).
 The next day, his soldiers set out again without any of the inhabitants of the place in question knowing of his death (<ref target="arpage52"/>).</p>
 
-<p>Some of his soldiers went to the island where <roleName>the môri</roleName> Es-Sâdiq and <roleName>the môri</roleName> Djeïba had been deported, removed the fetters from their feet and took them out of the island the very next day after the death of the <roleName>chî</roleName>. Praise be to Him who dispels all sorrows, who makes all the afflicted calm, and whose treasures are between a <foreign>kaf</foreign> and a <foreign>noun</foreign>, for when He wants something, He has only to say <foreign>koun</foreign> (be) and the thing is? This is how he makes the princes perish and frees the prisoners.</p>
+<p>Some of his soldiers went to the island where <persName><roleName>the môri</roleName> Es-Sâdiq</persName> and <persName><roleName>the môri</roleName> Djeïba</persName> had been deported, removed the fetters from their feet and took them out of the island the very next day after the death of the <roleName>chî</roleName>. Praise be to Him who dispels all sorrows, who makes all the afflicted calm, and whose treasures are between a <foreign>kaf</foreign> and a <foreign>noun</foreign>, for when He wants something, He has only to say <foreign>koun</foreign> (be) and the thing is? This is how he makes the princes perish and frees the prisoners.</p>
 
 <note n="1">Or Gounna (قن). Perhaps this is Konna, a village southeast of <placeName>Lake Débo</placeName>, between the Bani and the mountainous cliff; perhaps it is another locality in the same region. The <title>Tarikh es-Soudân</title> causes the chl Ali to perish in a stream called Koni, on his return from an expedition to the <rs type="ethnic">Fulani</rs> of the Gourma, i.e., the Boucle du <placeName type="river">Niger</placeName>,</note>
 
@@ -551,13 +548,13 @@ The next day, his soldiers set out again without any of the inhabitants of the p
 <milestone unit="scannumber" n="128"/>
 <pb n="100"/>
 
-<p>The death of <persName><roleName>chî</roleName> Ali</persName> took place in the month of moharrem by which the year 898 of the hegira [23 October vembre 1492] began.1 However, in the work entitled Dorer el-hisan fi akhbar ba'd moloủk es-Soûdan2 it is said that the death of <persName><roleName>chî</roleName> Ali</persName> took place in the year 99 of the sixth century3.  He had reigned 27 years, 4 months and 15 days.4</p>
+<p>The death of <persName><roleName>chî</roleName> Ali</persName> took place in the month of moharrem by which the year 898 of the hegira [23 October - 21 November 1492] began.1 However, in the work entitled <title>Dorer el-hisan fi akhbar ba'd moloủk es-Soûdan</title>2 it is said that the death of <persName><roleName>chî</roleName> Ali</persName> took place in the year 99 of the sixth century3.  He had reigned 27 years, 4 months and 15 days.4</p>
 
-<p>His son Aboubakar, nicknamed the <roleName>chî</roleName> <persName>Bâro</persName>, had accompanied him in this expedition5 and, as soon as the army, in its return march, had arrived at Bankeï6, it proclaimed <persName>Bâro</persName>
+<p>His son Aboubakar, nicknamed the <roleName>chî</roleName> <persName>Bâro</persName>, had accompanied him in this expedition5 and, as soon as the army, in its return march, had arrived at <placeName>Bankeï</placeName>6, it proclaimed <persName>Bâro</persName>
 in the place of his father, the second day of rebi II (January 21, 1493). But this does not agree with the account of the Dorer el-hisân, which says that the proclamation of <persName>Bâro</persName> took place in Diâga7:
 Please refer to this work.</p>
 
-<p>The sheikh-el-islâm, <roleName>the câdi</roleName> Abouttsenâ Mahmoûd ben Omar ben Mohammed Aqît (God have mercy on him and show him his benevolence!) was born one year before the accession of the chî8; now, according to the account of our master Aboulabbas
+<p>The <roleName>sheikh-el-islâm</roleName>, <persName><roleName>the câdi</roleName> Abouttsenâ Mahmoûd ben Omar ben Mohammed Aqît</persName> (God have mercy on him and show him his benevolence!) was born one year before the accession of <roleName>the chî</roleName>8; now, according to the account of our master <persName>Aboulabbas</persName>
 
 
 
@@ -567,13 +564,14 @@ Please refer to this work.</p>
 
 <note n="3">This would make 799, an error of one century: it often happens that authors who are not very attentive name a century after the initial number of the vintage, giving for example the name of the 8th century to the set of years whose vintage begins with8. </note>
 
-<note n="4">The <persName><roleName>chî</roleName> Ali</persName>, having ascended the throne in 869 having died at the beginning of 898, reigned about 29 lunar years; the Tarikh es Soudân, which gives the same dates for his accession and death, makes him reign "27 or 28 years."</note>
+<note n="4">The <persName><roleName>chî</roleName> Ali</persName>, having ascended the throne in 869 having died at the beginning of 898, reigned about 29 lunar years; the <title>Tarikh es Soudân</title>, which gives the same dates for his accession and death, makes him reign "27 or 28 years."</note>
 
 <note n="5">That is, in the expedition on whose return the <persName><roleName>chî</roleName> Ali</persName> died.</note>
 
-<note n="6">بنكى in A, سنكى in B; we do not know which locality this is.</note>
 
-<note n="7">ذاغ. Diâga or Diâ is a town in western <placeName>Mâssina</placeName> located on the arm of the <placeName type="river">Niger</placeName> that is called the side branch of Diâga or Diâ. It is unlikely that this is where the son of <persName><roleName>chî</roleName> Ali</persName> was proclaimed and there must have been, on the part of the copyist or the author, a misreading; the <title>Tarikh es-Soudân</title> has Aboubakar proclaimed at Denga (دنغ), a locality on the right bank of the <placeName type="river">Niger</placeName> between <placeName>Bourem</placeName> and
+<note n="6"> <foreign xml:lang="ara">بنكى</foreign> in A,  <foreign xml:lang="ara">سنكى</foreign> in B; we do not know which locality this is.</note>
+
+<note n="7"><foreign xml:lang="ara">ذاغ</foreign> Diâga or Diâ is a town in western <placeName>Mâssina</placeName> located on the arm of the <placeName type="river">Niger</placeName> that is called the side branch of Diâga or Diâ. It is unlikely that this is where the son of <persName><roleName>chî</roleName> Ali</persName> was proclaimed and there must have been, on the part of the copyist or the author, a misreading; the <title>Tarikh es-Soudân</title> has Aboubakar proclaimed at Denga (<foreign xml:lang="ara">دنغ</foreign>), a locality on the right bank of the <placeName type="river">Niger</placeName> between <placeName>Bourem</placeName> and
 <placeName>Gâo</placeName>.</note>
 
 <note n="8">That is, of the <persName><roleName>chî</roleName> Ali</persName>.</note>
@@ -582,13 +580,14 @@ Please refer to this work.</p>
 
 <pb n="101"/>
 
-<persName>Ahmed-Bâba ben Ahmed ben El-Hâdj Ahmed</persName>, an account contained in his work entitled Kifayat el-moḥtâdj fî ma'rifat mâ laïsa fi'd-dîbâdj, this <roleName>câdi</roleName> is said to have been born in the year 868 [September 15, 1463-September 2, 1464).1</p>
+<persName>Ahmed-Bâba ben Ahmed ben El-Hâdj Ahmed</persName>, an account contained in his work entitled <title>Kifayat el-moḥtâdj fî ma'rifat mâ laïsa fi'd-dîbâdj</title>, this <roleName>câdi</roleName> is said to have been born in the year 868 [September 15, 1463-September 2, 1464).1</p>
 
-<p>Among the main scholars and great characters of the Tekroûr who died at the time of <persName><roleName>chî</roleName> Ali</persName>, there was the jurisconsult, <roleName>the câdi</roleName> môdibbo <persName>Qassim Dionkâssi</persName>2 and <persName>Sidi Yahya El-Andaloussi Et-Tâdelsi</persName>3, whose genealogy, well established, is as follows: <persName>Sidi Yahya ben Abderrahîm ben Abderrahmân Et-Tsa'âlebi ben Yahya El-Bekkaï ben El-Hassan ben Ali ben Abdallah ben (<ref target="arpage53"/>) Abdeldjebbâr hen Temîm ben Hormoz ben Hâchim ben Qossaï ben Yoûssof ben Yoûcha' ben Ouerd ben Battâl ben Ahmed ben Mohammed ben 'Issa ben Mohammed ben El-Hassan ben Ali ben Aboutaleb</persName> (God be good to him and let us benefit from the consideration they all enjoy! ). It is said that <persName>Sidi Yahya</persName> was invested with the functions of <roleName>câdi</roleName>; at least this is what I read in a text written in the hand of a tâleb. There would be to mention still other characters who died during the lifetime of <persName><roleName>chî</roleName> Ali</persName>.
-Bâro, the son of this prince, had thus been invested with power; he had not yet reigned four months when
+<p>Among the main scholars and great characters of <placeName>the Tekroûr</placeName> who died at the time of <persName><roleName>chî</roleName> Ali</persName>, there was the jurisconsult, <roleName>the câdi</roleName> môdibbo <persName>Qassim Dionkâssi</persName>2 and <persName>Sidi Yahya El-Andaloussi Et-Tâdelsi</persName>3, whose genealogy, well established, is as follows: <persName>Sidi Yahya ben Abderrahîm ben Abderrahmân Et-Tsa'âlebi ben Yahya El-Bekkaï ben El-Hassan ben Ali ben Abdallah ben (<ref target="arpage53"/>) Abdeldjebbâr hen Temîm ben Hormoz ben Hâchim ben Qossaï ben Yoûssof ben Yoûcha' ben Ouerd ben Battâl ben Ahmed ben Mohammed ben 'Issa ben Mohammed ben El-Hassan ben Ali ben Aboutaleb</persName> (God be good to him and let us benefit from the consideration they all enjoy! ). It is said that <persName>Sidi Yahya</persName> was invested with the functions of <roleName>câdi</roleName>; at least this is what I read in a text written in the hand of a tâleb. There would be to mention still other characters who died during the lifetime of <persName><roleName>chî</roleName> Ali</persName>.</p>
+
+<p>Bâro, the son of this prince, had thus been invested with power; he had not yet reigned four months when
 <persName><roleName>the askia</roleName> Mohammed ben Aboubakar</persName>, whose party was triumphing, received the support of God against <roleName>chî</roleName> <persName>Bâro</persName>, on the 2nd of the month of
 
-<note n="1">The <title>Tarikh es-Sudân</title> also gives this reference, referring to the famous work of <persName>Amed-Bâba</persName>, in order to justify the date of 869 given for the advent of Ali. Since <persName>Ahmed-Bâba</persName> was still young at the time of the death of <persName>Mahmud Kâti</persName> (1593 according to the <title>Tarikh es-Sudan</title>), the latter could not have had him as his master: it is therefore the grandson of <persName>Mahmud Kâti</persName> who speaks here.</note>
+<note n="1">The <title>Tarikh es-Sudân</title> also gives this reference, referring to the famous work of <persName>Amed-Bâba</persName>, in order to justify the date of 869 given for the advent of Ali. Since <persName>Ahmed-Bâba</persName> was still young at the time of the death of <persName>Mahmûd Kâti</persName> (1593 according to the <title>Tarikh es-Sudan</title>), the latter could not have had him as his master: it is therefore the grandson of <persName>Mahmûd Kâti</persName> who speaks here.</note>
 
 <note n="2">The reading of the last name (جنكاس) is doubtful as far as the vowels are concerned; the Tarikh es-Soudân speaks of this character, whom it makes die four years before the <persName><roleName>chî</roleName> Ali</persName> (trad., p. 116).</note>
 
@@ -597,9 +596,9 @@ Bâro, the son of this prince, had thus been invested with power; he had not yet
 
 <milestone unit="scannumber" n="130"/>
 <pb n="102"/>
-"/>djomâda the first1, in a place called Anfao2, where the two adversaries had stopped to gather their warriors.
+djomâda the first1, in a place called <placeName>Anfao</placeName>2, where the two adversaries had stopped to gather their warriors.
 The meeting between <persName>Bâro</persName> and <persName><roleName>the askia</roleName> Mohammed</persName> took place on
-24 of the month of djomâda the second, which was a Monday; the battle was so violent and the combat so bloody that all believed their last hour had arrived; the Dendi-fâri Afoumba, who was standing by the <roleName>chî</roleName> and who was a man of the greatest courage, threw himself into the River and perished there. As for the askia Mohammed, he had with him the mansa* Koúra, who was Bara-kgë", but no other king of the Tekroûr nor of the Songaï ® had answered his call: however God (may he be praised! ) gave victory to <persName><roleName>the askia</roleName> Mohammed</persName> and the <persName>Bâro</persName> <roleName>chî</roleName> fled to Diâga.</p>
+24 of the month of djomâda the second, which was a Monday; the battle was so violent and the combat so bloody that all believed their last hour had arrived; <persName><roleName>the <placeName>Dendi</placeName>-fâri</roleName> Afoumba</persName>, who was standing by the <roleName>chî</roleName> and who was a man of the greatest courage, threw himself into <placeName type="river">the River</placeName> and perished there. As for <persName><roleName>the askia</roleName> Mohammed</persName>, he had with him <persName><roleName>the mansa</roleName> Koûra</persName>4, who was <roleName><placeName>Bara</placeName>-koï</roleName>5, but no other king of <placeName>the Tekroûr</placeName> nor of <rs type="ethnic">the Songaï</rs>6 had answered his call: however God (may he be praised! ) gave victory to <persName><roleName>the askia</roleName> Mohammed</persName> and the <persName>Bâro</persName> <roleName>chî</roleName> fled to Diâga.</p>
 
 <p>This is what <persName><roleName>the câdi</roleName> Mahmoûd Kâti ben El-Hâdj El-Motaouakkel Kâti</persName>7 said.</p>
 
@@ -608,37 +607,37 @@ The struggle did not begin between them until after the askia had sent the schol
 
 <note n="1">That is, on February 19, 1493, exactly one lunar month after the date given by the author for the proclamation of the <roleName>chî</roleName> <persName>Bâro</persName>; the four months just mentioned must therefore be counted from the death of the <persName><roleName>chî</roleName> Ali</persName> and not from the investiture of <persName>Bâro</persName>.</note>
 
-<note n="2">انفع. The <title>Tarikh es-Sudan</title> calls this locality Ankoo (انكع) and places it in the neighborhood of <placeName>Gâo</placeName>.</note>
+<note n="2"><foreign xml:lang="ara">انفع</foreign>. The <title>Tarikh es-Sudan</title> calls this locality Ankoo (انكع) and places it in the neighborhood of <placeName>Gâo</placeName>.</note>
 
 <note n="3">So April 12, 1493; the <title>Tarikh es-Sudân</title> relates two battles that are said to have been fought at the same place between <persName>Bâro</persName> and Mohammed, the first on the 2nd of Jomada I and the second on the 14th of Jomada II (see <title>Tarikh es-Sudan</title>, Arabic text, page <ref target="arpage71">٧١</ref>). The 14th of Jomada II began on a Monday and the 24th on a Thursday; the exact date must therefore be the 14th and not the 24th of Jomada II, i.e. the 2nd of April 1493.</note>
 
 <note n="4">Term meaning "king" in the <rs type="ethnic">Mandingo language</rs>; this was, as will be seen later, the title borne by the chiefs of the Bara.</note>
 
-<note n="5">That is, in Songai, "chief of the Bara." The Bara is a province north of <placeName>Lake Débo</placeName>, on the right bank of the arm of the <placeName type="river">Niger</placeName> which borrowed its name (the Bara-Issa or Bara River).</note>
+<note n="5">That is, in <rs type="ethnic">Songai</rs>, <gloss>chief of the Bara</gloss>. The Bara is a province north of <placeName type="lake">Lake Débo</placeName>, on the right bank of the arm of <placeName type="river">the Niger</placeName> which borrowed its name (<placeName type="river">the Bara-Issa</placeName> or <placeName type="river">Bara River</placeName>).</note>
 
-<note n="6">That is, from the Western Sudan, not from the Nigerian Sudan.</note>
+<note n="6">That is, from the Western Sudan, not from <placeName>the Nigerian Sudan</placeName>.</note>
 
-<note n="7">The entire end of this chapter, which is missing in mscr. A and B, is due to the pen of <persName>Mahmoud Kâti</persName> the ancestor, while what precedes it, from page 93, was probably written by the grandson.</note>
+<note n="7">The entire end of this chapter, which is missing in mscr. A and B, is due to the pen of <persName>Mahmûd Kâti</persName> the ancestor, while what precedes it, from page 93, was probably written by the grandson.</note>
 
 
 <milestone unit="scannumber" n="131"/>
 
 <pb n="103"/> 
- to the <roleName>chî</roleName> <persName>Bâro</persName> to invite the latter to embrace Islam. The latter, who was then in a town called Anfao, absolutely refused. He was afraid for his sovereignty, as was natural for a king; so he was harsh in his words towards the scholar and the situation seemed so serious to him that he thought of putting the latter to death; but God, by his omnipotent will, turned him away from this plan. The scholar returned to
+ to the <persName><roleName>chî</roleName> Bâro</persName> to invite the latter to embrace Islam. The latter, who was then in a town called <persName>Anfao</persName>, absolutely refused. He was afraid for his sovereignty, as was natural for a king; so he was harsh in his words towards the scholar and the situation seemed so serious to him that he thought of putting the latter to death; but God, by his omnipotent will, turned him away from this plan. The scholar returned to
 <persName><roleName>the askia</roleName> Muhammad</persName> and informed him of the refusal of the <roleName>chî</roleName> <persName>Bâro</persName> and of the way the latter had behaved towards him.</p>
 
 <p>
-Then <persName><roleName>the askia</roleName> Mohammed</persName> dispatched to the <roleName>chî</roleName> <persName>Bâro</persName> a second envoy, who was the learned, the pious, the virtuous, the author of miracles and marvelous deeds, the  <roleName>alfa</roleName> Salih Diawara,  of Wa'kuri origin (<ref target="arpage54"/>). This one went to the <roleName>chî</roleName> <persName>Bâro</persName> and transmitted to him the message of the prince, i.e. of the askia Mohammed. But this only increased the insolence of the <roleName>chî</roleName>, his obstinate resistance and his pride; so he received the second messenger even more harshly than the first.</p>
+Then <persName><roleName>the askia</roleName> Mohammed</persName> dispatched to the <roleName>chî</roleName> <persName>Bâro</persName> a second envoy, who was the learned, the pious, the virtuous, the author of miracles and marvelous deeds, the  <persName><roleName>alfa</roleName> Salih Diawara</persName>,  of Wa'kuri origin (<ref target="arpage54"/>). This one went to the <roleName>chî</roleName> <persName>Bâro</persName> and transmitted to him the message of the prince, i.e. of <persName><roleName>the askia</roleName> Mohammed</persName>. But this only increased the insolence of the <roleName>chî</roleName>, his obstinate resistance and his pride; so he received the second messenger even more harshly than the first.</p>
 
 <p>
-He had then more than ten ministers, among them the mansa Moûssa, who was Bara-koï; he was then an old man, father of ten children. Each of these ministers commanded a special corps of troops. All of them had remained with the <roleName>chî</roleName> <persName>Bâro</persName> except one of them, the mansa Koûra1, who had fled to the prince, that is to say to
-<persName><roleName>the askia</roleName> Mohammed</persName>, and had recognized him as sovereign. As for the Dirma-koï2 Sandi3, the Taraton-koï4, the Bani-koï5,
+He had then more than ten ministers, among them <persName><roleName>the mansa</roleName> Mûsa</persName>, who was Bara-koï; he was then an old man, father of ten children. Each of these ministers commanded a special corps of troops. All of them had remained with the <roleName>chî</roleName> <persName>Bâro</persName> except one of them, the mansa Koûra1, who had fled to the prince, that is to say to
+<persName><roleName>the askia</roleName> Mohammed</persName>, and had recognized him as sovereign. As for <persName>the <roleName><placeName>Dirma</placeName>-koï</roleName>2 Sandi</persName>3, the <roleName><placeName>Taraton</placeName>-koï</roleName>4, the <roleName><placeName>Bani</placeName>-koï</roleName></roleName>5,
 
-<note n="1">He was one of the sons of the mansa Moûssa,</note>
+<note n="1">He was one of the sons of <persName><roleName>the mansa</roleName> Mûsa</persName>,</note>
 
 <note n="2">That is, the chief of the Dirma, a province situated between the Issa-Ber and the Bara-lssa.</note>
 
-<note n="3">سندى. This word may be a proper name, or a title that would mean "the lord, the chief" in Songai.</note>
+<note n="3">سندى. This word may be a proper name, or a title that would mean "the lord, the chief" in <rs type="ethnic">Songai</rs>.</note>
 
 <note n="4">ترتنكى. This is certainly a provincial chief, as with the other ministers, but we do not know which province is meant here; the reading of the word, moreover, is uncertain.</note>
 
@@ -662,12 +661,12 @@ When Sâlih Diawara had informed the askia of what he had witnessed during his m
 <milestone unit="scannumber" n="133"/>
 
 <pb n="105"/>
-<p>It was then that the askia sent me, the humble believer, the  <roleName>alfa</roleName> Kâti, to the <roleName>chî</roleName>. So I went to him and found him in the town of Anfao, which is near Gâo. I gave him the message of the askia, prince of the believers, and I spoke to him with as much courtesy as possible, as the askia El-Hâdj Mohammed, prince of the believers, had recommended to me. I spoke kindly to him in the hope that God would bring him back to the right path. But he refused to listen to my advice, became angry, ordered the drum to be beaten immediately and began to gather his troops, scolding and storming in order to intimidate me, while I applied to myself the words of the poet: "I will ensure today by my death the triumph over the cross and its worshippers".</p>
+<p>It was then that the askia sent me, the humble believer, the  <roleName>alfa</roleName> Kâti, to the <roleName>chî</roleName>. So I went to him and found him in the town of Anfao, which is near Gâo. I gave him the message of the askia, prince of the believers, and I spoke to him with as much courtesy as possible, as the askia <persName><roleName>El-Hâdj</roleName> Mohammed</persName>, prince of the believers, had recommended to me. I spoke kindly to him in the hope that God would bring him back to the right path. But he refused to listen to my advice, became angry, ordered the drum to be beaten immediately and began to gather his troops, scolding and storming in order to intimidate me, while I applied to myself the words of the poet: "I will ensure today by my death the triumph over the cross and its worshippers".</p>
 
 <p>
 At the same time, his troops massed around him like a mountain range (<ref target="arpage55"/>), raising clouds of dust that made the day seem like night, and began to shout loudly, swearing that blood would flow freely.</p>
 
-<p>Then I returned and told him what had happened. The askia El-Hâdj Mohammed, prince of the believers, immediately made his preparations, ordering the drum to be beaten and his troops to gather around him immediately. All his men swore to remain faithful to him until death.</p>
+<p>Then I returned and told him what had happened. The askia <persName><roleName>El-Hâdj</roleName> Mohammed</persName>, prince of the believers, immediately made his preparations, ordering the drum to be beaten and his troops to gather around him immediately. All his men swore to remain faithful to him until death.</p>
 
 <p>Then he mounted his horse and, at the head of his victorious army, rode in the direction of <roleName>chî</roleName> Bảro. The two troops met on Monday, the 24th of the month of Jomâda II. Between the time when the askia, prince of the believers, had sent his [first] message to the <roleName>chî</roleName> Bảro and the time of
 <note n="1"><foreign xml:lang="ara">وانصر على الصليب وعابديه البوم اهلك</foreign>
@@ -680,28 +679,28 @@ the meeting of their two armies, fifty-two days had passed.
 
 
 <p>A violent battle ensued between the two troops. God came to the aid of the askia against the <roleName>chî</roleName> <persName>Bâro</persName>, whose soldiers were routed and suffered such terrible losses that they believed that they were all going to perish and that the end of the world
-had arrived. The Dendi-fâri Afoumba, who was next to the <roleName>chî</roleName> <persName>Bâro</persName> and who was a very brave man, threw himself that day into the River, where he died.</p>
+had arrived. <persName><roleName>The Dendi-fâri</roleName> Afoumba</persName>, who was next to the <roleName>chî</roleName> <persName>Bâro</persName> and who was a very brave man, threw himself that day into the River, where he died.</p>
 
-<p>As for El-Hâdj Mohammed, he had with him the mansa Koûra, son of the mansa Moûssa, of which it was spoken before, but he was accompanied by none of the other kings of Tekroûr nor of Songaï, none having answered his call
+<p>As for <persName><roleName>El-Hâdj</roleName> Mohammed</persName>, he had with him <persName><roleName>the mansa</roleName> Kûra</persName>, son of <persName><roleName>the mansa</roleName> Mûsa</persName>, of which it was spoken before, but he was accompanied by none of the other kings of Tekroûr nor of Songaï, none having answered his call
 except for this one.</p>
 
 <p>When God had routed the troops of <roleName>chî</roleName> <persName>Bâro</persName>, he fled alone to Ayorou1, where he remained until his death, while the very fortunate, the very orthodox2 seized power and became the prince of the believers and the khalifa of the Muslims.</p>
 
 <p>
-Thus God made the askia El-Hâdj Mohammed inherit all the territory of the <persName>Bâro</persName> <roleName>chî</roleName>, a territory which extended from <placeName>Kanta</placeName> to <placeName>Sibiridougou</placeName>3, and this prince found himself becoming the master of twenty-four tribes which consisted of slaves of the <roleName>chî</roleName> and not of free men reduced to slavery.4</p>
+Thus God made the askia <persName><roleName>El-Hâdj</roleName> Mohammed</persName> inherit all the territory of the <persName>Bâro</persName> <roleName>chî</roleName>, a territory which extended from <placeName>Kanta</placeName> to <placeName>Sibiridougou</placeName>3, and this prince found himself becoming the master of twenty-four tribes which consisted of slaves of the <roleName>chî</roleName> and not of free men reduced to slavery.4</p>
 
-<note n="1">اير. Ayorou is located on <placeName type="river">the Niger</placeName> at the mouth of the <placeName type="river">Gorouol</placeName>, between <placeName>Koûkiya</placeName> and <placeName>Tillabéry</placeName>. An earlier passage carried that the <persName>Bâro</persName> <roleName>chî</roleName> had taken refuge in Diâga, which is less likely. It is possible, however, that the Diâga in question is a locality close to Ayorou.</note>
+<note n="1"><foreign xml:lang="ara">اير</foreign> <placeName>Ayorou</placeName> is located on <placeName type="river">the Niger</placeName> at the mouth of the <placeName type="river">Gorouol</placeName>, between <placeName>Koûkiya</placeName> and <placeName>Tillabéry</placeName>. An earlier passage carried that the <persName>Bâro</persName> <roleName>chî</roleName> had taken refuge in <placeName>Diâga</placeName>, which is less likely. It is possible, however, that the <placeName>Diâga</placeName> in question is a locality close to <placeName>Ayorou</placeName>.</note>
 
-<note n="2">That is, the askia El-Hâdj Mohammed.</note>
+<note n="2">That is, the askia <persName><roleName>El-Hâdj</roleName> Mohammed</persName>.</note>
 
 <note n="3">See note 1, page 82.</note>
 <note n="4">The author means that these were tribes or castes of servile origin, which formed, as it were, the human domain of the crown under the <roleName>chî</roleName> and then under the askia, and not noble tribes which the <roleName>chî</roleName> or their successors would have conquered and reduced to a state of captivity.</note>
 <milestone unit="scannumber" n="135"/>
 
 <pb n="107"/>
-<p>We shall enumerate, God willing, the names of these tribes. Three of them were among the pagan tribes of the Bambara. The first was related to the descendants of Diara Koré Boukar, while the second had its origin in Ngaratibi1 and the third came from Kassambara. (The <roleName>chî</roleName> <persName>Bâro</persName> had inherited these tribes from his father the <roleName>chî</roleName>
-Ali, who had inherited them in the same way from the <roleName>chî</roleName> Souleïmân-Dâma,
-to whom some give the name of Dândi. In the same way the latter had inherited them from the <roleName>chî</roleName> Balma, this one from the <roleName>chî</roleName> Mohammed-Fâri, this one from the <roleName>chî</roleName> Mohammed-Koûkiya: In the same way the latter had inherited them from the <roleName>chî</roleName> Mâdogo, who, himself, had seized them on the <roleName><placeName>Malli</placeName>-koï</roleName> .</p>
+<p>We shall enumerate, God willing, the names of these tribes. Three of them were among the pagan tribes of the Bambara. The first was related to the descendants of Diara Koré Boukar, while the second had its origin in Ngaratibi1 and the third came from Kassambara. (<persName>The <roleName>chî</roleName> Bâro</persName> had inherited these tribes from his father <persName>the <roleName>chî</roleName>
+Ali</persName>, who had inherited them in the same way from the <persName><roleName>chî</roleName> Souleïmân-Dâma</persName>,
+to whom some give the name of <persName>Dândi</persName>. In the same way the latter had inherited them from the <roleName>chî</roleName> Balma, this one from the <persName><roleName>chî</roleName> Mohammed-Fâri</persName>, this one from the <persName><roleName>chî</roleName> Mohammed-Koûkiya</persName>: In the same way the latter had inherited them from the <roleName>chî</roleName> Mâdogo, who, himself, had seized them on the <roleName><placeName>Malli</placeName>-koï</roleName> .</p>
 
 <p>These tribes in fact had become vassals of the <roleName><placeName>Malli</placeName>-koï</roleName> at the time when the ancestors of the latter had increased their power and after having held the [first] <roleName><placeName>Malli</placeName>-koï</roleName> themselves under their authority. Later, God having brought down the power of the <roleName><placeName>Malli</placeName>-koï</roleName> to the benefit of the <roleName>chî</roleName> Mâdogo, the latter ravaged the empire of the <roleName><placeName>Malli</placeName>-koï</roleName>, took their children into captivity, seized all their property, and took away from them the property of these twenty-four tribes.</p>
 
@@ -711,7 +710,7 @@ to whom some give the name of Dândi. In the same way the latter had inherited t
 
 <note n="2">See note 1, page 21; the text here bears the spelling كسم برم.</note>
 
-<note n="3">The Arabic word نلاد, used by the author, refers to hereditary property long owned by the same family and also to cattle or slaves born in the house. It responds exactly to the Sudanese expressions which we vulgarly translate as "hut captives" and which apply to the descendants of slaves born in the master's house and forming part of the family property.</note>
+<note n="3">The Arabic word <foreign xml:lang="ara">نلاد</foreign>, used by the author, refers to hereditary property long owned by the same family and also to cattle or slaves born in the house. It responds exactly to the Sudanese expressions which we vulgarly translate as <gloss>hut captives</gloss> and which apply to the descendants of slaves born in the master's house and forming part of the family property.</note>
 
 
 <milestone unit="scannumber" n="136"/>
@@ -736,9 +735,9 @@ soldiers, and, if the harvest was nil, he struck the people with an imposition a
 
 <p>When <persName><roleName>the askia</roleName> Muhammad</persName> had become the master of these tribes, he fixed the benefit thus: every year, at harvest time, he sent a man from his entourage to collect the produce of the harvest; if anyone was able to give ten measures of flour1, they took it from him; if anyone could give twenty measures, they took it from him, and so on up to thirty measures, without exceeding this figure, which was the limit that was never crossed, even if the taxpayer would have been able to provide a thousand measures. <persName><roleName>The askia</roleName> Mohammed</persName> also took from these people some of their children and used them to buy horses.2</p>
 
-<p>As for the fourth of the twenty-four tribes of which we have spoken, it was the tribe of the people called Tyindikèta (<ref target="arpage57"/>), from a word which, in their language, means "cutter of grass."3 Their work, from the time of the <roleName><placeName>Malli</placeName>-koï</roleName> until the time of the <roleName>chî</roleName>, consisted in cutting grass for the horses. When they passed into the hands of <persName><roleName>the askia</roleName> Mohammed</persName>, the latter maintained this custom, for he found that they were good only for tending horses. However <persName><roleName>the askia</roleName> Mohammed</persName> imposed a new obligation on them, enjoining the adults to make dugouts which the young boys employed as grooms would make use of for the service of the horses.4 <persName><roleName>The askia</roleName> Mohammed</persName> did indeed take from this tribe a number of young boys to whom he had his horses groomed, wherever he found them from <placeName>Gâo</placeName> to <placeName>Sibiridougou</placeName>.</p>
+<p>As for the fourth of the twenty-four tribes of which we have spoken, it was the tribe of the people called <rs type="ethnic">Tyindikèta</rs> (<ref target="arpage57"/>), from a word which, in their language, means <gloss>cutter of grass</gloss>.3 Their work, from the time of the <roleName><placeName>Malli</placeName>-koï</roleName> until the time of the <roleName>chî</roleName>, consisted in cutting grass for the horses. When they passed into the hands of <persName><roleName>the askia</roleName> Mohammed</persName>, the latter maintained this custom, for he found that they were good only for tending horses. However <persName><roleName>the askia</roleName> Mohammed</persName> imposed a new obligation on them, enjoining the adults to make dugouts which the young boys employed as grooms would make use of for the service of the horses.4 <persName><roleName>The askia</roleName> Mohammed</persName> did indeed take from this tribe a number of young boys to whom he had his horses groomed, wherever he found them from <placeName>Gâo</placeName> to <placeName>Sibiridougou</placeName>.</p>
 
-<note n="1">The author uses the word غت, plural افتات. Perhaps this is the equivalent of the songai word <foreign>fadda</foreign>, which refers to a measure corresponding to about 120 liters.</note>
+<note n="1">The author uses the word <foreign xml:lang="ara">غت</foreign>, plural <foreign xml:lang="ara">افتات</foreign>. Perhaps this is the equivalent of the songai word <foreign>fadda</foreign>, which refers to a measure corresponding to about 120 liters.</note>
 
 <note n="2">Using these children as currency.</note>
 
@@ -748,17 +747,17 @@ soldiers, and, if the harvest was nil, he struck the people with an imposition a
 
 <milestone unit="scannumber" n="138"/>
 <pb n="110"/>
-<p>The fifth tribe was the Zendji1. Each Zendji from the Kanta to the <placeName>Sibiridougou</placeName>, also owed a royalty which was collected each year at the time of the fall of the waters of the River. It consisted, for those who were able to provide them, of ten packages of dried fish; for those who could provide only nine, it was of nine; for those who could provide only seven, it was of seven, and so on until only one packet for those who could provide only one, each one paying according to his means, without however that the royalty could never exceed ten packets.</p>
+<p>The fifth tribe was <rs type="ethnic">the Zendji</rs>1. Each <rs type="ethnic">Zendji</rs> from the Kanta to the <placeName>Sibiridougou</placeName>, also owed a royalty which was collected each year at the time of the fall of the waters of <placeName n="Niger" type="river">the River</placeName>. It consisted, for those who were able to provide them, of ten packages of dried fish; for those who could provide only nine, it was of nine; for those who could provide only seven, it was of seven, and so on until only one packet for those who could provide only one, each one paying according to his means, without however that the royalty could never exceed ten packets.</p>
 
 
 <p>Whenever anyone came to the prince to ask for a boat, he provided it by taking from the people of that tribe a dugout canoe with its crew.</p>
 
 
-<p><persName><roleName>The askia</roleName> Mohammed</persName> in fact had taken and reserved these people for his service and that of the people of his house, not allowing anyone to employ them or sell them. He reserved this right for himself and his children, but made an exception for the Hasanid sheriff Es-Seqli, who was a descendant of Ali. When this sheriff went to <placeName>Gâo</placeName> and found <persName><roleName>the askia</roleName> Muhammad</persName> there, the latter gave him all the descendants of a Zendji called Faran-Taka2, who were at that time 2,700 in number.3 The prince made this gift to the sheriff because he belonged to the descendants of the Prophet (God shower his blessings on him and grant him salvation!) and to show his affection for him. In the biography of <persName><roleName>the askia</roleName> Mohammed</persName>, we will talk in detail, God willing, about
+<p><persName><roleName>The askia</roleName> Mohammed</persName> in fact had taken and reserved these people for his service and that of the people of his house, not allowing anyone to employ them or sell them. He reserved this right for himself and his children, but made an exception for the <persName><rs type="ethnic">Hasanid</rs> <roleName>sheriff</roleName> Es-Seqli</persName>, who was a descendant of <persName>Ali</persName>. When this sheriff went to <placeName>Gâo</placeName> and found <persName><roleName>the askia</roleName> Muhammad</persName> there, the latter gave him all the descendants of a <rs type="ethnic">Zendji</rs> called <persName>Faran-Taka</persName>2, who were at that time 2,700 in number.3 The prince made this gift to the sheriff because he belonged to the descendants of the Prophet (God shower his blessings on him and grant him salvation!) and to show his affection for him. In the biography of <persName><roleName>the askia</roleName> Mohammed</persName>, we will talk in detail, God willing, about
 
-<note n="1">See note 2 on page 38. It seems that the people to whom the author gives this name were mainly fishermen and boatmen (present-day Kurtei, Sorko, Bozo and Somono).</note>
+<note n="1">See note 2 on page 38. It seems that the people to whom the author gives this name were mainly fishermen and boatmen (present-day <rs type="ethnic">Kurtei</rs>, <rs type="ethnic">Sorko</rs>, <rs type="ethnic">Bozo</rs> and <rs type="ethnic">Somono</rs>).</note>
 
-<note n="2">فرن تك. This character, who has remained legendary among the Songai, was the son of the famous Faran, ancestor of a clan of Sorko that still bears his name today.</note>
+<note n="2"><figure xml:lang="ara">فرن تك</figure>. This character, who has remained legendary among the <rs type="ethnic">Songai</rs>, was the son of the famous Faran, ancestor of a clan of Sorko that still bears his name today.</note>
 
 <note n="3">In an earlier passage, the author has already related this anecdote, but only estimating the number of Zendji given to the sheriff at 1,700.</note>
 
@@ -770,7 +769,7 @@ this liberality, as well as of the division of the Zendji which were attributed 
 
 <p>The sixth tribe consisted of the people called Arbi1. These provided the servants of the prince, the members of his household and his servants; their daughters were employed in the service of his wives. They also farmed for him and his children. The young men of the tribe escorted him in arms, marching before and behind him in war as in ordinary times; he employed them as messengers for his special missions. The people of this tribe were exclusively attached to the service of the prince and that is why they were not required to pay royalties in kind.</p>
 
-<p>As for the seventh, eighth, ninth, tenth and eleventh tribes, which were tribes of blacksmiths, they were the tribes of the Diam-Téné, the Diam-Ouali, the Sorobanna, [of the Komé] and of the Samatséko. These five tribes were all descended from the same father. This father was a blacksmith, (<ref target="arpage58"/>) a slave of the Christians, who had fled from the islands of the Atlantic Ocean and had come to <placeName>Koûkiya</placeName>, capital of the <roleName>chî</roleName>, at the time of the <roleName>chî</roleName> Mohammed-Fâri. This slave, whose name was Boukar, married a slave of Nâna-Salam, mother of the aforementioned <roleName>chî</roleName>. This slave, who was called Matabala, gave him five male children: Téné, who was the father of the Diam-Téné tribe; Ouali, who was the father of the Diam-Ouali tribe; Sorobanna, who was the father of the Sorobanna tribe; Komé, who was the father of the Komé tribe, and Samatséko, who was the father of the Samatséko tribe, these tribes attaching their genealogies to their fathers.3</p>
+<p>As for the seventh, eighth, ninth, tenth and eleventh tribes, which were tribes of blacksmiths, they were the tribes of the Diam-Téné, the Diam-Wali, the Sorobanna, [of the Komé] and of the Samatséko. These five tribes were all descended from the same father. This father was a blacksmith, (<ref target="arpage58"/>) a slave of the Christians, who had fled from the islands of the Atlantic Ocean and had come to <placeName>Koûkiya</placeName>, capital of the <roleName>chî</roleName>, at the time of the <roleName>chî</roleName> Mohammed-Fâri. This slave, whose name was Boukar, married a slave of Nâna-Salam, mother of the aforementioned <roleName>chî</roleName>. This slave, who was called Matabala, gave him five male children: Téné, who was the father of the Diam-Téné tribe; Wali, who was the father of the Diam-Wali tribe; Sorobanna, who was the father of the Sorobanna tribe; Komé, who was the father of the Komé tribe, and Samatséko, who was the father of the Samatséko tribe, these tribes attaching their genealogies to their fathers.3</p>
 
 <note n="1">See note 5, page 21.</note>
 
@@ -811,7 +810,7 @@ He and his sons engaged in robbery, cutting off roads, murdering people, taking 
 
 <note n="1">That is, the year 898 of the hegira (1492-1493), in which the <roleName>chî</roleName> Baro was defeated by <persName><roleName>the askia</roleName> Muhammad</persName>.</note>
 
-<note n="2">This allows us to assign the year 1468 as the approximate date of birth of <persName>Mahmud Kâti</persName>, the author of this narrative.
+<note n="2">This allows us to assign the year 1468 as the approximate date of birth of <persName>Mahmûd Kâti</persName>, the author of this narrative.
 </note>
 
 
