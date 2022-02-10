@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader xml:lang="eng">
+<fileDesc>
+<titleStmt>
+<title xml:lang="eng">Tarikh as-Sudân</title>
+<author>Aberrahmen ben Abdallah ben 'Imran ben 'Amir es-Sa'di.</author>
+<editor xml:lang="fra">O. Houdas</editor>
+<funder>Volunteer</funder>
+<principal>Gregory Crane</principal>
+<respStmt>
+<persName>Gregory Crane</persName>
+<resp>Editor-in-Chief, Perseus Digital Library</resp>
+</respStmt>
+
+</titleStmt>
+<publicationStmt>
+<authority>Perseus Digital Library</authority>
+
+<idno type="filename">TBA.xml</idno>
+<availability>
+<licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
+</availability>
+<date>2021</date>
+<publisher>Perseus Library</publisher>
+<pubPlace>United States</pubPlace>
+</publicationStmt>
+<sourceDesc>
+<listBibl>
+<biblStruct>
+<monogr>
+
+<title xml:lang="eng">Tarikh al-Fattâsh</title>
+<editor>
+<persName>     <name xml:lang="fra">O. Houdas</name>     <name xml:lang="eng">Gregory Crane</name>
+</persName>
+</editor>
+<author ref="urn:TBA">Mahmoûd Kâti et al.</author>
+
+<imprint>
+<publisher>Ernest Leroux</publisher>
+<pubPlace>Paris</pubPlace>
+<date>1900</date>
+</imprint>
+
+<biblScope unit="pages">TBA</biblScope>
+
+</monogr>
+<ref target="https://babel.hathitrust.org/cgi/pt?id=ien.35556012109526">The Hathi Trust</ref>
+</biblStruct>
+</listBibl>
+</sourceDesc>
+</fileDesc>
+
+
+<encodingDesc>
+
+<p>Text encoded in accordance with the latest EpiDoc standards (January 2014)</p>
+<p>The following text is encoded in accordance with EpiDoc standards and with the CTS/CITE Architecture.</p>
+
+
+<refsDecl n="CTS">
+
+<cRefPattern n="cited quotation" matchPattern="(.+).(.+).(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2']/tei:cit[@n='$3'])">
+<p>This pointer pattern extracts single fragments</p>
+
+
+</cRefPattern>
+
+<cRefPattern n="paragraph" matchPattern="(.+).(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])">
+<p>This pointer pattern extracts all the fragments classified under the same paragraph number</p>
+</cRefPattern>
+
+<cRefPattern n="book" matchPattern="(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+<p>This pointer pattern extracts books or sections</p>
+
+</cRefPattern>
+
+
+
+
+</refsDecl>
+
+</encodingDesc>
+<profileDesc>
+<langUsage>
+<language ident="grc">English</language>
+<language ident="grc">French</language>
+<language ident="ara">Arabic</language>
+</langUsage>
+</profileDesc>
+<revisionDesc>
+<change who="Gregory Crane">created the file</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+    <div type="textpart" subtype="chapter" n="21"><head>CHAPTER XXI (<foreign>orv</foreign>) COMING OF PASHA DJOUDER TO SUDAN</head>
+
+<p>Djouder was small in stature and had blue eyes. Here are the circumstances which occasioned his coming: There was a certain Ould-Kirinfil who was one of the servants of the prince of Songhaï. His master, the sovereign Askia-Ishâq, son of Prince Askia-Daoud, son of Prince Askia-El-Hâdj-Mohammed, being irritated with him, had sent him to be interned at Teghầzza, a locality which was part of the states of the Songhaï kings and was administered by them.</p> 
+
+<p>Then fate would have it that Ould-Kirinfil managed to escape from this locality where he was interned and succeeded in getting to the red city of Merrâkech. His intention was to present himself to the ruler of the country, Sherif Maulay Ahmed-Edz-Dzehebi, but the latter had, at that time, left Merrâkech and was in Fez where he had gone to chastise the cherifs of that city.
+
+<milestone unit="scanpge" n="246"/>
+
+<pb n="216"/>
+
+He had had the eyes of the rebels gouged out and many of them succumbed to this torment. (We belong to God and it is to him that we must return.) He had done this for purely temporal benefits. (God preserve us from such a fate!)</p>
+
+<p>Ould-Kirinfil remained in Merrâkech; from there he wrote a letter to the Moroccan sovereign in which he informed him of his arrival and gave him news of the Songhaï country whose inhabitants, he said, were in a deplorable situation because of the baseness of their nature. He therefore strongly urged Maulay Ahmed to seize this country and wrest it from the hands of its masters.</p>
+
+<p>As soon as he had received this letter, Maulay Ahmed wrote in turn to Prince Askia-Ishâq, announcing that he intended to go to his country, that, for the moment, he was in Fez far from his capital, but that, God willing, the Askia could, by the document attached to his letter, know his intentions. And, among other things, Maulay Ahmed, in this document, asked that one abandon to him the exploitation of the salt mine of Teghâzza, a mine which, more than any other, he had right to possess since it was thanks to him that this country was defended and protected against the incursions of the Christian infidels, etc. These dispatches, sent by messenger, arrived in the city of Kâgho while the sovereign was still in Fez, in the month of safar of the year 998 of the flight of the Prophet (may the best greetings and blessings be upon him!) (December 10, 1589 - January 8, 1590). I have seen the original of these documents myself. Maulay Ahmed then returned to Merrâkech. The snow was so heavy during this journey that he almost perished on the way; many of his people lost their hands or feet because of the cold and they arrived at the capital in the most unfortunate state. Let us ask God to spare us these trials.</p>
+
+<milestone unit="scanpge" n="247"/>
+
+<pb n="217"/>
+
+<p>Not only did Prince Askia-Ishâq not consent to give up the mine of Teghâzza, but he replied in violent and insulting terms and sent javelins and two iron shoes along with his reply. As soon as this message reached him, Maulay Ahmed decided to send an army to make an expedition to the Sudan, and the following year, that is, in the month of moharrem which began the year 999 (November 1590), he had set on the march against the Songhaï an important military force comprising 3,000 men-at-arms, both cavalry and infantry, accompanied by a double number of followers of all kinds, workmen of various types, doctors, etc.</p>
+
+<p>The pasha Djouder was put at the head of this expedition; he had with him a dozen generals, the caïd Mostafa-El-Torki, the caïd Mostafa-ben-Asker, the caïd Ahmed-El-Harousi-El-Andelousi, the caïd Ahmed-ben-El-Haddâd-El-`Amri, chief of the gendarmerie, the caïd Ahmed-ben-Atiya, the caïd 'Ammâr-El-Feta the renegade, the caïd Ahmed-ben-Yousef the renegade, and the caïd 'Ali-ben-Mostafa the renegade, this last one, who was the first Moroccan chief invested with the command of the city of Kâgho, perished at the same time as the pacha Mahmoud-ben-Zergoun, when this one was killed at El-Hadjar. Finally, the caïd Bou-Chiba-El-Amri and the caïd Bou-Gheïta-El-'Amri. Two lieutenant-generals commanded the two wings of the army: Ba-Hasen-Friro, the renegade, the right wing and Qasem-Waradouï-El-Andalousi, the renegade, the left wing. These were the generals and lieutenants who left with Djouder.</p>
+
+<p>The Moroccan prince announced to his generals that it resulted from divinatory calculations that the country of Songhaï should cease to be dominated by the Sudanese and that his army should take over a certain part of these lands. The army then set out on the march towards the Songhaï.</p> 
+
+<milestone unit="scanpge" n="248"/>
+
+<pb n="218"/>
+
+<p>As soon as he heard the news (<foreign>١٣٩</foreign>) of the departure of this army, Prince Askia-Ishâq called together his generals and the principal personages of his kingdom in order to consult them as to the measures to be taken and to ask their advice; but whenever sound advice was given it was hastily rejected. God, in His foreknowledge, had thus decided that this kingdom would disappear and that this dynasty would collapse: no one can repel what He has decided, nor can he obstruct His decisions.</p>
+
+<p>It so happened that at this time Hammou-ben-Abd-el-HaqqEd-Der'i had come on a journey to Kâgho. The Askia prince gave the order to Sheikh Ahmed-Touïreq-Ez-Zobeïri to arrest and put Hammou in prison, although the latter was the agent of the Songhaï in Teghâzza, under the pretext that he had only come to Kâgho in order to serve as a spy for the Moroccan ruler Ahmed-Edz-Dzehebi. The order was carried out and Hammou was thrown into prison along with Rafi', Ahmed-Nini-Bir and El-Harrouchi, father of Ahmed-El-Amdjed.</p> 
+
+<p>The Moroccan troops reached the Niger in the vicinity of the town of Karabara. They stopped at this place where Djouder gave a great meal to celebrate their happy arrival at the edge of the River. The fact that these men had arrived there safe and sound was an omen that the enterprise would succeed and that success would crown the efforts of their leader. This event took place on Wednesday, the 4th of the month of Jomada II in the year 999 of the Hegira (March 30, 1591) as previously mentioned.</p>
+
+<p>The army did not pass through the city of Araun, but it passed to the east of that locality. On its way it met the camels of Abdallah-ben-Chaïn-El-Mahmoudi; Djouder took from these camels the quantity that was necessary for him, then Abdallah left at once for Morocco and went to Merrâkech to Maulay Ahmed to whom he complained of
+
+<milestone unit="scanpge" n="249"/>
+
+<pb n="219"/>
+
+the injustice of which he had thus been the victim. It was he who first announced the arrival of the Moroccan army on the banks of the Niger. The first person about whom the prince asked him was Ba-Hasen. "Ba-Hasen," he replied, "is perhaps well."" Then the prince asked about the caïd Ahmed-ben-El-Iladdâd and the pasha Djouder. Then he wrote to the latter to pay the value of the camels he had taken.</p>
+
+<p>The Moroccans then resumed their march; they headed (<foreign>١٤٠</foreign>) for the town of Kâgho and met on their way Prince Askia-Ishâq at a place called Tenkondibo'o, near Tonbodi. The Songhaï prince was at the head of 12,500 horsemen and 30,000 infantrymen. The gathering of these troops had not been done earlier because the Songhaï people could not believe the news of the expedition and had waited for his arrival on the banks of the River.</p>
+
+<p>The battle began on Tuesday, the 17th of the month previously mentioned (April 12). In the twinkling of an eye the troops of Askia were routed. Among the notable persons who perished in this battle we cite among the horsemen: Fondoko Boubo-Meryama, the former chief of the recalled<note resp="grc">revoqué.</note> Mâsina; Cha-Farma Ali-Djâouenda; Binka-Farma 'Otsmân-Dorfan-ben-Bokar-Kirin-Kirin, the son of Prince Askia-El-Hâdj-Mohammed ; he was then very old and Askia-Ishâg had named him Binka-Farma when the Binka-Farma Mohammed-Heika had died, as we have said, in the expedition of Nemnatako. </p>
+
+<p>A great number of characters also perished on that day among the foot soldiers. When the army was defeated they threw their shields on the ground and crouched on these kinds of seats, waiting for the arrival of the troops of Djouder, who slaughtered them in this attitude without their making any resistance and that because they were not to flee in case
+
+<milestone unit="scanpge" n="250"/>
+
+<pb n="220"/>
+
+of a rout. The Moroccan soldiers took off the gold bracelets which they had on their arms.</p>
+
+<p>Askia-Ishâq turned and fled with the rest of his troops; then he commanded the people of Kâgho to leave the city and flee across the Niger in the direction of Gourma; he also sent the same recommendation to the inhabitants of Timbuktu, and, continuing on his way without passing through Kâgho, he arrived with this group at Koraï-Gourma. Arrived in that place, he camped there with the remainder of his troops, in the middle of the cries and the lamentations. It was in the middle of cries and vociferations that one began with great difficulty to cross the River in boats. In the rush that occurred many people fell into the River and perished (<foreign>١٤١</foreign>); moreover, such a quantity of wealth was lost that only God knows its value.</p>
+
+<p>As for the people of Timbuktu, it was impossible for them to leave the city and cross the Niger because of the obstacles they encountered and the difficulties of the situation. Only the Timbuktu-Mondzo Yahya-ould-Bordam and the servants of the Askia who were there left the city and went to camp at Elkif-Kindi, a locality near Touya.</p>
+
+<p>Pasha Djouder continued with his army to Kâgho. There was no one left in this town except the khatib Mahmoud-Darâmi, an old man at that time, and the students and merchants who had been unable to get out and flee. The khatib Mahmoud came to meet the Moroccans; he welcomed them, showed them deference and offered them a magnificent and wide hospitality. He had conferences and long talks with pasha Djouder in which he was shown the greatest regard and consideration.</p>
+
+<p>Djouder manifested a desire to enter the palace of Prince Askia-Ishâq; he accordingly sent for witnesses,
+
+<milestone unit="scanpge" n="251"/>
+
+<pb n="221"/>
+
+and when they were there, he entered with them into the palace; but, having visited and examined everything so as to take a good look at it, it seemed to him that it was all very wretched.</p>
+
+<p>The prince Askia-Ishậq sent to ask the pasha to treat with him. He undertook to have Djouder give the Moroccan ruler Maulay Ahmed 100,000 gold coins and 1,000 slaves. In return, the pasha had to abandon the country and bring his army back to Merrâkech. Djouder replied that he was only an obedient slave and that he could only act on the orders of the sovereign, his master. Then, in agreement with the merchants of his country, he wrote in his name and in that of the caïd Ahmed-ben-El-Haddâd to transmit these proposals, after having taken care to say that the house of the chief of the donkeys in Morocco was worth more than the palace of the Askia which he had visited. This letter was carried to its destination by Ali-El-'Adjemi who was <term>bâchoud</term><ref target="1"/> at that time.</p>
+
+<p>Djouder took his troops back to Timbuktu where he awaited the response of the Sultan of Morocco. He had remained, if I am not mistaken, only seventeen days in Kâgho. One arrived at Mosa-Benko on (<foreign>١٤٢</foreign>) Wednesday, the last day of the month of djomada II (April 24, 1591); One left on Thursday, the 1st of the month of redjeb the one (April 25), then  went to camp under the walls of Timbuktu on the south side and we remained in this place thirty-five days.</p>
+
+<p>The cadi of Timbuktu, the jurisconsult Abu-Hafs-'Omar, son of the saint of God, the jurisconsult, cadi Mahmud, sent the muezzin, Yahma, to greet the pasha, but he did not offer him the slightest hospitality, contrary to what the khatib Mahmud-Darâmi had done when the Moroccans had arrived at Kâgho. Djouder was deeply irritated by this reception;
+
+<note n="1">This title, the meaning of which is not given in dictionaries, seems to designate officers more especially charged with the transmission of important dispatches or communications. Perhaps, however, the word <term>bâchoud</term> is only the arabized form of the word <foreign>oda-bâchi</foreign> which became <foreign>bâch-oda</foreign>, then <foreign>bâch-od</foreign>.</note>
+
+<milestone unit="scanpge" n="252"/>
+
+<pb n="222"/>
+
+nonetheless, he<ref target="1"/> sent all kinds of fruit, dates, almonds, as well as many sugar canes; then he made the cadi put on a cloak of scarlet cloth<ref target="2"/>. Sensible people expect good things from all this, and what happened confirmed their predictions.</p>
+
+<p>The Moroccans entered the city of Timbuktu on Thursday, the 6th of the month of Sha'ban, the brilliant one (May 30, 1591); they scoured the city in every direction and recognized that the most flourishing district was that of the Ghadamésians. They therefore chose it to set up the kasbah, the construction of which they began, after having expelled a number of people from their houses in the neighborhood.</p>
+
+<p>Djouder then brought Hammou-ben-Abd-el-HaqqEd-Deri out of prison and entrusted him with the duties of <term>amin</term> on behalf of Sultan Maulay Ahmed. As for Ràfi' and Ahmed-Nini-Bịr, they had both died before his arrival in Kâgho. The pasha had given forty days' delay, both in going to Merrâkech and in returning, to the Bâchoud Ali-El-'Adjemi.</p>
+
+<p>When the Moroccan army had arrived in the Sudan it had found this country one of God's most favored by wealth and fertility. Peace and security reigned everywhere in all the provinces thanks to the sovereign the very fortunate, the blessed, the prince of the Believers, Askia-El-Hâdj-Mohammed-ben-Abou-Bekr, whose justice, firmness extended everywhere, so that his orders carried out without difficulty in his palace were executed with equal ease on all the most distant points of the empire, from the borders of the country of Dendi to those of the country of El-Hamdiya, from the confines of the country of Bindoko to Teghâzza and the Touât as well as in all their dependencies. </p>
+
+<note n="1">This passage is so poorly written that it is unclear whether it was Djouder or the cadi who sent these delicacies.</note>
+
+<note n="2">This word is so written and vocalized in the text <foreign></foreign> <foreign>sacarlâd</foreign>.</note>
+
+<milestone unit="scanpge" n="253"/>
+
+<pb n="223"/>
+
+<p>Everything changed at that moment (<foreign>18x</foreign>): danger took the place of security; misery of opulence; disorder, calamities, and violence succeeded tranquility. Everywhere the people devoured each other; in all places and in all directions the plundering was carried out and the war spared neither the life, nor the goods, nor the situation of the inhabitants. The disorder was general, it spread everywhere, rising to the highest degree of intensity.</p>
+
+<p>The first who gave the signal for this violence was Sanba-Lamdou, the chief of Donko; he ruined the country of Ras-el-mâ; he seized all the property, caused a number of inhabitants to perish, and enslaved a number of free men. His example was followed by the Zaghrânians who devastated the country of Bara and that of Dirma. As for the territory of Dienné, it was sacked in the most horrible way by the idolatrous Bambaras who, in the east as well as in the west, in the north as well as in the south, destroyed all the villages, plundered all the goods and made the free women their concubines with whom they had children who were brought up in the religion of the magi<ref target="1"/> (God preserves us from such calamities!). All these atrocities were carried out under the direction of the Châ'a-Koï, of Qâsem, son of the Binka-Farma Alou-Zolaïl-ben-Omar-Komzâgho, the paternal cousin of the Bâghena-Fâri and Bohom, son of the Fondoko Boubo-Maryama, of the Masina.</p>
+
+<p>Among the pagan chiefs who led these hordes of brigands are Mansa-Sama in the country of Fadoko<ref target="2"/>; Qâïa-Bâbo, in the country of Koukiri, on the Kala side. On the side of Chili and Bindoko were Salti-Sanba-Kisi, the Fulani, head of the Ourourbi tribe; Salti-Yorobara, father of Hamda-Soulo, the Fulani, head of the Djaloubi tribe established on the side of Foromàn; Mansa-Magha-Ouli, father of Kin'i-Koï, one of the twelve sultans of Bindoko, number equal to
+
+<note n="1">This word is taken here in the sense of fetishists or pagans.</note>
+
+<note n="2">Or "Fadko."</note>
+
+<milestone unit="scanpge" n="254"/>
+
+<pb n="224"/>
+
+that which they were in the country of Kala, and Bonkouna-Kendi, etc.</p>
+
+<p>These troubles were constantly renewed and always growing, while, since the day when Prince Askia-El-Hâdj-Mohammed had ascended the throne of Songhaï (<foreign>122</foreign>), none of the chiefs of any region had dared to attack the rulers of the country, so much strength, vigor, boldness, courage, and majesty had God bestowed upon them. Well, on the contrary, it was the prince who went to attack these chiefs in their country and more often than not God granted him victory, as we have seen in the accounts of the history of the Songhaï.</p>
+
+<p>This lasted until about the time when the Songhaï dynasty came to an end and its empire ceased to exist. At that time faith was transformed into infidelity; there was not a single thing forbidden by God that was not practiced openly. Wine was drunk; sodomy was indulged in and adultery had become so frequent that its practice seemed to be licit. Without it no elegance, no glory: it was to such an extent that the children of the sultans committed adultery with their sisters.</p>
+
+<p>It is said that the fact first occurred at the end of the reign of the Sultan, the righteous, the prince of the Believers, Askia-El-Hâdj-Mohammed, and that it was his son Yousef-Koï who devised this kind of debauchery. When the father heard about this, he became very angry and cursed his son, asking God to deprive him of his manly member before entering the next world. God granted this request and a disease caused the young prince to lose the organ of his virility. (Heaven forbid such a fate!) The curse extended to Yousef's son, Arbinda, father of the Bana-Koï<ref target="1"/> Ya'qoub, for as a result of
+
+<note n="1">Ms. C. gives "Toni-Koï."</note>
+
+<milestone unit="scanpge" n="255"/>
+
+<pb n="225"/>
+
+the same disease he also lost his manly member towards the end of his life.</p>
+
+<p>It was because of these abominations that God took vengeance by drawing the victorious Moroccan army upon the Songhaï; he brought them from a very distant land, amid terrible suffering. Then the roots of this people were separated from the trunk, and the punishment they suffered was one of the exemplary ones.</p>
+
+<p>Now let us return to the account of the peace proposals we have been talking about. The bâchoud 'Ali-El-'Adjemi, sent by Djouder, reached Sultan Maulay Ahmed and made known to him first the news of the conquest of the Sudan. When the sultan had read the letter addressed to him he went into a violent rage; he immediately dismissed Djouder from his duties and replaced him with the pasha Mahmoudben-Zergoun who left at the head of 80 soldiers, taking with him, as secretary, Mâmi-ben-Berroun and, as chaouch, Ali-ben-'Obéïd.</p>
+
+<p>The new pasha was ordered to drive Askia-Ishâq out of the Sudan, to have the caïd Ahmed-ben-El-Haddâd-El-'Amri put to death because he had agreed with Djouder to talk peace. The letter announcing to the troops the decision concerning the caïd was given to the pasha. But the sheriffs<ref target="1"/> and the principal (<foreign>120</foreign>) chiefs of the prince's entourage, having requested the pardon of Ahmed-ben-El-Haddâd, succeeded in obtaining it and requested that a new letter be sent in this regard. This second letter containing the pardon was written and it reached the caïd Abmed-ben-El-Haddâd before the first. On receiving it, he gave a dinner to which he invited the lieutenant-generals and the bâchoud and informed them of what had happened. Then he gave 100 mitqâls to each of the lieutenant-generals and gave gifts to each of the bâchoud.</p>
+
+<note n="1">The women of the court, daughters or wives of the sovereign.</note>
+
+<p>(History of the Sudan.) 16</p>
+
+<milestone unit="scanpge" n="256"/>
+
+<pb n="226"/>
+
+<p>These then announced to him that no unpleasantness would befall him as long as the letter of grace had preceded the other. In the evening, indeed, when the order to put the caïd to death arrived, they interposed themselves between him and the pasha Mahmoudben-Zergoun and delivered their friend by invoking the natural order of things.</p> 
+
+<p>On Friday, 26 of the month of Shaul of the year 999 (17 August 1591), Mahmoud arrived in Timbuktu accompanied by the caïd Abd-El-Ali and the caïd Hammou-Barka. He immediately dismissed Djouder and took command of the army. In the heat of his reproaches and in the anger of his rage he had gone so far as to ask Djouder what had prevented him from pursuing Askia. And as the old pasha gave as an excuse that he had no boats, Mahmoud started to build some. Then, finding no way to justify the death of the caïd Abmed-ben-El-Haddâd, he dismissed him from his duties and gave them to the caïd Ahmed-ben-'Atiya. He did this because, on the one hand, Ben-Atiya and Ben-El-Haddâd were enemies of each other and, on the other hand, the latter was the friend of Pasha Djouder. It was therefore above all the hatred he had against Djouder that guided pasha Mahmoudben-Zergoun in this circumstance.</p>
+
+<p>Mahmoud then decided to march against Askia-Ishâq. First of all, he took care of obtaining boats, for the director of the port, Mondzo-El-Fa'-ould-Zerka, had taken them all away when he fled to the Binka side, when Askia Ishâq had mandated the inhabitants of Timbuktu to evacuate that city. So they cut down the large trees that were in the city walls, made them into planks, then tore off all the large leaves (<foreign>187</foreign>) from the doors of the houses and by assembling the whole they built two boats. The first of these boats was launched into the River on Friday, the 3rd of the holy month of dzu 'l-qaada of that year
+
+<milestone unit="scanpge" n="257"/>
+
+<pb n="227"/>
+
+(August 23, 1591); the second was launched on a Friday also, the 17th of the same month (September 6).</p>
+
+<p>On Monday, the 20th of that month (September 9), Mahmud at the head of all these troops left the city; he had with him Juder the revoked pasha and all the caïds, except for the caïd El-Mostafa-Et-Torki, whom he delegated to guard Timbuktu with the amin Hammou-Haqq<ref target="1"/>-Ed-Der'i. They camped outside the city walls on the eastern side and remained there until the end of the month; then they set out again on Saturday, the 2nd of the sacred month of dzou 'l-hiddja, the last month of the year 999 (September 24, 1591).</p>
+
+<p>Mahmud camped first at Mosa-Banko; from there he went to camp then at Sihinka where he stayed to perform the prayer of the festival of sacrifices<ref target="2"/>. He then asked the cadi Abu-Hafs-'Omar to send him someone to preside over this prayer and the cadi sent him Imam Sa'id, son of Imam Muhammad-Kidâdo. The latter led the prayer of the feast and Mahmud then assigned him the post of imam in the mosque of the kasbah, a post that Sa'ïd kept until the time he died.</p>
+
+<p>After the feast, Mahmud resumed his march to fight Askia-Ishâq. The latter, who was then in Bornou, having learned of the coming of the enemy, went to meet him. The two adversaries met at Banba, on Monday, 25 of the above-mentioned month (October 14, 1591), and the battle started near the hill of Zenzen. Defeated again by the pasha Mahmoud, Askia-Ishâq fled in complete rout. Among those in his army who succumbed that day was the Fâri-Mondzo Yenba-ould-Saï-Oulo, whose mother was a princess. Askia-Ishâq gave him San-ould-Askia-Daoud as his successor.</p>
+
+<note n="1">We have seen above that he had to read Hammou-ben-Abd-el-Haqg.</note>
+
+<note n="2">Festival that takes place on the 10th of the month of dzou 'l-hiddja.</note>
+
+<milestone unit="scanpge" n="258"/>
+
+<pb n="228"/>
+
+<p>After this appointment, which was the last of his reign, Askia-Ishâq moved to the country of Dendi and camped at Karai-Gurma. In the course of the defeat that he had just suffered, Balama' Mohammed-Kâgho, son of Askia-Daoud, was hit by a bullet and became seriously ill. Askia-Ishâq then ordered him to position himself in an advanced post<ref target="1"/> which he designated for him, while he assigned Barai-Koï Malki (<foreign>18V</foreign>) another post of the same nature. Barai-Koï Malki was further ordered to lead an expedition against the Fulani established at Onso'o, which was done.</p>
+
+<p>In the position where he was, Barai-Koï Malki had with him a number of Askia-Ishâq's brothers whom the latter had dismissed from their duties during the Tonfina expedition because of the cowardice they had shown at that time. Fearing that his brothers would run away and join the enemy, Askia-Ishâq wrote to the Baraï-Koï to incarcerate them, but having heard about it, they fled in the direction of Kâgho. Among them were: Ali-Tondi, Mahmoud-Forâro-Idji, Borhom, Selimân, all sons of prince Askia-Daoud. The pasha Mahmud-ben-Zergoun, with his army, pursued them to Koukiya; then arrived at this place he camped there.</p>
+
+<p>As he was retreating from his second defeat, Askia-Ishâq had sent one of his agents to Timbuktu. He arrived in this city on Friday evening, the first of the month of Moharrem, the initial month of the year 1000 of the Prophet's hegira (may the best of blessings and the most perfect of salutations be upon the author of this hegira!) (October 19, 1591), and related what had happened between his master and Pasha Mahmud. As he arrived in Timbuktu the following fact had just happened there.</p>
+
+<note n="1">The word used here usually designates the posts established on the borders to watch the enemy and prevent aggression.</note>
+
+<milestone unit="scanpge" n="259"/>
+
+<pb n="229"/>
+
+<p>The Timbuktu-Mondzo, Yahia-ould-Bordam, accompanied by his followers and the Zaghrânians living in Yoroua, had come to attack the caïd El-Mostafa-Et-Torki. He arrived under the walls of the city on Thursday, 21 of the sacred month of dzou'l-hiddja which ended the year 999<ref target="1"/> (October 10, 1591); he had sworn, it seems, to enter the kasbah by the door of Kabara and to leave it by the door of the Market. This Yahia, who was the most stupid and ignorant of men, as soon as he arrived under the walls of the kasbah, was hit by a bullet and died the same day in the evening. His head was immediately cut off, put at the end of a pole and carried around the city. A herald followed, shouting loudly: "People of Timbuktu, this head is that of a mondzo from your city. Whoever of you does not keep quiet will suffer a fate similar to that of this mondzo." Then the Moroccan soldiers, their faces crimson with anger, began to draw their guns (<foreign>121</foreign>) and to strike at any time the people they met, which ignited the fire of revolt.</p>
+
+<p>Now let us return to the end of the account of the events that took place between the pasha Mahmoud-ben-Zergoun and the people of Songhaï in these regions. Mahmoud was encamped at Koukiya; he had with him 174 tents, each tent containing 20 riflemen, which gave a total strength of about 4000 riflemen<ref target="2"/>. This was such a considerable army that no one could resist him or put him to flight, unless he was rescued or helped by the Most High.</p>
+
+<p>Askia-Ishâq then sent 1,200 horsemen chosen from among the bravest of his army and from among those who had never turned their backs before the enemy. He put at their head the
+
+<note n="1">It is by mistake that the ms. C says 1099.</note>
+
+<note n="2">At this time the organization of the Moroccan army had been copied from that of the Turks. In the field the soldiers were grouped in squads of 20 men who occupied the same tent. It is hardly necessary to point out that the eſfectif was 3,480 men and not 4,000 men.</note>
+
+<milestone unit="scanpge" n="260"/>
+
+<pb n="230"/>
+
+Hi-Koï Laha-Sorkiyâ, a man of the greatest courage and valour, and enjoined him to attack the enemy if he found an opportunity to surprise him unexpectedly.</p>
+
+<p>Shortly after leaving the Askia, this troop was joined by the Balama' Mohammed-Kâgho, who had with him a hundred horsemen. As the Hi-Koï asked the Balama' why he had come to join him, the latter replied: "It was the Askia who gave me the order to follow you." "This is a lie and a defeat,"<note n="grc">Hunwick: "That is a blatant lie."</note> replied the Hi-Kor. There is no one, great or small, who does not know that a Balama' cannot watch a Hi-Koï. Certainly it is not permitted to be so; but all this, O son of Daoud, is only due to your deplorable habits and your vile characters which make you aspire to power, " Thereupon the Hi-Koï Laha departed with the peopl of his suite.</p>
+
+<p>Dauda-Kouro, son of the Balama' Mohammed-Della-Kobronki, then came out of the ranks of the group and went to the side of the Hi-Koï. O Dauda," said the Hi-Koï, "you want to kill me, as your father killed Mousa, the Hi-Koï Askia-Daoud! You will certainly not be able to, because I am braver than the Hi-Koï Mousa and your father was much better than you. By God, if you come near me, I will disembowel you and drag your entrails to the ground." Dauda immediately returned to the group from which he had come.</p>
+
+<p>Everyone was more convinced than ever of the courage and valour of Hi-Koï Laha and recognized that he had been right to declare that he was superior in bravery to Hi-Koï Mousa (<foreign>189</foreign>). He was indeed the bravest man of his time. Then Laha returned to Askia-Ishâq and told him what had happened. Soon after this the group mentioned above swore loyalty to Muhammad-Kagho and proclaimed him Askia.</p>
+
+<p>On this news Askia-Ishâq prepared to leave for the
+
+<milestone unit="scanpge" n="261"/>
+
+<pb n="231"/>
+
+canton of Kobbi; as soon as he wished to set out the chiefs of the troops who had been under his command laid hands on all the insignia and emblems of royalty, and then they accompanied the prince to a place called Tàra: there they separated. The prince asked them for forgiveness and they on their side implored his clemency, then he began to cry and all burst into tears. This was the last interview he had with them.</p>
+
+<p>The Creator, -- and no one can resist his orders, nor oppose his decisions, -- wanted Askia-Ishâq to go to Tonfina to the pagans of the Gourma, whom he had fought the year before. No one from Songhaï accompanied him in his retreat, except the Yaï-Farma Bana-Idji and some of the people around him. Ishâq did not remain long among the pagans of the Gourma, for they soon put him, his son, and his entire retinue to death, so that all of them died martyrs (God have mercy on them and forgive them!).</p>
+
+<p>Among the traits of Askia-Ishảq's character must be mentioned his generosity; he spread considerable sums of money in donations. He had asked the learned men and faqirs to pray to Heaven that God would not cause him to die while in power. This wish was granted by God in his favor. He died, if I am not mistaken, in the month of Jomada II of the year 1000 (March 15-April 18, 1592).</p>
+
+</div><div type="textpart" subtype="chapter" n="22"><head>CHAPTER XXII: ASKIA-MOHAMMED-KAGHO. - ASKIA-NOUA. - REVOLT OF DIENNÉ .</head>
+
+<p>The army then returned to Askia-Mohammed-Kâgho. When the ceremony of taking the oath of loyalty
+
+<milestone unit="scanpge" n="262"/>
+
+<pb n="232"/>
+
+had ended, the prince sent orders to release his two brothers, the Fâri-Mondzo, Thafa, and the Bental-Farma, Nouh. These two sons of Daoud had been interned in the country of Dendi by their brother Askia-Mohammed-Bâno. As for his other brothers, sons of Askia-Daoud, they immediately (<foreign>10.</foreign>) began to flee and took refuge with the Moroccans.</p>
+
+<p>The first one to take refuge with the enemy was the revoked Da'aFarma, Seliman, son of Askia-Daoud; he went to find Pasha Mahmoud who welcomed him. This event inspired fears in Askia-Mohammed-Kâgho who sent to ask to take an oath of fidelity to Sultan Maulay Ahmed. His secretary, Bokar-Lanbâro, was entrusted with this mission, which was successful.</p>
+
+<p>At this time the dearth was felt in the pasha's army and they came to eat the beasts of burden. Mahmud then mandated Askia-Mohammed-Kâgho to come to his aid and to send him some food. The prince gave the order to harvest all the cereals that could be harvested at that time on the Haousa side: it was white millet that was immediately sent to the Moroccans.</p>
+
+<p>Shortly thereafter, Pasha Mahmoud had Askia told to go to him to take an oath of loyalty. As the prince was about to set out, he was diverted from it by the wise people of his entourage and, among others, by the HiKoï Laha. I don't trust these people," said the latter. If you are absolutely determined to go to the pasha, you will have to send each of us separately one after the other. If you wish, I will go there first myself. If I am killed, no harm will come to you, and I will have been your ransom, as it were; if I escape all danger, then let the other characters act as I do, and it will be you in the end, prince, who will be the last 
+
+<milestone unit="scanpge" n="263"/>
+
+<pb n="233"/>
+
+ to come. The Moroccans will then be able to do you no harm since it would be of no use to them. )</p>
+<p>This advice was not approved by Secretary Bokar-Lanbâro and everyone set off at once. When they were a short distance from the Moroccans, Askia-MohammedKâgho requested an audience with Pasha Mahmoud, who immediately sent forty of the notables and principal chiefs of the army to meet him. These characters had neither equipment nor weapons, so Hi-Koï Laha committed his companions to kill them, saying: "Let us make all these dignitaries disappear and the Moroccan army will have no leader." Askia-Mohammed-Kâgho was preparing to follow this advice when, seeing this, the secretary Bokar swore to the prince that he would find nothing but absolute security under the protection and safeguard of God with pasha Mahmoud. The prince listened to these words and acted accordingly.</p>
+
+<p>When the Moroccan dignitaries were in the presence of the Askia, they greeted him and conveyed to him the greetings of pasha Mohammed with his wishes of welcome; then they set out preceding the Askia and his companions. The pasha, who had already set his nets of treachery and treason, had an excellent meal prepared. No sooner had they begun to eat than they seized the prince and those who had entered with him (<foreign>101</foreign>) into the tent of the pasha Mahmud and stripped them of their weapons.</p>
+
+<p>The Songhaï people, who were behind the tents, having heard of what had just happened, immediately fled. Those of them whom the divine will had decided to spare escaped, but those whose death had been predestined succumbed under saber blows or musket fire.</p> 
+
+<p>Among those who then managed to escape were:
+
+<milestone unit="scanpge" n="264"/>
+
+<pb n="234"/>
+
+'Omar-Kato, son of Kormina-Fâri, Mohammed-Benkan, son of Prince Askia-Daoud. Riding the horse of AskiaMohammed-Kâgho, he fled and, thanks to Heaven, escaped the many bullets that were fired against him. HarounDankataba, son of Askia-Daoud, also managed to flee and escape. He was wounded by twelve sabre cuts and threw himself into the river and swam across it. MohammedSorko-Idji, son of Prince Askia-Daond, and other characters were also able to save themselves.</p>
+
+<p>As for Askia-Mohammed-Kâgho, he was loaded with iron chains, as well as eighteen personages of importance, among others: the Hi-Koï Laha; the Kormina-Fâri Mohammed, son of the prince Askia-Isma'ïl, son of the prince Askia-El-Hâdj-Mohammed; the Fâri-Mondzo, San, son of the prince Askia-Daoud; the Dendi-Fâri El-Mokhtâr; the Kouma-Koï, etc.</p>
+
+<p>The pasha sent all these characters to Kâgho; he addressed them to the caïd Hammou-Barka, whom he had appointed his lieutenant in that city, and ordered him to put them in prison in one of the rooms of the sovereign's palace. Then he ordered them to be killed and all of them were crushed under the walls of the room where they had been locked up. They were thus buried there with the exception of one, the Hi-Koï Laha; as, on the entry of the Moroccans into Kâgho, he had sought to prevent his companions from going to their deaths, he was killed and put on a cross in Kagho.</p>
+
+<p>'Ali-Tendi and Mahmoud-Forâro-Idji, both sons of Prince Askia-Daoud, who had fled, had gone to Kâgho. When they arrived in this city, they went to find the khatib Mahmoud-Darâmi and greeted him. Then, as he asked them why they had come, they answered that they wanted to make their submission to Pasha Mahmoud. The khatib turned them away from this plan and urged them to return to their brothers and fellow citizens. "Our
+
+<milestone unit="scanpge" n="265"/>
+
+<pb n="235"/>
+
+father," they replied, "would still be alive (<foreign>lor</foreign>) and give us this advice that we would not follow it; much more so this advice emanating from another than he." The two characters having gone to the caïd IIammou-Barka and having informed him of their intention, the latter wrote to the pasha Mahmoud to advise him of it. The pasha gave the order to intern them, then when he had taken Askia-Mohammed-Kâgho, he ordered the caïd to put them to death, which was done.</p>
+
+<p>Seliman, son of Prince Askia-Daoud, had been put in chains along with the other arrestees; but wise people having told the pasha about him, the pasha released him. Seliman remained with the Moroccans with a few other people, among whom were: the Bâraï-Koï Malki, Mohammed-ould-Benchi, Mohammed-Mauri-Koï, whose mother was the daughter of the prince Askia-Daoud. As for Mohammedould-Benchi, Benchi was the name of his mother who was from 'Omar-Komzâgho; his father was Mohammed-ben-Masouso, son of Balama' Mohammed-Kiraï.</p>
+
+<p>Pasha Mahmud treated Seliman with the utmost consideration and went so far as to appoint him Askia. The number of those arrested by Pasha Mahmoud along with Askia-Mohammed-Kâgho was eighty-three, both sons of princes and characters of a lesser status. At this time the Moroccan army was in Tenchi, the name of a locality near the city of Koukiyâ.</p>
+
+<p>It is reported that the prince Askia-El-Hâdj-Mohammed ben-Abou-Bekr, after defeating Sonni-'Ali and seizing sovereign power, had, in the same locality, arrested an equal number of the children and servants of the Sonni and that after granting them the aman under oath. God, the Strong and Powerful, willed that this lack of faith was thus finally avenged under the same conditions.</p>
+
+<milestone unit="scanpge" n="266"/>
+
+<pb n="236"/>
+
+<p>According to some accounts, Askia-Mohammed-Kâghô did not remain in this world more than forty days after the death of Askia-Ishâq. These two princes therefore did not take long to reunite in the other world. Glory to the Living One, to the Eternal One whose reign will never cease and whose duration will have no limit!</p>
+
+<p>When Mohammed-Kâgho had sent the order to release from prison his two brothers, the Fâr-Mondzo El-Mostafa and the Bental-Farma Nouh, the latter younger than the former, these two personages had experienced the most lively joy, and had resolved, when they joined the prince, to show him the greatest deference by walking on foot before him when he mounted his horse. But, on the way, they heard the sad news of the arrest of the prince and his courtiers. They then retraced their steps (<foreign>10m</foreign>) and returned to the land of Dendi.</p>
+
+<p>The people of the Songhaï gathered around the two brothers and decided, in agreement with Nouh, to raise to the sovereign power the Fâr-Mondzo El-Mostafa and to give him the title of Askia. "No," replied El-Mostafa, "Nouh is more worthy of these functions than I am, for he is more favored by Heaven. Now God places His favor where He wills, regardless of age or youth."</p>
+
+<p>So Nouh was sworn to obedience, and all the people of the Songhaï who had fled in another direction came to join him; he was left to desire only the presence of Mohammed-Mauri and Mohammed-ouldBenchi, who had remained at the house of Pasha Mahmud; but soon God allowed them to escape, and they then came to meet him. The Bâraï-Koï Malki also succeeded in escaping; AskiaNouh felt a very lively joy at the arrival of all these characters who were safe and sound and he showed his gratitude to the Most High. "Now," he exclaimed, "there will not be
+
+<milestone unit="scanpge" n="267"/>
+
+<pb n="237"/>
+
+anything to wish, as soon as these two men have joined me."</p>
+
+<p>For his part the pasha Mahmoud invested Seliman with the functions of Askia over the people of Songhaï who were with him.</p>
+
+<p>In the people it was said that it was the secretary BokarLanbâro who had betrayed Mohammed-Kâgho and his companions, sold them to Pasha Mahmoud and thus allowed the latter to seize them. After all these events, Bokar, who had gone to live in Timbuktu, said one day to one of his friends: "I am accused of treason and yet, I take God as my witness, it is not so. I gave Mohammed-Kagho no other advice than that which was inspired by God, relying on what Mahmoud had assured me under oath and trusting in his words. He alone was a traitor and he betrayed me at the same time as he betrayed Muhammad-Kagho. Soon we will all meet again in the presence of the Most High God, and at that meeting the truth will come out."</p>
+
+<p>After preparing his troops, Pasha Mahmud set out in pursuit of Askia-Nouh and joined him at the edge of the Dendi country. The action began and the people of the country of Kanta heard the sound of gunfire for a whole day.</p>
+
+<p>Nouh first settled with his companions in the town of Koʻrâou on the borders of the country of Melli on the side where that country touches the territory of Kanta. Pasha Mahmud continued the pursuit begun, and in the course of this expedition he built a casbah in the town of Kolen where he installed a garrison of two hundred riflemen under the command (<foreign>102</foreign>) of the caïd 'Ammar-el-Feta.</p>
+
+<p>During two whole years the war continued in these regions, between the pasha and Nouh. Numerous meetings</p>
+
+<milestone unit="scanpge" n="268"/>
+
+<pb n="238"/>
+
+<p>5and bloody ones occurred between the two armies. One day when the pasha was pursuing Nouh, he arrived with his troops in a huge and vast lowland. While the Moroccans were following their route, they came to a large, dense forest that the road crossed. Lieutenant-General BaHasen-Feriro, who was a wise and prudent man, having abruptly stopped his horse, the pasha sent for Ba-Hasen and, outraged with anger, blamed his cowardice in violent terms, asking him why he was stopping like this.</p>
+
+<p>When Ba-Ilasen arrived near the pasha he said to him, "By God! if I knew that a single hair on my body had been agitated with fear or terror, I would pull it out at once. But what I do not want is to expose the troops of our master the sultan to any danger, to any surprise." Then he ordered dirbach<ref target="1"/> to be thrown into the forest. As soon as this was done, men were seen to come out of the forest and flee; a sharp fusillade killed many of them.</p>
+
+<p>Askia-Nouh had, in fact, laid an ambush in this forest because he knew that the Moroccan army could not follow any other route. He hoped to make it fall into this ambush, but God, the Most High, defeated this treacherous and perfidious ploy and saved the Moroccan army thanks to the insight of Lieutenant-General Ba-Hasen-Feriro.</p> 
+
+<p>Then entering the forest, the Moroccan army crossed it safely. Many terrible battles were fought in this area. Despite the small number of his followers Askia-Nouh achieved results that Askia-Ishâq would not have been able to achieve with larger forces, even a hundred times larger.</p> 
+
+<p>On the day of the battle of Birnai pasha Mahmud lost eighty men of his best infantry-men who were
+
+<note n="1">This word means in Turkish bâlon, bailiff's rod. It should probably be understood here in the sense of a rocket or projectile with a rod. </note>
+
+<milestone unit="scanpge" n="269"/>
+
+<pb n="239"/>
+
+killed. Someone, in whom I have full confidence, told me that after the battle, Mahmud came to examine those who had died and gave orders (<foreign>100</foreign>) to untie the belts they wore on their bellies. All these belts were full of minted dinars<ref target="1"/> which pasha Mahmoud appropriated in full.</p>
+
+<p>The Moroccan troops suffered greatly from their long stay in this country and were very severely tested by fatigues they endured, by the lack of food, by the destitution in which they found themselves, and by the diseases caused by the insalubrity of the country. The water attacked the intestines of the men, caused dysentery and caused a very large number of them to die besides those who perished in the fighting.</p>
+
+<p>At first it was Askia-Nouh himself who led his troops into battle, but later he charged Mohammed-ould-Benchi with this care. It was thus to the latter that the responsibility for military operations fell, and he accomplished in this circumstance many glorious deeds and notable feats of arms.</p>
+
+<p>As pasha Mahmud was encountering great difficulties in this region, he wrote to his ruler Maulay Ahmed complaining about the terrible hardships he had to undergo and announcing that all his cavalry had perished. The Sultan of Morocco sent about six army corps which, one after the other, came to make their junction with the troops that the pasha commanded in these regions. Among these reinforcement columns were: the column of the caïd 'Ali-Er-Râchedi, that of the three caïds Ben-Dahmân, Abdelaziz-ben-Omar and 'Aliben Abdallah-El-Telemsâni; that of 'Ali-El-Mechmâch, etc.</p>
+
+<note n="1">By using this expression the author probably wanted to show that the Moroccan soldiers kept all the money from their pay which was in gold money and that they obtained what they needed without untying their purse.</note>
+
+<milestone unit="scanpge" n="270"/>
+
+<pb n="240"/>
+
+<p>Despite all this, Mahmoud returned to Timbuktu without having defeated Nouh, as he had hoped.</p>
+
+<p>Now let us return to the struggle that had taken place between the inhabitants of Timbuktu and the caïd El-Mostafa-Et-Torki, after the death of Timbuktu-Mondzo Yahya. As the Moroccan soldiers had wounded many people, the notables went to complain to the jurisconsult, the cadi Aboul[afs-'Omar, son of the saint of God, the jurisconsult, the father of blessings, the cadi Mahmoud-ben-'Omar. This magistrate consulted the people of good counsel on this point. Some were of the opinion that the enemy should be repulsed with arms if circumstances permitted; others, on the contrary, considered it better to refrain from violence, as their pitiful situation could only be aggravated by resistance.</p>
+
+<p>The cadi 'Omar then had as his bailiff Amar', who was the most scurrilous of the men of that time, although (<foreign>109</foreign>) the cadi had no idea. One evening he sent this man to the chief of the mulattoes, 'Omar-Ech-Cherif, son of the daughter of the sheriff Ahmed-Es-Seqli, and told him to invite the latter to have the town crier announce at once that the inhabitants should take good care of their persons and take the greatest precautions against the Moroccans.</p>
+
+<p>Instead of passing on these words, Amar told the chief of the mulattoes that the cadi was instructing him to order the inhabitants to rise up to fight the Moroccans. This order was given the same night and the next morning the whole population was in arms ready to fight the caïd El-Mostafa. The struggle began in the first decade of the month of moharrem, the first month of the year 1000 (19-29 October 1591) and lasted until the first decade of the month of rebi'[e' (17-27 December 1591).</p>
+
+<note n="1">This name does not appear in the mis. C.</note>
+
+<milestone unit="scanpge" n="271"/>
+
+<pb n="241"/>
+
+<p>During those days of trouble, there perished on both sides many whose death God had decided. Among them is mentioned Ould-Kirinfil, the one who had been the cause of the coming of the army of Djouder. He had arrived with this army and had remained in Timbuktu with the caïd El-Mostafa; he was killed in one of the battles by the inhabitants of Timbuktu.</p>
+
+<p>Aousenba-Et-Targui<ref target="1"/>, the Maghcharen-Koï, had come with his men to El-Mostafa's aid. These Tuareg set fire to the town on Friday, the 14th of the above month, and they did it again the next day. This was a terrible day for the inhabitants of Timbuktu. The Tuareg approached the houses of the cadi 'Omar to set them on fire. One of the daughters of this magistrate immediately ran to her father and said: "Aousenba advanced in his attack to the door of the house of Elfa'-'Abdo<ref target="2"/>." This Elfa - 'Abdo was the jurisconsult Abdallah, brother of the cadi and son of the jurisconsult Mahmud. "May God, the Most High," cried the cadi, "cause an incursion to come to the door of the house of Aousenba and the vilest of beings to tame him and do him an affront like the one he does to us!"</p>
+
+<p>This wish was fulfilled: an expedition of KelAmini Tuareg reached Aousenba's tent; one of them entering it killed him; now this murderer was the lowest of these Tuareg. This happened on Sunday, the 22nd of the month of châoual of the year 1005 (June 8, 1597). Aousenba had been brought up in the cadi's family; he had been educated there and, when he grew up, he had been treated like a child of the house. Later he behaved as just mentioned with treachery and perfidy (God forbid such hypocrisy (<foreign>nov</foreign>) and such a sad end!)</p>
+
+<note n="1">"El-Targui" means "the Tuareg"; this word might not be part of the name and might be a mere epithet.</note>
+
+<note n="2">This word 'Abdo is here an abbreviation of Abdallah.</note>
+
+<p>(History of the Sudan.) 16</p>
+
+<milestone unit="scanpge" n="272"/>
+
+<pb n="242"/>
+
+<p>The affair of the great mosque took place on Thursday, the 4th of the month of safar l'excellent (21 November 1591). The people went out to pull down the houses on Wednesday, 24 of the month just mentioned (December 9, 1591). It was on Friday, 26 of the same month (December 11, 1591), that Barà i-Chigho arrived to deal with the money that the Askia was to give to Djouder for the conclusion of the peace; he left Amazagha to go to Tenbahouri on Thursday, 9 of the month of rebi' jer (December 25, 1591).</p> 
+
+<p>Pasha Mahmoud was informed of what had happened between the inhabitants of Timbuktu and the caïd El-Mostafa; he learned that fighting had taken place, that El-Mostafa and his companions were besieged in the casbah, and the news was brought to him by Mâlek, the father of Mohammed-Dara, whom the caïd had sent to him. The pasha immediately sent the caïd Mâmi-ben-Barroun at the head of 324 riflemen, taken two by two in each of the tents. Before arriving in Timbuktu, none of these men were made aware of what had happened.</p>
+
+<p>Mâmi had been instructed to work things out with the people of Timbuktu even if it meant killing every last one of them. He was an intelligent, skillful, and resourceful man. He arrived with his men on the twelfth night of rebi'ler, the very night of the Prophet's nativity (27 December 1591). A great terror immediately spread through the city and many people threw themselves into the deserts and solitudes.</p>
+
+<p>The caïd Mâmi reconciled the caïd El-Mostafa with the population of Timbuktu. This was a great joy for everyone. All those who had fled the city returned to it; of this number was the commander of the port, Mondzo-Elfa'-ouldZauka, who brought back with him all the boats. As a result of this reconciliation, the inhabitants of the city gave
+
+<milestone unit="scanpge" n="273"/>
+
+<pb n="243"/>
+
+an oath of loyalty to Sultan Maulay Ahmed. The roads opened again in all directions; everyone resumed his occupations and anyone who wanted to could go to Dienné or elsewhere,</p>
+
+<p>Then setting out against the Zaghrâni who inhabited Yoroua, the caïd Mâini fell upon them, killed their men and took their women and children into captivity in Timbuktu, where they were sold (<foreign>101</foreign>) for a price varying from two hundred to four hundred cowries.</p>
+
+<p>Some time later, the caïd El-Mostafa dispatched to Dienné, in Zinka-Daradj's boat, a single sergeant<ref target="1"/> whose mission was to receive the oath of loyalty from the inhabitants of that town. This sergeant arrived just as the Djinni-Koï Ouaïboʻali was dying. The Djinni-Mondzo Bokarna<ref target="2"/>, who commanded the town in the name of the Askia, the cadi Benba-Kenâti, Chima and Tâkoro, the two caïds of the Djinni-Koï, the notables, the jurisconsults and the merchants of the country wrote to the caïd El-Mostafa and to the caïd Mâmi that they consented to take an oath of loyalty.</p>
+
+<p>Later the caïds El-Mostafa and Màmi sent the commander<ref target="3"/> Abdelmalek with seventeen soldiers to appoint a Djinni-Koï. These duties were entrusted to Isma'il-ben-Mohammed who held them for seven months. God allowed the small Moroccan troop to seize the most abominable rascal, Benkouna-Kendi, who was then causing trouble in the whole region. They brought him to the Moroccans, who killed him in the house of the Djinni-Koï, and then returned to Timbuktu.</p>
+
+<p>As for Ouaïboʻali, mentioned above, his name was Abou-Bekr-ben-Mohammed. He had occupied his
+
+<note n="1">The word in the text is chaouch.</note>
+
+<note n="2">Or "Bokar," according to the ms. C.</note>
+
+<note n="3">Or "captain," the word used being rais.</note>
+
+<milestone unit="scanpge" n="274"/>
+
+<pb n="244"/>
+
+high office<ref target="1"/> for thirty-six years. He had married Kâsa, the daughter of Prince Askia-Daoud, and she remained under his marital power as long as he lived.</p>
+
+<p>The caïd Mâmi then came in person to Dienné and lodged in the house of the Djinni-Koï; he gave the sultanate of Dienné to Abdallah-ben-'Otsmân, and, after settling all the affairs of the city, he returned to Timbuktu. While he was on his way to Dienné, El-Hâdj-Bokar-ben-Abdallah-Kirar-EsSenâouï went to Timbuktu. He would come, with the consent of the inhabitants of Dienné, to ask the cadi 'Omar<ref target="2"/> for the dismissal of the cadi Mohammed-Benba-Kenàti.</p>
+
+<p>The cadi 'Omar energetically refused to comply with this desire and El-Hâdj-Bokar therefore returned to Dienné exasperated; having met the caïd Màmi in that town, he renewed his complaint on behalf of the inhabitants, assuring that their cadi was a prevaricator. As a result, Mâmi dismissed the cadi Mohammed, who was then locked up as a punishment in a house whose door was closed, leaving no other opening than a skylight through which the prisoner could get water and food. All those who knew exactly what happened at that time in Dienné and who are sensible people claim that the accusation against the cadi was false (<foreign>109</foreign>). The caïd Màmi appointed to the duties of cadi of Dienné a Moroccan, Ahmed-El-Filàli.</p>
+
+<p>When Mâmi was back in Timbuktu, the BâghenaFâri, Bokar, son of Askia-Mohammed-Benkan, arrived at Dienné from the country of Kala; he had with him his son Mârabâ, his brother's son, Chichi, Bindoko-Yâou-ould-Kersala and Ourar-Mondzo, as well as a small grcupe of others. The small troop camped in front of Zoboro and, as</p>
+
+<note n="1">Jinni-Koï's duties.</note>
+
+<note n="2">This shows that the cadi of Timbuktu was the grand-cadi of the Sudan at that time.</note>
+
+<milestone unit="scanpge" n="275"/>
+
+<pb n="245"/>
+
+<p>The water at that time reached the foot of the citadel, she asked the inhabitants of the city for permission to enter it.</p>
+
+<p>Neither the Djinni-Koï nor the Mondzo-Koï would give this permission, because they feared that these people would want to cause trouble. They insisted strongly to be admitted in the city, assuring that they had come only to take an oath of obedience to the sultan Manlay Ahmed-Edz-Dzehebi. Then the people of the city sent Habib-Torfi to them who brought a copy of the Qur'an and the Sahih of El-Bokhâri and asked them to swear on these books that they had no other purpose than the one they had indicated.</p>
+
+<p>Bokar and his companions, having taken the required oath, entered the city. But the next evening, at the beginning of the night, all the bad heads having joined them, they changed their intentions and agreed to go back on their oath of fidelity and to choose an askia for their ruler. Among those who took part in this meeting may be named Mohammed-ould-Banyâti, Sori-Soți and Kankan-Dentoura.</p>
+
+<p>Two or three days after this, the conspirators seized the Djivni-Mondzo, Bokarna, and plundered all the wealth contained in his house. They also arrested the Moroccan cadi<ref target="1"/>, loaded him with chains and sent him to the town of Beled, one of the towns in the land of Kala. Then they denounced the house in which the jurisconsult, Cadi Mohammed-Benba-Kenâti, had been locked up and, after taking the cadi out of this prison, they intimated to him the order to leave and go to any country he wanted.</p>
+
+<p>Returning to freedom, Mohammed-Benba went to the Sultan of Ta'ba with whom he remained until his death
+
+<note n="1">Ahmed-El-Filâli.</note>
+
+<milestone unit="scanpge" n="276"/>
+
+<pb n="246"/>
+
+(God, the Most High, have mercy on him, and in his grace and generosity grant him indulgence!). It is assured that, during all the time he remained locked up, Mohammed-Benba occupied himself only with reading (<foreign>19.</foreign>) the sacred book of God and that night and day. The following prodigy is quoted from him: On the day when he came out of prison not the slightest trace of excrement was found in the whole house, neither urine nor excrement.</p>
+
+<p>That day they appointed cadi Mouri-Mousa-Dâbo who was maintained in his functions by the Moroccan Makhzen after the rebels fled. The latter then decided to arrest all traders who supported the Makhzen and to confiscate their property. They wanted to imprison, among others, Hâmi'-SanSokar-Es-Senâouï who was, it is said, the most considered and important of the traders.</p> 
+
+<p>This arrest had been decided at night, during a vigil, in the house of the rebels. When Mohammed.ouldBenyâti and Sori-Soti came out of the house, they went to Fedji-Mâbi, Ilàmi's wife, and told her the news in secret, giving her orders to warn the latter. Fedji having discharged the commission, Hàmi warned his brother El-Hâdj-Bokar; then, having succeeded in procuring a small boat, he left secretly under the cover of night, taking in his flight the direction of Timbuktu.</p>
+
+<p>The next day, the news of this flight having become known, the Bâghena-Fàri sent in pursuit of the fugitive and to bring him back people who mounted the boat of the Fenfa Bảmoſaï-Firi-Fìri. El-Hâdj-Bokar immediately called the Fenfa to his house and promised him money to slow down his boat so as to give his brother time to reach a safe place. The Fenfa accepted this proposal.</p>
+
+<note n="1">From: Hâm.</note>
+
+<note n="2">This was the title of the director of the port.</note>
+
+<milestone unit="scanpge" n="277"/>
+
+<pb n="247"/>
+
+<p>When he was in sight of the town of Ouenzagha, Hàmi, whose boat was at anchor, saw the boat that was pursuing him. Immediately he started up hurriedly and redoubled his speed in his march.</p>
+
+<p>When the people in the Fenfa's boat arrived at Ouenzagha, they inquired about the fugitive. A Timbuktu man, to whom Hàmi had, however, done much good, replied to them, "Just now Hảmi's boat has started; go on your way and you will join it at a little distance from here." Ouenzagha-Mouri<ref target="1"/>, who had just heard these words, immediately went forward to them and said, "Go back; the Moroccan soldiers have learned of your coming and they have withdrawn to the town of Kouna to wait for you there and kill you. Tell the Bàghena-Fàri that it was I who gave you the order to turn back." The pursuers then turned back. Thanks to Ouenzagha-Mouri, God, the Most High, thus averted the misfortune that (<foreign>171</foreign>) the Tombouctien had wanted to bring upon the head of his benefactor.</p>
+
+<p>At this time, the rebels committed in Dienné all the turpitudes and all the tyrannies that they wanted. It was so much so that on a certain Friday, at the hour of dohor, when the whole population was assembled, in the mosque, they presented themselves on horseback before the door, their weapons in hand and swearing that no one would pray until an askia had been proclaimed and the imam had preached from the pulpit<ref target="2"/> in the name of this askia.</p> 
+
+<p>As the notables told them that this was impossible
+
+<note n="1">It is difficult to determine whether this is a personal name or a title equivalent to that of chief of Ouenzagha.</note>
+
+<note n="2">It is known that the imam must make a prayer every Friday, after the service, in which he pronounces the name of the ruler. By requesting this formality the rebels wanted to give the leader who would have been chosen the legal consecration of his authority.</note>
+
+<milestone unit="scanpge" n="278"/>
+
+<pb n="248"/>
+
+and illegal, as the religious law did not permit this, they became even more insolent and rude. This lasted until the time of sunset. Then the notables said to them, "Wait until we know what happened between pasha Mahmud and the askia: perhaps the latter was victorious and, in that case, things would return to the point where they were originally<ref target="1"/>." On hearing these words, they ceased their violence and the population was able to perform the Friday prayer.</p>
+
+<p>Hâmi then arrived in Timbuktu and informed the caïd El-Mostafa of what had just happened. The latter immediately decided to make an expedition against Dienné in person, but the caïd Mâmi told him, "Stay here in your casbah; I will take care of getting rid of all this." Then he set out at the head of three hundred elite men whom he had chosen.</p>
+
+<p>When the Moroccans were near the town, the Djinni-Koï sent Şalha-Tâfini and Tâkoro-Ansa-Mâni to them with guru-nuts, which they were to offer to the caïd, urging him to hậter his arrival. The Sangara-Koï, Boubo-Oulo-Bir, followed the messengers and the Masina-Koï, Hammedi-Amina, went to meet the Moroccans at Douï<ref target="2"/>. It is said that it was Habib-ould-Mohammed-Anbâbo who had written an Mâsina-Koï, in the name of the caïd 'Ammâr, to follow the caïd Mâmi wherever he went, to come to his aid, to guide him with his advice, and that it was because of this that he came promptly in person to meet them.</p> 
+
+<p>The Bâghena-Fâri, who had heard the news of the departure of these envoys, placed guards at the gates of the ramparts, who were commissioned to arrest them on their return. SalhaTâfini returned to Dienné through the gate of Chima-Anzouma and</p>
+
+<note n="1">That is, they would have an askia as their leader as they wished.</note>
+
+<note n="2">Or: Douye.</note>
+
+<milestone unit="scanpge" n="279"/>
+
+<pb n="249"/>
+
+<p>God spared him any harm from the guards, who did not see him. Tàkoro, who returned through the gate of the Great Market, was arrested and put in prison to be killed later. But, the caïd Mami having hastened his arrival, the Bàghena-Fâri and his companions, preoccupied (<foreign>197</foreign>) with the care of saving their persons, hastened to leave the city and fled without thinking of Tâkoro. In their flight they headed for the city of Tira.</p>
+
+<p>Leaving in the town of Dienné a garrison of forty soldiers whom he placed under the orders of 'Ali-El-'Adjemi, the caïd Màmi relentlessly pursued the rebels, having with him the Djinni-Koï, Abdallah, the sultan of Màsina and the sultan of Sanqara, Boubo-Oulo-Bir, each of them with their own troops, and reached the fugitives in the town of Tîra. There the battle began. Màraba<ref target="1"/>, the son of the Bàghena-Fàri, Bokar, having approached, threw a javelin against the boat in which the caïd Mâmi was in the middle of the River; the boat split from bow to stern, but, in the twinkling of an eye, the mariners, while remaining on the River, repaired this damage and kept the vessel in balance.</p>
+
+<p>The caïd then succeeded in putting the rebels to flight and dispersed them on all sides. The Bàghena-Fâri and his children fled to the Bindoko and reached the town of the Târanida-Koï; the latter seized them, put them to death, and sent to Dienné the head of the Bâghena-Fâri, that of the Bindoko-Yaou and the Qurori-Mondzo and the hand of Màraba. From Dienné all the heads were sent by the inhabitants of the town to Timbuktu to the caïd El-Mostafa and the hand of Màraba was hung behind the castle on the road to Doboro.</p>
+
+<p>The Djinni-Koï, Abdallah, had the inhabitants of the town of Dienné ask what had become of the Mondzo, Bokarna, and the cadi El-Maghribi. They sent back to the Djinni-Koï,
+
+<note n="1">Or: Mârba.</note>
+
+<milestone unit="scanpge" n="280"/>
+
+<pb n="250"/>
+
+Mondzo Bokarna; but, as far as the cadi was concerned, it so happened that he had just died a short time before (God most high have mercy on him!).</p>
+
+<p>When the caïd Màmi had resolved to leave Timbuktu to accomplish the expedition just mentioned, the caïd El-Mostafa had given orders to Hàmi, who had brought the news of the revolt, to leave with the army. Mâmi set out with two boats loaded with salt. As salt was absolutely lacking in Dienné when he arrived there, he sold it at a very considerable profit.</p>
+
+<p>The caïd Màmi then returned to Timbuktu. Order had been restored, and throughout the region there was no longer anything to cause any concern. Praise be to God the Great, the Most High. 'Ali-El-Adjemi retained his duties as chief of the city of Dienné (may Dien guard it!), and he was the first of the Moroccan Makhzen officials who administered this city.</p>
+</div>
+</body></text></TEI>
