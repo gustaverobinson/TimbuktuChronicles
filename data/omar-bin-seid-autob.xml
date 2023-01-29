@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader xml:lang="eng">
+<fileDesc>
+<titleStmt>
+<title xml:lang="eng">Autobiography of Omar bin Seid</title>
+<author>Said, Omar ibn, 1770?-1863</author>
+<editor role="translator">Gio DiRusso</editor>
+<editor role="translator">Joseph C. Hilleary</editor>
+<editor role="translator">Noel B. Wade</editor>
+<funder>Volunteer</funder>
+<principal>Gregory Crane</principal>
+<respStmt>
+<persName>Gregory Crane</persName>
+<resp>Editor-in-Chief, Perseus Digital Library</resp>
+</respStmt>
+
+</titleStmt>
+<publicationStmt>
+<authority>Perseus Digital Library</authority>
+
+<idno type="filename">TBA.xml</idno>
+<availability>
+<licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-Share-Alike 4.0 International License</licence>
+</availability>
+<date>2023</date>
+<publisher>Perseus Library</publisher>
+<pubPlace>United States</pubPlace>
+</publicationStmt>
+<sourceDesc>
+<listBibl>
+<biblStruct>
+<monogr>
+
+<title xml:lang="eng">The life of Omar ben Saeed, called Morro, a Fullah Slave in Fayetteville, N.C. Owned by Governor Owen
+</title>
+<author ref="urn:TBA">Said, Omar ibn, 1770?-1863</author>
+
+<imprint>
+<publisher>Library of Congress</publisher>
+<pubPlace>Washington, DC</pubPlace>
+<date>1831?</date>
+</imprint>
+
+<biblScope unit="pages">TBA</biblScope>
+
+</monogr>
+<ref target="https://www.loc.gov/resource/amedsaid1831.dw042/?sp=3&amp;r=-1.004,-0.056,3.008,1.333,0">The Library of Congress</ref>
+</biblStruct>
+</listBibl>
+</sourceDesc>
+</fileDesc>
+
+
+<encodingDesc>
+
+<p>Text encoded in accordance with the latest EpiDoc standards (January 2014)</p>
+<p>The following text is encoded in accordance with EpiDoc standards and with the CTS/CITE Architecture.</p>
+
+
+<refsDecl n="CTS">
+
+<cRefPattern n="cited quotation" matchPattern="(.+).(.+).(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2']/tei:cit[@n='$3'])">
+<p>This pointer pattern extracts single fragments</p>
+
+
+</cRefPattern>
+
+<cRefPattern n="paragraph" matchPattern="(.+).(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])">
+<p>This pointer pattern extracts all the fragments classified under the same paragraph number</p>
+</cRefPattern>
+
+<cRefPattern n="book" matchPattern="(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+<p>This pointer pattern extracts books or sections</p>
+
+</cRefPattern>
+
+
+
+
+</refsDecl>
+
+</encodingDesc>
+<profileDesc>
+<langUsage>
+<language ident="grc">English</language>
+<language ident="grc">French</language>
+<language ident="ara">Arabic</language>
+</langUsage>
+</profileDesc>
+<revisionDesc>
+<change who="Gregory Crane">created the file</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+<p>
+
+<s> ‘Omar to Sheikh Hunter: you asked me to write my life but I am not able to write my life, for I have forgotten much of my language along with the Arabic language.</s>
+<s>I cannot read grammatically except little, or linguistically except a little.</s>
+<s>O my brother, I ask you by God not to blame me, for my eyes are weak and my body is likewise.</s>
+<s>My name is Omar Ibn Seid of the birthplace of Foo(/uu)t of Turu between the  two seas.</s>
+<s>I sought education  provisions, under a sheik named Mohammed Seid and my brothers Suleiman Kembeh and Sheik Jabril Abdel.</s>
+<s>I remained a “student of learning” for 25 years.</s>
+<s>I returned to my  place for six years.</s>
+<s>There came  to our country a great army.</s>
+<s>It killed many people, made me  go to the sea, sold me into the hand of the Christian  who bought me and moved me to a large  ship of the great sea.</s>
+<s>It moved on  the great sea for a month and half a month and came to a place called Charleston in the words of the Christian and they sold me.</s>
+<s>A small, weak little man of evil bought me.</s>
+<s>He was called Johnson, a great infidel.</s>
+<s>He did not fear God at all.</s>
+<s>I am a small man not able to work intensely.</s>
+<s>I fled from the hand of Mr. Johnson.</s>
+<s>For months, I walked to a place called Fayetteville.</s>
+<s>I saw houses.</s>
+<s>For months I entered into the house to pray.</s>
+<s>I saw a boy riding a horse.</s>
+<s>The boy came to the place of his father and informed his father that he saw me a black man in the prominent house.</s>
+<s>A man named Hunter and one other man among them riding horses with many dogs took me to go with them twelve miles to a place called Fayetteville, to a big house that I was not able to leave.</s>
+<s>I remained in the big house called jail in the Christian language for 16 days and nights.</s>
+<s>On Friday I went to the big one who opened the door of the house.</s>
+<s>I saw lots of men all of them Christian.</s>
+<s>He called to me, “Is your name Omar or Seid?”</s>
+<s>I couldn’t hear the Christian words.</s>
+<s>I saw a man called Bob Mumford who concealed me and sent me out of the big house.</s>
+<s>I rejoiced greatly.</s>
+<s>I went with him to his place.</s>
+<s>I remained at the Mumford place four nights and days.</s>
+<s>A man named Jim Owen, the husband of Mumford’s daughter, Betsy Mumford, asked me if I was willing to go to the place called Bladen.</s>
+<s>Yes, I was willing to go with them.</s>
+<s>I remained at the place of Jim Owen until now.</s>
+<s>Before bringing me to the hand of General Owen, a man named Mitchell came to me to buy me.</s>
+<s>Mitchell asked me to come to the place of Charleston.</s>
+<s>I said, “No, no, no, no, no, no, no I wouldn’t go to the place of Charleston.</s>
+<s>I stayed in the hand of Jim Owen.</s>
+<s>Oh people of North Carolina, oh people of South Carolina, oh people of America, all of them.</s>
+<s>Are there among them two righteous men like these righteous men called Jim Owen and John Owen?</s>
+<s>All of the food that I am fed, all of the clothes I wear, they give me.</s>
+<s>Jim and his brother read the gospel of God our lord, our savior, and our king and reformer of our state of being, our condition and our wealth, generously, not requisitely, according to his power.</s>
+<s>I open my heart to the right way, to the way of Jesus the Messiah to a great light.</s>
+<s>Before coming to the Christian land my religion was the the religion of Muhammad, the prophet of God, God bless him and grant him peace.</s>
+<s>I went to the mosque before the rising of dawn, washed my face and head and hands and feet.</s>
+<s>I prayed at noon time.</s>
+<s>I prayed in the time after.</s>
+<s>I prayed at the time of sunset.</s>
+<s>I prayed at evening time.</s>
+<s>I prayed.</s>
+<s>I gave zakat every year, gold and silver and seed and cows and sheep and goats or rice and wheat and barley.</s>
+<s>I gave all this as zakat, sending it [lit. he sends/conveys it] for jihad every year against the infidels.</s>
+<s>I went [lit. he goes/sends/conveys] to Mecca and Medina with whoever was able.</s>
+<s>My father [lit. your father??] has [lit. obtains] six sons and five daughters.</s>
+<s>My mother has three sons and one daughter.</s>
+<s>As for me, on the day I left our country my age was 37 years.</s>
+<s>I have remained in the Christian country 24 years.</s>
+<s>In the year 1831.</s>
+<s>Jesus the Messiah.</s>
+<s>O people of North Carolina, o people of South Carolina, O American people, all of them!</s>
+<s>The first son of Jim Owen is called
+Thomas, and his other daughter is called Martha Jane.</s>
+<s>This family is a good family.</s>
+<s>Tom Owen Nell Owen have two sons and one daughter.</s>
+<s>The first son is called Jim and the other John and the daughter is called Melissa.</s>
+<s>Mr. Jim and Betsy Owen, his wife, have two sons and five daughters.</s>
+<s>The first is Tom, John, Mercy, Sophia, Margaret, and Eliza.</s>
+<s>This family is a very good family.</s>
+<s>And John Owen and his wife called Lucy (Luisa), a righteous wife, have three and two children.</s>
+<s>Three died and two remain.</s>
+<s>Oh people of America, oh people of North Carolina, is there among you?</s>
+<s>Is there among you?</s>
+<s>Is there among you?</s>
+<s>Is there among you as good a family, fearing God greatly?</s>
+<s>That I Omar love to read the book of the great Qur’an.</s>
+<s>General Jim Owen and his wife read the gospel.</s>
+<s>They read a lot to me the gospel of God, our lord, our creator, our king, and reformer of our present state of being, condition and wealth, generously, not requisitely, according to his power.</s>
+<s>Open my heart to the gospel, to the right way.</s>
+<s>Thanks be to God, lord of all worlds, many thanks.</s>
+<s>He is bountiful in blessing who increases in goodness.</s>
+<s>So that the law was given by Moses and grace and truth were by Jesus Christ.</s>
+<s>To pray, Muhammad said first:</s><s>praise to God, Lord of worlds, the Merciful, the Compassionate, possessor of the day of judgment, you we worship, from you we seek aid.</s>
+<s>Guide us on the straight path, the path of those on whom you bestow grace, not those against whom you are angered, and not those who are astray.</s>
+<s>Amen.</s>
+<s>And now he prays the words of our Lord Jesus Christ:</s>
+<s>O our Father, who is in the heavens, your name is holy.</s>
+<s>May Your kingdom come, your will come to be, as in heaven and upon earth.</s>
+<s>Give us (our???) bread which is for tomorrow, today, and forgive us what is against us, like we forgive him against whom we have something.</s>
+<s>And do not lead us to temptation, but bring us (?) from evil.</s>
+<s>For yours is the kingdom and the power and the glory forever.</s>
+<s>Amen.</s>
+<s>I stay in our land because of great harm.</s>
+<s>Infidels did a great injustice (or: took [me] unjustly) [and] sold [me] into the hand of Christians.</s>
+<s>I was purchased [and] went on the great sea for a month and half-a-month to a place called Charleston in the Christian (?) speech.</s>
+<s>I was driven into the hand of a small, weak and evil little man who did not fear God at all, who did not read nor pray.</s>
+<s>I was afraid to stay [with] this evil man, great in his sins.</s>
+<s>I fled for a month/months/2 months.</s>
+<s>God our Lord brought us forward to the hand of a pious man who feared God and loved to do righteous deeds.</s>
+<s>He was called Governor (??) Jim Owen with his brother called Col. John Owen, these 2 pious men.</s> —
+<s>I am in the place “Bladen county,” remaining.</s>
+<s>I remain in the hand of Jim Owen.</s>
+<s>He does not beat me.</s>
+<s>He does not keep me nailed down.</s>
+<s>I do not hunger.</s>
+<s>I am not naked.</s>
+<s>I do not labor intensely for I am not able to labor intense labor for I am a small, ill man.</s>
+<s>I have remained twenty years, not seeing anything harmful from the hand of Jim Owen.
+</s>
+
+</p>
+</body>
+</text>
+</TEI>
