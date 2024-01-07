@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader xml:lang="eng">
+<fileDesc>
+<titleStmt>
+<title xml:lang="eng">Autobiography of Omar bin Seid</title>
+<author>Said, Omar ibn, 1770?-1863</author>
+<editor role="translator">Gio DiRusso</editor>
+<editor role="translator">Joseph C. Hilleary</editor>
+<editor role="translator">Noel B. Wade</editor>
+<funder>Volunteer</funder>
+<principal>Gregory Crane</principal>
+<respStmt>
+<persName>Gregory Crane</persName>
+<resp>Editor-in-Chief, Perseus Digital Library</resp>
+</respStmt>
+
+</titleStmt>
+<publicationStmt>
+<authority>Perseus Digital Library</authority>
+
+<idno type="filename">TBA.xml</idno>
+<availability>
+<licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-Share-Alike 4.0 International License</licence>
+</availability>
+<date>2023</date>
+<publisher>Perseus Library</publisher>
+<pubPlace>United States</pubPlace>
+</publicationStmt>
+<sourceDesc>
+<listBibl>
+<biblStruct>
+<monogr>
+
+<title xml:lang="eng">The life of Omar ben Saeed, called Morro, a Fullah Slave in Fayetteville, N.C. Owned by Governor Owen
+</title>
+<author ref="urn:TBA">Said, Omar ibn, 1770?-1863</author>
+
+<imprint>
+<publisher>Library of Congress</publisher>
+<pubPlace>Washington, DC</pubPlace>
+<date>1831?</date>
+</imprint>
+
+<biblScope unit="pages">TBA</biblScope>
+
+</monogr>
+<ref target="https://www.loc.gov/resource/amedsaid1831.dw042/?sp=3&amp;r=-1.004,-0.056,3.008,1.333,0">The Library of Congress</ref>
+</biblStruct>
+</listBibl>
+</sourceDesc>
+</fileDesc>
+
+
+<encodingDesc>
+
+<p>Text encoded in accordance with the latest EpiDoc standards (January 2014)</p>
+<p>The following text is encoded in accordance with EpiDoc standards and with the CTS/CITE Architecture.</p>
+
+
+<refsDecl n="CTS">
+
+<cRefPattern n="cited quotation" matchPattern="(.+).(.+).(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2']/tei:cit[@n='$3'])">
+<p>This pointer pattern extracts single fragments</p>
+
+
+</cRefPattern>
+
+<cRefPattern n="paragraph" matchPattern="(.+).(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])">
+<p>This pointer pattern extracts all the fragments classified under the same paragraph number</p>
+</cRefPattern>
+
+<cRefPattern n="book" matchPattern="(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+<p>This pointer pattern extracts books or sections</p>
+
+</cRefPattern>
+
+
+
+
+</refsDecl>
+
+</encodingDesc>
+<profileDesc>
+<langUsage>
+<language ident="grc">English</language>
+<language ident="grc">French</language>
+<language ident="ara">Arabic</language>
+</langUsage>
+</profileDesc>
+<revisionDesc>
+<change who="Gregory Crane">created the file</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+<p>
+
+<s n="1"> ‘Omar to Sheikh Hunter: you asked me to write my life but I am not able to write my life, for I have forgotten much of my language along with the Arabic language.</s>
+<s n="2">I cannot read grammatically except little, or linguistically except a little.</s>
+<s n="3">O my brother, I ask you by God not to blame me, for my eyes are weak and my body is likewise.</s>
+<s n="4">My name is Omar Ibn Seid of the birthplace of Foo(/uu)t of Turu between the  two seas.</s>
+<s n="5">I sought education  provisions, under a sheik named Mohammed Seid and my brothers Suleiman Kembeh and Sheik Jabril Abdel.</s>
+<s n="6">I remained a “student of learning” for 25 years.</s>
+<s n="7">I returned to my  place for six years.</s>
+<s n="8">There came  to our country a great army.</s>
+<s n="9">It killed many people, made me  go to the sea, sold me into the hand of the Christian  who bought me and moved me to a large  ship of the great sea.</s>
+<s n="10">It moved on  the great sea for a month and half a month and came to a place called Charleston in the words of the Christian and they sold me.</s>
+<s n="11">A small, weak little man of evil bought me.</s>
+<s n="12">He was called Johnson, a great infidel.</s>
+<s n="13">He did not fear God at all.</s>
+<s n="14">I am a small man not able to work intensely.</s>
+<s n="15">I fled from the hand of Mr. Johnson.</s>
+<s n="16">For months, I walked to a place called Fayetteville.</s>
+<s n="17">I saw houses.</s>
+<s n="18">For months I entered into the house to pray.</s>
+<s n="19">I saw a boy riding a horse.</s>
+<s n="20">The boy came to the place of his father and informed his father that he saw me a black man in the prominent house.</s>
+<s n="21">A man named Hunter and one other man among them riding horses with many dogs took me to go with them twelve miles to a place called Fayetteville, to a big house that I was not able to leave.</s>
+<s n="22">I remained in the big house called jail in the Christian language for 16 days and nights.</s>
+<s n="23">On Friday I went to the big one who opened the door of the house.</s>
+<s n="24">I saw lots of men all of them Christian.</s>
+<s n="25">He called to me, “Is your name Omar or Seid?”</s>
+<s n="26">I couldn’t hear the Christian words.</s>
+<s n="27">I saw a man called Bob Mumford who concealed me and sent me out of the big house.</s>
+<s n="28">I rejoiced greatly.</s>
+<s n="29">I went with him to his place.</s>
+<s n="30">I remained at the Mumford place four nights and days.</s>
+<s n="31">A man named Jim Owen, the husband of Mumford’s daughter, Betsy Mumford, asked me if I was willing to go to the place called Bladen.</s>
+<s n="32">Yes, I was willing to go with them.</s>
+<s n="33">I remained at the place of Jim Owen until now.</s>
+<s n="34">Before bringing me to the hand of General Owen, a man named Mitchell came to me to buy me.</s>
+<s n="35">Mitchell asked me to come to the place of Charleston.</s>
+<s n="36">I said, “No, no, no, no, no, no, no I wouldn’t go to the place of Charleston.</s>
+<s n="37">I stayed in the hand of Jim Owen.</s>
+<s n="38">Oh people of North Carolina, oh people of South Carolina, oh people of America, all of them.</s>
+<s n="39">Are there among them two righteous men like these righteous men called Jim Owen and John Owen?</s>
+<s n="40">All of the food that I am fed, all of the clothes I wear, they give me.</s>
+<s n="41">Jim and his brother read the gospel of God our lord, our savior, and our king and reformer of our state of being, our condition and our wealth, generously, not requisitely, according to his power.</s>
+<s n="42">I open my heart to the right way, to the way of Jesus the Messiah to a great light.</s>
+<s n="43">Before coming to the Christian land my religion was the the religion of Muhammad, the prophet of God, God bless him and grant him peace.</s>
+<s n="44">I went to the mosque before the rising of dawn, washed my face and head and hands and feet.</s>
+<s n="45">I prayed at noon time.</s>
+<s n="46">I prayed in the time after.</s>
+<s n="47">I prayed at the time of sunset.</s>
+<s n="48">I prayed at evening time.</s>
+<s n="49">I prayed.</s>
+<s n="50">I gave zakat every year, gold and silver and seed and cows and sheep and goats or rice and wheat and barley.</s>
+<s n="51">I gave all this as zakat, sending it [lit. he sends/conveys it] for jihad every year against the infidels.</s>
+<s n="52">I went [lit. he goes/sends/conveys] to Mecca and Medina with whoever was able.</s>
+<s n="53">My father [lit. your father??] has [lit. obtains] six sons and five daughters.</s>
+<s n="54">My mother has three sons and one daughter.</s>
+<s n="55">As for me, on the day I left our country my age was 37 years.</s>
+<s n="56">I have remained in the Christian country 24 years.</s>
+<s n="57">In the year 1831.</s>
+<s n="58">Jesus the Messiah.</s>
+<s n="59">O people of North Carolina, o people of South Carolina, O American people, all of them!</s>
+<s n="60">The first son of Jim Owen is called
+Thomas, and his other daughter is called Martha Jane.</s>
+<s n="61">This family is a good family.</s>
+<s n="62">Tom Owen Nell Owen have two sons and one daughter.</s>
+<s n="63">The first son is called Jim and the other John and the daughter is called Melissa.</s>
+<s n="64">Mr. Jim and Betsy Owen, his wife, have two sons and five daughters.</s>
+<s n="65">The first is Tom, John, Mercy, Sophia, Margaret, and Eliza.</s>
+<s n="66">This family is a very good family.</s>
+<s n="67">And John Owen and his wife called Lucy (Luisa), a righteous wife, have three and two children.</s>
+<s n="68">Three died and two remain.</s>
+<s n="69">Oh people of America, oh people of North Carolina, is there among you?</s>
+<s n="70">Is there among you?</s>
+<s n="71">Is there among you?</s>
+<s n="72">Is there among you as good a family, fearing God greatly?</s>
+<s n="73">That I Omar love to read the book of the great Qur’an.</s>
+<s n="74">General Jim Owen and his wife read the gospel.</s>
+<s n="75">They read a lot to me the gospel of God, our lord, our creator, our king, and reformer of our present state of being, condition and wealth, generously, not requisitely, according to his power.</s>
+<s n="76">Open my heart to the gospel, to the right way.</s>
+<s n="77">Thanks be to God, lord of all worlds, many thanks.</s>
+<s n="78">He is bountiful in blessing who increases in goodness.</s>
+<s n="79">So that the law was given by Moses and grace and truth were by Jesus Christ.</s>
+<s n="80">To pray, Muhammad said first:</s>
+<s n="81">praise to God, Lord of worlds, the Merciful, the Compassionate, possessor of the day of judgment, you we worship, from you we seek aid.</s>
+<s n="82">Guide us on the straight path, the path of those on whom you bestow grace, not those against whom you are angered, and not those who are astray.</s>
+<s n="83">Amen.</s>
+<s n="84">And now he prays the words of our Lord Jesus Christ:</s>
+<s n="85">O our Father, who is in the heavens, your name is holy.</s>
+<s n="86">May Your kingdom come, your will come to be, as in heaven and upon earth.</s>
+<s n="87">Give us (our???) bread which is for tomorrow, today, and forgive us what is against us, like we forgive him against whom we have something.</s>
+<s n="88">And do not lead us to temptation, but bring us (?) from evil.</s>
+<s n="89">For yours is the kingdom and the power and the glory forever.</s>
+<s n="90">Amen.</s>
+<s n="91">I stay in our land because of great harm.</s>
+<s n="92">Infidels did a great injustice (or: took [me] unjustly) [and] sold [me] into the hand of Christians.</s>
+<s n="93">I was purchased [and] went on the great sea for a month and half-a-month to a place called Charleston in the Christian (?) speech.</s>
+<s n="94">I was driven into the hand of a small, weak and evil little man who did not fear God at all, who did not read nor pray.</s>
+<s n="95">I was afraid to stay [with] this evil man, great in his sins.</s>
+<s n="96">I fled for a month/months/2 months.</s>
+<s n="97">God our Lord brought us forward to the hand of a pious man who feared God and loved to do righteous deeds.</s>
+<s n="98">He was called Governor (??) Jim Owen with his brother called Col. John Owen, these 2 pious men.</s> —
+<s n="99">I am in the place “Bladen county,” remaining.</s>
+<s n="100">I remain in the hand of Jim Owen.</s>
+<s n="101">He does not beat me.</s>
+<s n="102">He does not keep me nailed down.</s>
+<s n="103">I do not hunger.</s>
+<s n="104">I am not naked.</s>
+<s n="105">I do not labor intensely for I am not able to labor intense labor for I am a small, ill man.</s>
+<s n="106">I have remained twenty years, not seeing anything harmful from the hand of Jim Owen.
+</s>
+
+</p>
+</body>
+</text>
+</TEI>

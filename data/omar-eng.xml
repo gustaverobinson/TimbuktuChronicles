@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader xml:lang="eng">
+<fileDesc>
+<titleStmt>
+<title xml:lang="eng">Autobiography of Omar bin Sayyid</title>
+<author>Omar bin Sayyid</author>
+<editor>TBA</editor>
+<funder>Volunteer</funder>
+<principal>Gregory Crane</principal>
+<respStmt>
+<persName>Gregory Crane</persName>
+<resp>Editor-in-Chief, Perseus Digital Library</resp>
+</respStmt>
+
+</titleStmt>
+<publicationStmt>
+<authority>Perseus Digital Library</authority>
+
+<idno type="filename">TBA.xml</idno>
+<availability>
+<licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
+</availability>
+<date>2021</date>
+<publisher>Perseus Library</publisher>
+<pubPlace>United States</pubPlace>
+</publicationStmt>
+<sourceDesc>
+<listBibl>
+<biblStruct>
+<monogr>
+
+<title xml:lang="eng">TBA</title>
+<editor>
+<persName>
+    <name xml:lang="fra">TBA</name>
+    <name xml:lang="eng">TBA</name>
+</persName>
+</editor>
+    <author ref="urn:TBA">TBA.</author>
+
+<imprint>
+    <publisher>TBA</publisher>
+    <pubPlace>TBA</pubPlace>
+    <date>TBA</date>
+</imprint>
+
+<biblScope unit="pages">TBA</biblScope>
+
+</monogr>
+    <ref target="TBA">Library of Congress</ref>
+</biblStruct>
+</listBibl>
+</sourceDesc>
+</fileDesc>
+
+
+<encodingDesc>
+
+<p>Text encoded in accordance with the latest EpiDoc standards (January 2014)</p>
+<p>The following text is encoded in accordance with EpiDoc standards and with the CTS/CITE
+Architecture.</p>
+
+
+<refsDecl n="CTS">
+
+<cRefPattern n="cited quotation" matchPattern="(.+).(.+).(.+)"
+replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2']/tei:cit[@n='$3'])">
+<p>This pointer pattern extracts single fragments</p>
+
+
+</cRefPattern>
+
+<cRefPattern n="paragraph" matchPattern="(.+).(.+)"
+replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])">
+<p>This pointer pattern extracts all the fragments classified under the same paragraph number</p>
+</cRefPattern>
+
+<cRefPattern n="book" matchPattern="(.+)"
+replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+<p>This pointer pattern extracts books or sections</p>
+
+</cRefPattern>
+
+
+
+
+</refsDecl>
+
+</encodingDesc>
+<profileDesc>
+<langUsage>
+<language ident="grc">English</language>
+<language ident="grc">French</language>
+<language ident="ara">Arabic</language>
+</langUsage>
+</profileDesc>
+<revisionDesc>
+<change who="Gregory Crane">created the file</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+<p><pb n="https://www.loc.gov/resource/amedsaid1831.dw027/?sp=1&amp;st=text"/>
+
+    <title>Omar ben Saeed 1 Manuscript No 1</title> 
+    <s>In the name of God the merciful the gracious God grant his blessing upon our lord seidna Mohammed </s>
+    <s>Blessed be He in whose hand is the kingdom who is Almighty who created death life that he might make you the best of his works for he is exalted he is the forgiver of sins who created seven heavens one above the other </s>
+    <s>Do you discern anything trifling in creation </s>
+    <s>Bring back your thoughts </s>
+    <s>Do you see anything worthless </s>
+    <s>Recall your vision in earnest </s>
+    <s>Turn your eye inward for it is diseased </s>
+    <s>God has adorned the heavens the world with lamps has made us missiles for the devils given us for them a grievous punishment to those who have disbelieved their Lord the punishment of hell pains of body </s>
+    <s>Whoever associates with them shall hear a boiling caldron what is cast therein may fitly represent those who suffer under the anger of God </s>
+    <s>Ask them if a prophet director has not been sent unto them </s>
+    <s>They say yes a prophet has come to us but we have lied to him </s>
+    <s>We said God has not sent us down anything
+
+
+<pb n="https://www.loc.gov/resource/amedsaid1831.dw027/?sp=2&amp;st=text"/>
+
+you are in grievous error </s>
+    <s>They say </s>
+    <s>If we had listened been wise we should not now have been suffering the punishment of the Omniscient </s>
+    <s>So they confess they have sinned in destroying the followers of the Omniscient </s>
+    <s>Those who fear their Lord profess his name they receive pardon great honor </s>
+    <s>Guard your words ye wicked make it known that God is allwise in all his manifestations </s>
+    <s>Do you not know from the creation that God is full of skill that </s>
+    <s>He has made for you the way of error you have walked therein have chosen to live upon what your god </s>
+    <s>Nasr has furnished you </s>
+    <s>Believe on Him who dwells in heaven who has fitted the earth to be your support </s>
+    <s>it shall give you food </s>
+    <s>Believe on Him who dwells in Heaven who has sent you a prophet </s>
+    <s>you shall understand what a teacher </s>
+    <s>He has sent you </s>
+    <s>Those that were before them deceived them in regard to their prophet </s>
+    <s>And how came they to reject him </s>
+    <s>Did they not see in the heavens above them how the fowls of the air receive with pleasure that which is sent them </s>
+    <s>God looks after all </s>
+    <s>Believe ye it is He who supplies your wants that you may take
+
+<pb n="https://www.loc.gov/resource/amedsaid1831.dw027/?sp=3&amp;st=text"/>
+
+his gifts to enjoy them take great pleasure in them </s>>
+    
+    <s>And now will you go on in error or walk in the path of righteousness </s>>
+    
+    <s>Say to them </s>>
+    
+    <s>He who regards you with care who has made for you the heavens the earth gives you prosperity </s>>
+    
+    <s>Him you think little of </s>>
+    
+    <s>This is He that planted you in the earth to whom you are soon to be gathered </s>>
+    
+    <s>But they say </s>>
+    
+    <s>If you are men of truth tell us when shall this promise be fulfilled </s>>
+    
+    <s>Say to them </s>>
+    
+    <s>Does not God know am not I an evident Prophet </s>>
+    
+    <s>When those who disbelieve shall see the things draw near before their faces it shall then be told them these are the things about which you made inquiry </s>>
+    
+    <s>Have you seen that God has destroyed me or those with me or rather that He has shewn us mercy </s>>
+    
+    <s>And who will defend the unbeliever from a miserable punishment </s>>
+    
+    <s>Say Knowledge is from God </s>>
+    
+    <s>Say Have you not seen that your water has become impure </s>>
+    
+    <s>Who will bring you fresh water from the fountain?</s></p>
+
+<pb n="https://www.loc.gov/resource/amedsaid1831.dw027/?sp=4&amp;st=text"/>
+
+<p><s>O Sheikh Hunter I cannot write my life because I have forgotten much of my own language, as well as <corr>of</corr> the Arabic.</s>
+
+<s>Do not be hard upon me, my brother.—</s>
+
+<s>To God let many thanks be paid for his great mercy &amp; goodness.</s></p>
+
+<note>Page 14</note> 
+
+<p><s>In the name of God the Gracious, the Merciful.</s>— </p>
+    <p><s>Thanks be to God, supreme in goodness &amp; kindness, &amp; grace who is worthy of all honor, who created all things for his service, even man's power of action of speech.</s>
+
+<s>From Omar to Sheikh Hunter.</s>
+
+<s>You asked me to write my life.</s>
+
+<s>I am not able to do this because I have much forgotten my own, as well as the Arabic language.</s>
+
+<s>Neither can I write very grammatically or according to the true idiom.</s>
+
+    <s>And so my brother, I beg you, in God's name, not to chide me, for I am a man of weak eyes, &amp; of a weak body.</s></p>
+    
+    <p><s>My name is Omar ibn Seid.<note>(son of Seid)</note></s>
+
+
+
+
+<pb n="https://www.loc.gov/resource/amedsaid1831.dw027/?sp=5&amp;st=text"/>
+
+    <s>My birthplace was Fut Tûr <note resp="different-hand" rend="superscript">Fouta Toro</note>, between the two rivers.</s>
+
+<s><note>(Mesopotamia in Africa?)</note> I sought knowledge under the instruction of <corr resp="2">a</corr> Sheikh called Mohammed Seid, my own brother, &amp; Sheikh Soleiman Kembeh, &amp; Sheikh Gabriel Abdal.</s>
+
+<s>I continued my studies twenty five years, &amp; then returned to my home where I remained six years.</s>
+
+<s>Then there came to our place a large army, who killed many men, &amp; took me, &amp; brought me to the great sea, &amp; sold me into the hands of the Christians <corr resp="1">who bound me</corr> &amp; sent me on board a great ship &amp; <corr>we</corr> sailed upon the great sea a month &amp; a half when we came to a place called Charleston in the Christian language.</s>
+
+<s>There they sold me to a small, weak, &amp; wicked man called Johnson, a complete infidel, who had no fear of God at all.</s>
+
+<s>Now I am a small man, &amp; unable to do hard work so I fled from <corr n="1">the hand of</corr> Johnson &amp; after a month came to a place called Faydil <note>(Fayetteville?)</note> Here I saw some great houses <note>(churches)</note>.</s>
+        <s>On the new moon I went into a church to pray.</s>
+
+<s>A lad saw me &amp; rode off to the place of his father &amp; informed him that he had seen a black man in the church.</s>
+
+<s>A
+
+<pb n="https://www.loc.gov/resource/amedsaid1831.dw027/?sp=6&amp;st=text"/>
+
+man named Handah <note>(Hunter?)</note> &amp; another man with him on horseback came attended by a troop of dogs.</s>
+
+<s>They took me &amp; made me go with them twelve miles to a place called Fayd-il<note>(?)</note> where they put me into a great house from which I could not go out.</s>
+
+<s>I continued in the great house (which in the Christian language they called <hi rend="underlin">jail</hi>) sixteen days &amp; nights.</s>
+
+<s>One Friday the jailor came &amp; opened the door of the house &amp;  I saw a great many men all Christians, some of whom called out to me "what is your name? Is it Omar or Seid?"</s>
+
+<s>I did not understand their Christian language.</s>
+
+<s>A man called Bob Mumford took me <corr>&amp;  led me</corr> out of the jail, &amp;  I was very well pleased to go with them to their place.</s>
+
+    <s>I staid at Mumford's four days nights, &amp; then a man named Jim Owen, son in law of Mumford, who married his daughter Betsey asked me if I was willing to go to a place called Bladen. <note>(B. Co., N.C.)</note></s>
+
+     <s>I said, Yes.</s>
+
+<s>I was willing.</s>
+
+<s>I went with them &amp; have remained in the place <note>(house?)</note> of Jim Owen until now.</s></p>
+
+    <p><s>Before <note>after?</note> I came into the hand of Gen Owen
+
+<pb n="https://www.loc.gov/resource/amedsaid1831.dw027/?sp=7&amp;st=text"/>
+
+a man by the name of Mitchell came to buy me.</s>
+
+<s>He asked me if I were willing to go to Charleston City.</s>
+
+        <s>I said "<hi rend="underline">no, no, no, no, no, no, no.</hi></s>
+
+    <s>I <corr n="grc">am</corr> not willing to go to Charleston.</s>
+
+<s>I stay in the hand of Jim Owen."</s></p>
+    <p>
+    <s>O ye people of N. Carolina, O ye people of S. Carolina, O ye people of America, all of you have you among you any two such men as Jim Owen &amp; John Owen.</s>
+
+<s>These men are good men.</s>
+
+<s>What food they eat they give to me to eat.</s>
+
+<s>As they clothe themselves they clothe me.</s>
+
+<s>They permit me to read the gospel of God, our Lord Saviour &amp; King, who regulates all our circumstances, our health &amp; wealth, who bestows his mercies willingly, not by constraint.</s>
+
+<s>According to <corr>my</corr> power I open my heart as to a great light to receive the true way, the way of the Lord Jesus the Messiah.</s></p>
+
+
+<p><s>Before I came to the Christian country my religion was the religion of "<hi rend="underline">Mohammed the Apostle of God, may God have mercy upon him, &amp;  give him peace</hi>."</s>>
+    
+    <s>I walked to the mosque before daybreak, washed my face &amp; head &amp; hands &amp; feet I prayed at noon, prayed in the afternoon, prayed at sunset, pray-
+
+<pb n="https://www.loc.gov/resource/amedsaid1831.dw027/?sp=8&amp;st=text"/>
+
+ed in the evening.</s>
+
+<s>I gave alms every year, gold, silver, seeds, cattle, sheep, goats, rice, wheat, &amp;  barley.</s>
+
+<s>I gave tithes of all the above-named things.</s>
+
+<s>I went every year to the holy war against the infidels.</s>
+
+<s>I went on pilgrimage to Mecca, as all did who were able.-- </s>
+
+<s>My father had six sons &amp;  five daughters, &amp;  my mother had three sons &amp; one daughter.</s>
+
+<s>When I left my country I was thirty seven years old; --</s>
+    <s>I have been in the country of the Christians twenty four years.</s>
+
+<s>-- Written A.D. 1831 <note resp="3?">Written in year one thousand eight hundred and thirty of Jesus the messiah</note></s></p>
+
+    <p><s>O ye people of N. Carolina, O ye people of S. Carolina, O all ye people of America the first son of Jim Owen is called Thomas, his sister is called Masa-jein. <note>(Martha Jane?)</note> </s>
+
+<s>This is an excellent family.</s>
+
+</p>
+
+<p><s>Tom Owen Nell Owen have two sons &amp; a daughter.</s>
+    <s>The first son is called Jim &amp; the second John.</s>
+    <s>The daughter is named Melissa.</s></p>
+
+    <p>
+    <s>Seid Jim Owen &amp; his wife Betsey have two sons &amp; five daughters.</s>
+    <s>Their names are Tom, John, Mercy, Miriam, Sophia, Margaret, &amp; Eliza.</s>
+    <s>This family is a very nice family </s></p>
+
+<pb n="https://www.loc.gov/resource/amedsaid1831.dw027/?sp=9&amp;st=text"/>
+
+
+<p><s>The wife of John Owen is called Louisa &amp; an excellent wife she is.</s>
+    <s>She had five children. </s>
+    <s>Three of them died two are still living.</s></p>
+
+    <p>
+    <s>O ye Americans, ye people of N Carolina — have you, have you, have you among you a family like this family having so much love to God as they? </s></p>
+    <milestone unit="break"/>
+    <p>
+    <s>Formerly I Omar loved to read the book of the Koran the famous.</s>
+    <s>Gen Jim Owen &amp; his wife used to read the gospel, &amp; they read it to me very much,— the gospel of God, our Lord, our Creator, our King. </s>
+    <s>He that orders all our circumstances &amp; health &amp; wealth ,willingly not constrainedly, according to his power.—</s>
+    <s>Open thou my heart to the gospel, to the way of uprightness.—</s>
+    <s>Thanks to the Lord of all worlds, thanks in abundance. </s>
+    <s>He is plenteous in mercy &amp; abundant in goodness.</s></p>
+
+    <p>
+    <s>For the law was given by Moses but grace &amp; truth were by Jesus the Messiah. </s></p>
+
+    <p>
+    <s>When I was a Mohammedan I prayed thus: </s>
+    
+    <s>Thanks be to God Lord of all worlds the merciful the gra-
+
+<pb n="https://www.loc.gov/resource/amedsaid1831.dw027/?sp=10&amp;st=text"/>
+
+cious, Lord of the day of Judgment, thee we serve, on thee we call for help.</s>
+    <s>Direct us in the right way, the way of those on whom thou hast had mercy, with whom thou has not been angry &amp; who walk not in error </s>
+    <s>Amen." </s>
+    <s>But now I pray "Our Father" etc. in the words of our Lord Jesus the Messiah. </s></p>
+    <milestone unit="break"/>
+
+    <p>
+    <s>I reside in this our country by reason of great necessity. </s>
+    <s>Wicked men took me by violence &amp; sold me to the Christians. </s>
+    <s>We sailed a month a half on the great sea to the place called Charleston in the Christian land. </s>
+    <s>I fell into the hand of a small weak wicked man who feared not God at all, nor did he read (the gospel)at all nor pray, </s>
+    <s>I was afraid to remain with a man so depraved who committed so many crimes  &amp; I ran away. </s>
+    <s>After a month our Lord God brought me forward to the hand of a good man, who fears God  &amp; loves to do good, &amp;  whose name is Jim Owen &amp; whose brother is called Col. John Owen. </s>
+    <s>These are two excellent men.— </s>
+    <s>I am residing in Bladen county. </s></p>
+
+    <p>
+    <s>I continue in the hand of Jim Owen who never beats me, nor scolds me.</s>
+    
+    <s>I neither go hungry
+
+<pb n="https://www.loc.gov/resource/amedsaid1831.dw027/?sp=11&amp;st=text"/>
+
+nor naked, &amp; I have no hard work to do.</s>
+
+<s>I am not able to do hard work for I am a small man &amp; feeble.</s>
+
+<s>During the last twenty years I have known no want in the hand of Jim Owen.
+</s></p>
+</body></text></TEI>
